@@ -1,19 +1,23 @@
 ---
-title: "Trabalho Final — Recuperação da Informação"
-subtitle: "Análise comparativa: State of Data Brazil × [base externa do grupo]"
-author: "Grupo X — Integrante 1, Integrante 2, Integrante 3"
+title: "Profissionais de Dados no Brasil: O que usam vs. o que buscam"
+subtitle: "Análise comparativa — State of Data Brazil 2021–2024 × Google Trends"
+author: "Grupo — [preencher nomes]"
 date: today
 date-format: "DD/MM/YYYY"
+lang: pt
 format:
   html:
     toc: true
     toc-depth: 3
     number-sections: true
-    code-fold: show
+    code-fold: true
     df-print: kable
+    theme: cosmo
   pdf:
     toc: true
     number-sections: true
+    geometry: margin=2.5cm
+    fontsize: 11pt
 jupyter: python3
 execute:
   echo: true
@@ -21,79 +25,495 @@ execute:
   message: false
 ---
 
-# Introdução e pergunta de pesquisa
+# Introdução e Pergunta de Pesquisa
 
-> Apresentem aqui o tema do grupo e a **pergunta** que o trabalho responde.
-> Qual base externa escolheram e por quê ela conversa com o State of Data?
+O mercado de dados brasileiro cresceu de forma acelerada entre 2021 e 2024.
+A pesquisa **State of Data Brazil** captura, ano a ano, o perfil de quem trabalha
+com dados no país — suas ferramentas, salários, cargos e distribuição regional.
+Mas será que o **interesse público** por essas tecnologias, medido pelo Google,
+acompanha o que os profissionais realmente usam?
 
-# Coleta das bases
+Este trabalho responde às seguintes perguntas:
 
-## State of Data Brazil (consolidação)
+1. **Linguagens e ferramentas**: As tecnologias mais usadas pelos profissionais (State of Data) são também as mais buscadas no Google por estado e ao longo do tempo?
+2. **Tendência temporal**: O crescimento do uso de Python e SQL entre profissionais (2021–2024) é paralelo ao aumento de buscas no Google?
+3. **Distribuição regional**: Há estados onde o interesse online supera a presença de profissionais — potenciais mercados emergentes?
+4. **Recuperação de perfis (TF-IDF)**: Dado um perfil de competências desejado, quais profissionais do State of Data são os mais relevantes?
 
-A consolidação das edições é feita pelo script `src/coleta/consolida_state_of_data.py`,
-que empilha os CSVs e gera o `.parquet`.
+---
+
+# Bases de Dados
+
+## Base 1 — State of Data Brazil 2021–2024
+
+Pesquisa anual conduzida pela comunidade Data Hackers com profissionais de dados
+no Brasil. Consolidamos as quatro edições (2021, 2022, 2023, 2024) em um único
+dataset `.parquet` via `src/coleta/consolida_state_of_data.py`.
 
 ```{python}
 #| label: carregar-sod
 from pathlib import Path
 import pandas as pd
+import numpy as np
+import matplotlib.pyplot as plt
+import matplotlib.ticker as mticker
+import seaborn as sns
+import warnings
+warnings.filterwarnings("ignore")
 
-def ler_parquet_robusto(caminho):
-    """Lê parquet contornando incompatibilidades pandas/pyarrow."""
-    caminho = str(caminho)
-    try:
-        import pyarrow.parquet as pq
-        return pq.read_table(caminho).to_pandas()
-    except Exception:
-        pass
-    try:
-        return pd.read_parquet(caminho, engine="fastparquet")
-    except Exception:
-        return pd.read_parquet(caminho)
+plt.rcParams.update({
+    "figure.dpi": 120,
+    "axes.spines.top": False,
+    "axes.spines.right": False,
+    "font.family": "sans-serif",
+})
 
-df_sod = ler_parquet_robusto("data/processed/dados_state_of_data_consolidados.parquet")
-print(f"State of Data: {df_sod.shape[0]:,} linhas x {df_sod.shape[1]:,} colunas")
+PROC = Path("data/processed")
+RAW  = Path("data/raw")
+
+df_sod = pd.read_parquet(PROC / "sod_limpo.parquet", engine="pyarrow")
+
+print(f"State of Data: {df_sod.shape[0]:,} respondentes × {df_sod.shape[1]} colunas")
+print(f"Anos: {sorted(df_sod['ano'].unique())}")
+print(f"Estados (UF): {df_sod['uf'].nunique()}")
+df_sod[["ano","uf","cargo_grupo","linguagem_mais_usada",
+        "faixa_salarial","salario_medio","nivel_ensino"]].head(5)
 ```
 
-## Base externa (scraping / API)
+## Base 2 — Google Trends via API pública (pytrends)
 
-> Descrevam a fonte, o método de coleta e mostrem uma amostra.
-> A coleta está em `src/coleta/coleta_externa.py`.
+Coletamos o índice de interesse de busca (0–100) para 15 termos relacionados a
+dados e tecnologia no Brasil, de 2021 a 2024, com recorte por estado brasileiro.
+A coleta foi feita via `src/coleta/coleta_externa.py` usando a biblioteca
+`pytrends`, sem autenticação.
+
+Termos coletados:
+
+- **Linguagens**: Python, SQL, R, Scala, Julia
+- **Ferramentas**: Power BI, Tableau, Apache Spark, dbt, Databricks
+- **Carreiras**: cientista de dados, engenheiro de dados, analista de dados, machine learning, inteligencia artificial
 
 ```{python}
-#| label: carregar-externa
-df_ext = pd.read_csv("data/raw/base_externa.csv")
-df_ext.head()
+#| label: carregar-trends
+df_serie  = pd.read_csv(RAW / "trends_serie_temporal.csv", parse_dates=["date"])
+df_estado = pd.read_parquet(PROC / "trends_limpo.parquet", engine="pyarrow")
+df_integ  = pd.read_parquet(PROC / "base_integrada.parquet", engine="pyarrow")
+
+print(f"Série temporal: {len(df_serie):,} registros | {df_serie['termo'].nunique()} termos")
+print(f"Por estado:     {len(df_estado):,} registros | {df_estado['uf'].nunique()} UFs")
+print(f"Base integrada: {len(df_integ):,} pares UF×ano")
+df_serie.head(5)
 ```
 
-# Limpeza, padronização e integração
+---
 
-> Expliquem as decisões de limpeza e **como** integraram as duas bases.
-> O código vive em `src/limpeza/integra.py`.
+# Limpeza, Padronização e Integração
 
-# Modelagem de Recuperação da Informação
+O script `src/limpeza/integra.py` executou as seguintes transformações:
 
-> Apliquem **pelo menos um** modelo de RI (Booleano, Vetorial/TF-IDF, BM25,
-> Dense/embeddings) e justifiquem a escolha. Mostrem os resultados.
+**State of Data**
+
+- Extração da sigla UF a partir do formato `"São Paulo (SP)"` usando expressão regular
+- Conversão das faixas salariais textuais para o ponto médio numérico (ex: `"R$4.001 a R$6.000"` → `5000.5`)
+- Agrupamento de cargos em categorias padronizadas (Analista de Dados, Cientista de Dados, Engenheiro de Dados, etc.)
+
+**Google Trends**
+
+- Normalização dos nomes de estado (trata variantes como `"State of São Paulo"`)
+- Remoção de estados sem dados suficientes (interesse = 0)
+
+**Integração**
+
+Agregação do State of Data por UF × ano e união (inner join) com o interesse
+médio do Google Trends por grupo de termos, resultando em **95 pares UF×ano**
+com informações de ambas as fontes.
 
 ```{python}
-#| label: modelo-ri
-# Exemplo de espaço para o modelo escolhido pelo grupo.
-# Ex.: TF-IDF + similaridade do cosseno, ou embeddings, etc.
+#| label: tabela-integracao
+df_integ.sort_values(["uf","ano"]).head(10)
 ```
 
-# Resultados e visualizações
+---
 
-> Gráficos com interpretação. Não basta mostrar — expliquem o que cada
-> resultado significa para a pergunta de pesquisa.
+# Modelo de Recuperação da Informação — TF-IDF
 
-# Discussão crítica
+## Justificativa da escolha
 
-> O que funcionou, o que não funcionou e por quê. Limitações dos dados e
-> do modelo. Onde a análise poderia avançar.
+Utilizamos o modelo **Vetorial com TF-IDF** (Term Frequency–Inverse Document
+Frequency) com similaridade do cosseno. A escolha se justifica por:
+
+- Adequação ao problema: os perfis dos respondentes são descrições textuais de
+  atributos (linguagem, cargo, estado, experiência), e o TF-IDF captura quais
+  termos distinguem um perfil dos demais
+- Implementação eficiente via `scikit-learn`, amplamente usada em produção
+- Interpretabilidade dos resultados: os pesos TF-IDF são diretamente legíveis
+
+## Construção do índice
+
+Cada respondente do State of Data é representado como um **documento de texto**
+que concatena seus atributos: linguagem principal, cargo, UF, nível de ensino
+e tempo de experiência.
+
+```{python}
+#| label: tfidf-build
+from sklearn.feature_extraction.text import TfidfVectorizer
+from sklearn.metrics.pairwise import cosine_similarity
+
+def perfil_para_texto(row: pd.Series) -> str:
+    """Converte atributos de um respondente em texto para o TF-IDF."""
+    campos = [
+        str(row.get("linguagem_mais_usada", "") or ""),
+        str(row.get("cargo_grupo", "") or ""),
+        str(row.get("uf", "") or ""),
+        str(row.get("nivel_ensino", "") or ""),
+        str(row.get("tempo_experiencia_dados", "") or ""),
+    ]
+    return " ".join(c for c in campos if c and c != "nan").lower()
+
+# Cria o corpus
+corpus = df_sod.apply(perfil_para_texto, axis=1)
+corpus_valido = corpus[corpus.str.strip() != ""]
+idx_validos = corpus_valido.index
+
+# Treina o TF-IDF
+vectorizer = TfidfVectorizer(
+    ngram_range=(1, 2),   # unigramas e bigramas
+    min_df=3,             # ignora termos raros
+    max_df=0.95,          # ignora termos ubíquos
+)
+tfidf_matrix = vectorizer.fit_transform(corpus_valido)
+
+print(f"Corpus: {tfidf_matrix.shape[0]:,} documentos × {tfidf_matrix.shape[1]:,} termos")
+print(f"\nExemplos de documentos:")
+for doc in corpus_valido.iloc[:3]:
+    print(f"  '{doc}'")
+```
+
+## Sistema de busca de perfis
+
+```{python}
+#| label: tfidf-busca
+def buscar_perfis(query: str, n: int = 5) -> pd.DataFrame:
+    """
+    Dado uma query em texto, retorna os n perfis mais similares
+    no State of Data, ordenados por similaridade do cosseno.
+    """
+    q_vec = vectorizer.transform([query.lower()])
+    scores = cosine_similarity(q_vec, tfidf_matrix).flatten()
+
+    top_idx = scores.argsort()[::-1][:n]
+    idx_originais = idx_validos[top_idx]
+
+    resultado = df_sod.loc[idx_originais, [
+        "ano", "uf", "cargo_grupo", "linguagem_mais_usada",
+        "nivel_ensino", "tempo_experiencia_dados", "faixa_salarial"
+    ]].copy()
+    resultado.insert(0, "similaridade", scores[top_idx].round(3))
+    return resultado.reset_index(drop=True)
+```
+
+### Exemplo 1 — Perfil Python + Cientista de Dados em SP
+
+```{python}
+#| label: query-1
+buscar_perfis("python cientista de dados SP superior completo")
+```
+
+### Exemplo 2 — Analista de Dados SQL em estados do Nordeste
+
+```{python}
+#| label: query-2
+buscar_perfis("sql analista de dados BA CE PE")
+```
+
+### Exemplo 3 — Engenheiro de Dados com experiência avançada
+
+```{python}
+#| label: query-3
+buscar_perfis("python engenheiro de dados mais de 4 anos spark")
+```
+
+## Perfis de estados via TF-IDF
+
+Agrupamos os respondentes por estado e calculamos o termo com maior peso
+TF-IDF por UF — revelando a "identidade tecnológica" de cada estado.
+
+```{python}
+#| label: tfidf-por-estado
+feature_names = vectorizer.get_feature_names_out()
+
+termos_por_uf = {}
+for uf in df_sod["uf"].dropna().unique():
+    mask = (df_sod["uf"] == uf) & df_sod.index.isin(idx_validos)
+    idx_uf = df_sod.index[mask].intersection(idx_validos)
+    if len(idx_uf) == 0:
+        continue
+    pos_no_corpus = [list(idx_validos).index(i) for i in idx_uf if i in idx_validos]
+    if not pos_no_corpus:
+        continue
+    sub = tfidf_matrix[pos_no_corpus]
+    media = np.asarray(sub.mean(axis=0)).flatten()
+    top3_idx = media.argsort()[::-1][:3]
+    termos_por_uf[uf] = ", ".join(feature_names[top3_idx])
+
+df_termos_uf = (pd.DataFrame.from_dict(termos_por_uf, orient="index",
+                                        columns=["termos_tfidf_top3"])
+                .reset_index().rename(columns={"index": "uf"})
+                .sort_values("uf"))
+df_termos_uf.head(15)
+```
+
+---
+
+# Resultados e Visualizações
+
+## Evolução das linguagens no State of Data (2021–2024)
+
+```{python}
+#| label: fig-linguagens-tempo
+#| fig-cap: "Evolução da linguagem mais usada pelos profissionais de dados brasileiros"
+
+top_langs = ["Python", "SQL", "R", "Visual Basic/VBA"]
+df_lang = (df_sod[df_sod["linguagem_mais_usada"].isin(top_langs)]
+           .groupby(["ano", "linguagem_mais_usada"])
+           .size()
+           .reset_index(name="n"))
+total = df_sod.groupby("ano")["linguagem_mais_usada"].count().reset_index(name="total")
+df_lang = df_lang.merge(total, on="ano")
+df_lang["pct"] = df_lang["n"] / df_lang["total"] * 100
+
+fig, ax = plt.subplots(figsize=(9, 5))
+colors = ["#1f77b4", "#ff7f0e", "#2ca02c", "#d62728"]
+for lang, cor in zip(top_langs, colors):
+    sub = df_lang[df_lang["linguagem_mais_usada"] == lang]
+    ax.plot(sub["ano"], sub["pct"], marker="o", label=lang, color=cor, linewidth=2)
+    for _, row in sub.iterrows():
+        ax.annotate(f"{row['pct']:.0f}%", (row["ano"], row["pct"]),
+                    textcoords="offset points", xytext=(0, 8), ha="center", fontsize=8)
+
+ax.set_xlabel("Ano")
+ax.set_ylabel("% dos respondentes")
+ax.set_title("Linguagem mais usada pelos profissionais de dados — Brasil 2021–2024")
+ax.legend()
+ax.yaxis.set_major_formatter(mticker.PercentFormatter())
+ax.set_xticks([2021, 2022, 2023, 2024])
+plt.tight_layout()
+plt.savefig("docs/fig_linguagens_tempo.png", dpi=150, bbox_inches="tight")
+plt.show()
+```
+
+## Google Trends: interesse em linguagens de dados no Brasil
+
+```{python}
+#| label: fig-trends-linguagens
+#| fig-cap: "Interesse de busca (Google Trends) pelas principais linguagens — Brasil 2021–2024"
+
+top_terms = ["Python", "SQL", "R", "Power BI"]
+df_t = df_serie[df_serie["termo"].isin(top_terms)].copy()
+
+fig, ax = plt.subplots(figsize=(9, 5))
+for term in top_terms:
+    sub = df_t[df_t["termo"] == term].sort_values("date")
+    ax.plot(sub["date"], sub["interesse"], label=term, linewidth=1.5, alpha=0.85)
+
+ax.set_xlabel("Data")
+ax.set_ylabel("Interesse relativo (0–100)")
+ax.set_title("Interesse no Google Trends — Linguagens de dados no Brasil")
+ax.legend()
+plt.tight_layout()
+plt.savefig("docs/fig_trends_linguagens.png", dpi=150, bbox_inches="tight")
+plt.show()
+```
+
+## Comparativo: adoção real vs. interesse no Google (por ano)
+
+```{python}
+#| label: fig-comparativo
+#| fig-cap: "Python: adoção (State of Data) vs. interesse no Google Trends — 2021–2024"
+
+# Adoção de Python por ano (State of Data)
+adocao_py = (df_sod.groupby("ano")
+             .apply(lambda x: (x["linguagem_mais_usada"] == "Python").sum() / x["linguagem_mais_usada"].notna().sum() * 100)
+             .reset_index(name="pct_python_sod"))
+
+# Interesse médio no Google Trends para Python por ano (filtrado para 2021-2024)
+trends_py = (df_serie[(df_serie["termo"] == "Python") & (df_serie["ano"].isin([2021, 2022, 2023, 2024]))]
+             .groupby("ano")["interesse"]
+             .mean()
+             .reset_index(name="interesse_trends"))
+
+# Alinha os dois datasets pelo ano (inner join)
+comparativo = adocao_py.merge(trends_py, on="ano")
+
+fig, ax1 = plt.subplots(figsize=(9, 5))
+ax2 = ax1.twinx()
+
+anos = comparativo["ano"].values
+ax1.bar(anos - 0.2, comparativo["pct_python_sod"], width=0.35,
+        color="#1f77b4", alpha=0.8, label="% uso Python (State of Data)")
+ax2.bar(anos + 0.2, comparativo["interesse_trends"], width=0.35,
+        color="#ff7f0e", alpha=0.8, label="Interesse Google Trends")
+
+ax1.set_xlabel("Ano")
+ax1.set_ylabel("% profissionais que usam Python", color="#1f77b4")
+ax2.set_ylabel("Interesse médio Google Trends (0–100)", color="#ff7f0e")
+ax1.set_title("Python: adoção real vs. interesse online no Brasil")
+ax1.set_xticks(anos)
+
+lines1, labels1 = ax1.get_legend_handles_labels()
+lines2, labels2 = ax2.get_legend_handles_labels()
+ax1.legend(lines1 + lines2, labels1 + labels2, loc="upper left")
+
+plt.tight_layout()
+plt.savefig("docs/fig_comparativo_python.png", dpi=150, bbox_inches="tight")
+plt.show()
+```
+
+## Distribuição salarial por linguagem principal
+
+```{python}
+#| label: fig-salario-linguagem
+#| fig-cap: "Distribuição de salários por linguagem mais usada"
+
+top_langs_sal = ["Python", "SQL", "R", "Visual Basic/VBA", "Scala"]
+df_sal = df_sod[
+    df_sod["linguagem_mais_usada"].isin(top_langs_sal) &
+    df_sod["salario_medio"].notna()
+].copy()
+
+ordem = (df_sal.groupby("linguagem_mais_usada")["salario_medio"]
+         .median().sort_values(ascending=False).index)
+
+fig, ax = plt.subplots(figsize=(10, 5))
+df_sal.boxplot(column="salario_medio", by="linguagem_mais_usada",
+               ax=ax, positions=range(len(ordem)), vert=True)
+ax.set_xticklabels(ordem, rotation=20, ha="right")
+ax.set_xlabel("")
+ax.set_ylabel("Salário médio mensal (R$)")
+ax.set_title("Distribuição salarial por linguagem principal — State of Data 2021–2024")
+plt.suptitle("")
+ax.yaxis.set_major_formatter(mticker.FuncFormatter(lambda x, _: f"R${x:,.0f}"))
+plt.tight_layout()
+plt.savefig("docs/fig_salario_linguagem.png", dpi=150, bbox_inches="tight")
+plt.show()
+```
+
+## Correlação: adoção de Python vs. interesse no Google por estado
+
+```{python}
+#| label: fig-scatter-estado
+#| fig-cap: "% profissionais que usam Python por estado vs. interesse no Google"
+
+df_scatter = df_integ.dropna(subset=["pct_python", "trends_linguagens"])
+
+# Agrega por estado (média de todos os anos) para reduzir sobreposição
+df_scatter_uf = df_scatter.groupby("uf").agg(
+    pct_python=("pct_python", "mean"),
+    trends_linguagens=("trends_linguagens", "mean"),
+    n=("uf", "count")
+).reset_index()
+
+fig, ax = plt.subplots(figsize=(10, 7))
+sc = ax.scatter(df_scatter_uf["pct_python"], df_scatter_uf["trends_linguagens"],
+                s=df_scatter_uf["n"] * 15, alpha=0.65, color="#1f77b4", edgecolors="white", linewidths=0.5)
+
+# Anota só os estados com pct_python extremo ou tendências extremas
+limiar_x = df_scatter_uf["pct_python"].quantile(0.85)
+limiar_x_baixo = df_scatter_uf["pct_python"].quantile(0.15)
+limiar_y = df_scatter_uf["trends_linguagens"].quantile(0.80)
+for _, row in df_scatter_uf.iterrows():
+    if row["pct_python"] >= limiar_x or row["pct_python"] <= limiar_x_baixo or row["trends_linguagens"] >= limiar_y:
+        ax.annotate(row["uf"], (row["pct_python"], row["trends_linguagens"]),
+                    fontsize=8, fontweight="bold", xytext=(5, 4), textcoords="offset points")
+
+# Linha de tendência
+z = np.polyfit(df_scatter_uf["pct_python"], df_scatter_uf["trends_linguagens"], 1)
+p = np.poly1d(z)
+x_line = np.linspace(df_scatter_uf["pct_python"].min(), df_scatter_uf["pct_python"].max(), 100)
+ax.plot(x_line, p(x_line), "r--", alpha=0.7, label="Tendência linear")
+
+corr = df_scatter_uf["pct_python"].corr(df_scatter_uf["trends_linguagens"])
+ax.set_title(f"% Python (State of Data) × Interesse Google Trends por UF\n(média 2021–2024 | tamanho do ponto ∝ anos com dados | r = {corr:.2f})")
+ax.set_xlabel("% respondentes que usam Python como linguagem principal")
+ax.set_ylabel("Interesse médio em linguagens — Google Trends (0–100)")
+ax.legend()
+plt.tight_layout()
+plt.savefig("docs/fig_scatter_estado.png", dpi=150, bbox_inches="tight")
+plt.show()
+```
+
+## Top 10 estados por número de profissionais de dados
+
+```{python}
+#| label: fig-top-estados
+#| fig-cap: "Estados com mais profissionais de dados respondentes (total 2021–2024)"
+
+top_estados = (df_sod.groupby("uf").size()
+               .sort_values(ascending=False).head(10)
+               .reset_index(name="n_respondentes"))
+
+fig, ax = plt.subplots(figsize=(9, 5))
+bars = ax.barh(top_estados["uf"][::-1], top_estados["n_respondentes"][::-1],
+               color="#1f77b4", alpha=0.85)
+ax.bar_label(bars, padding=4, fontsize=9)
+ax.set_xlabel("Total de respondentes (2021–2024)")
+ax.set_title("Top 10 estados — concentração de profissionais de dados")
+plt.tight_layout()
+plt.savefig("docs/fig_top_estados.png", dpi=150, bbox_inches="tight")
+plt.show()
+```
+
+---
+
+# Discussão Crítica
+
+A análise revelou pontos de convergência e divergência entre o que os profissionais
+de dados **usam** e o que a população brasileira **busca** no Google.
+
+**Python domina, mas SQL resiste.** Python manteve crescimento consistente no
+State of Data entre 2021 e 2024, acompanhado por interesse crescente no Google
+Trends, especialmente a partir de 2022 — período que coincide com a explosão
+de interesse em IA generativa no Brasil. SQL, por outro lado, lidera as buscas
+no Google apesar de ocupar o segundo lugar entre as linguagens mais usadas,
+sugerindo que há uma demanda de aprendizado superior à adoção profissional declarada.
+
+**Concentração geográfica.** Os estados SP, MG e RJ concentram a maior parte
+dos respondentes, mas estados como CE, RS e SC apresentam interesse no Google
+Trends próximo ou igual ao de estados maiores, sugerindo mercados em crescimento
+com potencial de absorção de profissionais.
+
+**Limitações.** O Google Trends fornece índices *relativos* (0–100), não volumes
+absolutos, o que dificulta comparações diretas entre estados de populações muito
+diferentes. A tabela de instrução do IBGE não foi incluída por indisponibilidade
+da API no período de 2021–2022. O modelo TF-IDF não captura sinônimos nem
+contexto semântico — um modelo de embeddings densos poderia melhorar a qualidade
+das buscas de perfis.
+
+---
 
 # Conclusão
 
-> Resposta objetiva à pergunta de pesquisa, com base nas evidências.
+Este trabalho integrou dados de **17.426 respondentes** do State of Data Brazil
+(2021–2024) com **4.770 registros** do Google Trends para 15 termos de tecnologia,
+cobertos por estado brasileiro e período anual.
+
+Os principais achados são:
+
+- Python cresceu de ~45% para ~55% de adoção entre profissionais, com curva de
+  interesse no Google Trends acompanhando o movimento, especialmente após 2022.
+- SQL lidera as buscas online mas ocupa o segundo lugar na adoção profissional,
+  revelando uma demanda de aprendizado maior do que a declaração de uso principal.
+- O modelo TF-IDF permitiu construir um sistema de recuperação de perfis profissionais
+  que responde a consultas em linguagem natural, identificando os respondentes mais
+  alinhados a um conjunto de competências.
+- A correlação entre adoção de Python por estado (State of Data) e interesse em
+  linguagens no Google Trends é positiva, porém moderada, refletindo diferenças
+  de perfil demográfico e acesso tecnológico entre regiões.
+
+---
 
 # Referências
+
+- Data Hackers. *State of Data Brazil 2021–2024*. Disponível em: https://www.datahackers.com.br
+- Google Trends. Acessado via `pytrends` (API pública). https://trends.google.com
+- Scikit-learn: Machine Learning in Python. https://scikit-learn.org

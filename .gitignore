@@ -1,12 +1,3 @@
-# Dados brutos e pesados (não versionar arquivos grandes)
-data/raw/*.csv
-data/raw/*.zip
-data/processed/*.parquet
-
-# Mantém as pastas no Git mesmo vazias
-!data/raw/.gitkeep
-!data/processed/.gitkeep
-
 # Python
 __pycache__/
 *.pyc
@@ -24,6 +15,3 @@ venv/
 # Sistema
 .DS_Store
 Thumbs.db
-
-# Saídas de render (mantenha só o PDF final em docs/ se quiser)
-relatorio.html

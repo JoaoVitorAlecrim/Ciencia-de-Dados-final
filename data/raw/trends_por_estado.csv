@@ -1,0 +1,1621 @@
+﻿estado,estado_codigo,termo,interesse,ano,grupo
+Acre,BR-AC,Python,11,2021,linguagens
+Alagoas,BR-AL,Python,12,2021,linguagens
+Amapá,BR-AP,Python,8,2021,linguagens
+Amazonas,BR-AM,Python,12,2021,linguagens
+Bahia,BR-BA,Python,10,2021,linguagens
+Ceará,BR-CE,Python,15,2021,linguagens
+Distrito Federal,BR-DF,Python,22,2021,linguagens
+Espírito Santo,BR-ES,Python,14,2021,linguagens
+Goiás,BR-GO,Python,11,2021,linguagens
+Maranhão,BR-MA,Python,8,2021,linguagens
+Mato Grosso,BR-MT,Python,7,2021,linguagens
+Mato Grosso do Sul,BR-MS,Python,9,2021,linguagens
+Minas Gerais,BR-MG,Python,12,2021,linguagens
+Paraná,BR-PR,Python,11,2021,linguagens
+Paraíba,BR-PB,Python,13,2021,linguagens
+Pará,BR-PA,Python,9,2021,linguagens
+Pernambuco,BR-PE,Python,12,2021,linguagens
+Piauí,BR-PI,Python,9,2021,linguagens
+Rio Grande do Norte,BR-RN,Python,14,2021,linguagens
+Rio Grande do Sul,BR-RS,Python,12,2021,linguagens
+Rio de Janeiro,BR-RJ,Python,13,2021,linguagens
+Rondônia,BR-RO,Python,8,2021,linguagens
+Roraima,BR-RR,Python,7,2021,linguagens
+Santa Catarina,BR-SC,Python,13,2021,linguagens
+Sergipe,BR-SE,Python,12,2021,linguagens
+São Paulo,BR-SP,Python,15,2021,linguagens
+Tocantins,BR-TO,Python,11,2021,linguagens
+Acre,BR-AC,SQL,4,2021,linguagens
+Alagoas,BR-AL,SQL,4,2021,linguagens
+Amapá,BR-AP,SQL,3,2021,linguagens
+Amazonas,BR-AM,SQL,4,2021,linguagens
+Bahia,BR-BA,SQL,4,2021,linguagens
+Ceará,BR-CE,SQL,5,2021,linguagens
+Distrito Federal,BR-DF,SQL,12,2021,linguagens
+Espírito Santo,BR-ES,SQL,6,2021,linguagens
+Goiás,BR-GO,SQL,5,2021,linguagens
+Maranhão,BR-MA,SQL,3,2021,linguagens
+Mato Grosso,BR-MT,SQL,5,2021,linguagens
+Mato Grosso do Sul,BR-MS,SQL,4,2021,linguagens
+Minas Gerais,BR-MG,SQL,7,2021,linguagens
+Paraná,BR-PR,SQL,6,2021,linguagens
+Paraíba,BR-PB,SQL,4,2021,linguagens
+Pará,BR-PA,SQL,3,2021,linguagens
+Pernambuco,BR-PE,SQL,4,2021,linguagens
+Piauí,BR-PI,SQL,2,2021,linguagens
+Rio Grande do Norte,BR-RN,SQL,4,2021,linguagens
+Rio Grande do Sul,BR-RS,SQL,7,2021,linguagens
+Rio de Janeiro,BR-RJ,SQL,6,2021,linguagens
+Rondônia,BR-RO,SQL,5,2021,linguagens
+Roraima,BR-RR,SQL,2,2021,linguagens
+Santa Catarina,BR-SC,SQL,9,2021,linguagens
+Sergipe,BR-SE,SQL,6,2021,linguagens
+São Paulo,BR-SP,SQL,10,2021,linguagens
+Tocantins,BR-TO,SQL,6,2021,linguagens
+Acre,BR-AC,R,61,2021,linguagens
+Alagoas,BR-AL,R,59,2021,linguagens
+Amapá,BR-AP,R,63,2021,linguagens
+Amazonas,BR-AM,R,51,2021,linguagens
+Bahia,BR-BA,R,60,2021,linguagens
+Ceará,BR-CE,R,56,2021,linguagens
+Distrito Federal,BR-DF,R,47,2021,linguagens
+Espírito Santo,BR-ES,R,54,2021,linguagens
+Goiás,BR-GO,R,59,2021,linguagens
+Maranhão,BR-MA,R,64,2021,linguagens
+Mato Grosso,BR-MT,R,63,2021,linguagens
+Mato Grosso do Sul,BR-MS,R,60,2021,linguagens
+Minas Gerais,BR-MG,R,54,2021,linguagens
+Paraná,BR-PR,R,60,2021,linguagens
+Paraíba,BR-PB,R,56,2021,linguagens
+Pará,BR-PA,R,59,2021,linguagens
+Pernambuco,BR-PE,R,59,2021,linguagens
+Piauí,BR-PI,R,69,2021,linguagens
+Rio Grande do Norte,BR-RN,R,58,2021,linguagens
+Rio Grande do Sul,BR-RS,R,55,2021,linguagens
+Rio de Janeiro,BR-RJ,R,54,2021,linguagens
+Rondônia,BR-RO,R,66,2021,linguagens
+Roraima,BR-RR,R,67,2021,linguagens
+Santa Catarina,BR-SC,R,53,2021,linguagens
+Sergipe,BR-SE,R,58,2021,linguagens
+São Paulo,BR-SP,R,54,2021,linguagens
+Tocantins,BR-TO,R,59,2021,linguagens
+Acre,BR-AC,Scala,1,2021,linguagens
+Alagoas,BR-AL,Scala,0,2021,linguagens
+Amapá,BR-AP,Scala,0,2021,linguagens
+Amazonas,BR-AM,Scala,0,2021,linguagens
+Bahia,BR-BA,Scala,1,2021,linguagens
+Ceará,BR-CE,Scala,0,2021,linguagens
+Distrito Federal,BR-DF,Scala,1,2021,linguagens
+Espírito Santo,BR-ES,Scala,0,2021,linguagens
+Goiás,BR-GO,Scala,1,2021,linguagens
+Maranhão,BR-MA,Scala,1,2021,linguagens
+Mato Grosso,BR-MT,Scala,1,2021,linguagens
+Mato Grosso do Sul,BR-MS,Scala,2,2021,linguagens
+Minas Gerais,BR-MG,Scala,1,2021,linguagens
+Paraná,BR-PR,Scala,1,2021,linguagens
+Paraíba,BR-PB,Scala,1,2021,linguagens
+Pará,BR-PA,Scala,1,2021,linguagens
+Pernambuco,BR-PE,Scala,1,2021,linguagens
+Piauí,BR-PI,Scala,1,2021,linguagens
+Rio Grande do Norte,BR-RN,Scala,0,2021,linguagens
+Rio Grande do Sul,BR-RS,Scala,1,2021,linguagens
+Rio de Janeiro,BR-RJ,Scala,0,2021,linguagens
+Rondônia,BR-RO,Scala,0,2021,linguagens
+Roraima,BR-RR,Scala,1,2021,linguagens
+Santa Catarina,BR-SC,Scala,1,2021,linguagens
+Sergipe,BR-SE,Scala,0,2021,linguagens
+São Paulo,BR-SP,Scala,1,2021,linguagens
+Tocantins,BR-TO,Scala,0,2021,linguagens
+Acre,BR-AC,Julia,23,2021,linguagens
+Alagoas,BR-AL,Julia,25,2021,linguagens
+Amapá,BR-AP,Julia,26,2021,linguagens
+Amazonas,BR-AM,Julia,33,2021,linguagens
+Bahia,BR-BA,Julia,25,2021,linguagens
+Ceará,BR-CE,Julia,24,2021,linguagens
+Distrito Federal,BR-DF,Julia,18,2021,linguagens
+Espírito Santo,BR-ES,Julia,26,2021,linguagens
+Goiás,BR-GO,Julia,24,2021,linguagens
+Maranhão,BR-MA,Julia,24,2021,linguagens
+Mato Grosso,BR-MT,Julia,24,2021,linguagens
+Mato Grosso do Sul,BR-MS,Julia,25,2021,linguagens
+Minas Gerais,BR-MG,Julia,26,2021,linguagens
+Paraná,BR-PR,Julia,22,2021,linguagens
+Paraíba,BR-PB,Julia,26,2021,linguagens
+Pará,BR-PA,Julia,28,2021,linguagens
+Pernambuco,BR-PE,Julia,24,2021,linguagens
+Piauí,BR-PI,Julia,19,2021,linguagens
+Rio Grande do Norte,BR-RN,Julia,24,2021,linguagens
+Rio Grande do Sul,BR-RS,Julia,25,2021,linguagens
+Rio de Janeiro,BR-RJ,Julia,27,2021,linguagens
+Rondônia,BR-RO,Julia,21,2021,linguagens
+Roraima,BR-RR,Julia,23,2021,linguagens
+Santa Catarina,BR-SC,Julia,24,2021,linguagens
+Sergipe,BR-SE,Julia,24,2021,linguagens
+São Paulo,BR-SP,Julia,20,2021,linguagens
+Tocantins,BR-TO,Julia,24,2021,linguagens
+Acre,BR-AC,Power BI,71,2021,ferramentas
+Alagoas,BR-AL,Power BI,88,2021,ferramentas
+Amapá,BR-AP,Power BI,100,2021,ferramentas
+Amazonas,BR-AM,Power BI,92,2021,ferramentas
+Bahia,BR-BA,Power BI,82,2021,ferramentas
+Ceará,BR-CE,Power BI,87,2021,ferramentas
+Distrito Federal,BR-DF,Power BI,86,2021,ferramentas
+Espírito Santo,BR-ES,Power BI,87,2021,ferramentas
+Goiás,BR-GO,Power BI,88,2021,ferramentas
+Maranhão,BR-MA,Power BI,88,2021,ferramentas
+Mato Grosso,BR-MT,Power BI,89,2021,ferramentas
+Mato Grosso do Sul,BR-MS,Power BI,85,2021,ferramentas
+Minas Gerais,BR-MG,Power BI,90,2021,ferramentas
+Paraná,BR-PR,Power BI,87,2021,ferramentas
+Paraíba,BR-PB,Power BI,79,2021,ferramentas
+Pará,BR-PA,Power BI,92,2021,ferramentas
+Pernambuco,BR-PE,Power BI,85,2021,ferramentas
+Piauí,BR-PI,Power BI,86,2021,ferramentas
+Rio Grande do Norte,BR-RN,Power BI,87,2021,ferramentas
+Rio Grande do Sul,BR-RS,Power BI,83,2021,ferramentas
+Rio de Janeiro,BR-RJ,Power BI,88,2021,ferramentas
+Rondônia,BR-RO,Power BI,82,2021,ferramentas
+Roraima,BR-RR,Power BI,100,2021,ferramentas
+Santa Catarina,BR-SC,Power BI,86,2021,ferramentas
+Sergipe,BR-SE,Power BI,88,2021,ferramentas
+São Paulo,BR-SP,Power BI,79,2021,ferramentas
+Tocantins,BR-TO,Power BI,82,2021,ferramentas
+Acre,BR-AC,Tableau,29,2021,ferramentas
+Alagoas,BR-AL,Tableau,6,2021,ferramentas
+Amapá,BR-AP,Tableau,0,2021,ferramentas
+Amazonas,BR-AM,Tableau,6,2021,ferramentas
+Bahia,BR-BA,Tableau,10,2021,ferramentas
+Ceará,BR-CE,Tableau,9,2021,ferramentas
+Distrito Federal,BR-DF,Tableau,9,2021,ferramentas
+Espírito Santo,BR-ES,Tableau,10,2021,ferramentas
+Goiás,BR-GO,Tableau,8,2021,ferramentas
+Maranhão,BR-MA,Tableau,6,2021,ferramentas
+Mato Grosso,BR-MT,Tableau,8,2021,ferramentas
+Mato Grosso do Sul,BR-MS,Tableau,8,2021,ferramentas
+Minas Gerais,BR-MG,Tableau,7,2021,ferramentas
+Paraná,BR-PR,Tableau,9,2021,ferramentas
+Paraíba,BR-PB,Tableau,11,2021,ferramentas
+Pará,BR-PA,Tableau,6,2021,ferramentas
+Pernambuco,BR-PE,Tableau,9,2021,ferramentas
+Piauí,BR-PI,Tableau,8,2021,ferramentas
+Rio Grande do Norte,BR-RN,Tableau,9,2021,ferramentas
+Rio Grande do Sul,BR-RS,Tableau,10,2021,ferramentas
+Rio de Janeiro,BR-RJ,Tableau,8,2021,ferramentas
+Rondônia,BR-RO,Tableau,10,2021,ferramentas
+Roraima,BR-RR,Tableau,0,2021,ferramentas
+Santa Catarina,BR-SC,Tableau,9,2021,ferramentas
+Sergipe,BR-SE,Tableau,7,2021,ferramentas
+São Paulo,BR-SP,Tableau,16,2021,ferramentas
+Tocantins,BR-TO,Tableau,11,2021,ferramentas
+Acre,BR-AC,Apache Spark,0,2021,ferramentas
+Alagoas,BR-AL,Apache Spark,0,2021,ferramentas
+Amapá,BR-AP,Apache Spark,0,2021,ferramentas
+Amazonas,BR-AM,Apache Spark,0,2021,ferramentas
+Bahia,BR-BA,Apache Spark,0,2021,ferramentas
+Ceará,BR-CE,Apache Spark,0,2021,ferramentas
+Distrito Federal,BR-DF,Apache Spark,0,2021,ferramentas
+Espírito Santo,BR-ES,Apache Spark,0,2021,ferramentas
+Goiás,BR-GO,Apache Spark,0,2021,ferramentas
+Maranhão,BR-MA,Apache Spark,0,2021,ferramentas
+Mato Grosso,BR-MT,Apache Spark,0,2021,ferramentas
+Mato Grosso do Sul,BR-MS,Apache Spark,0,2021,ferramentas
+Minas Gerais,BR-MG,Apache Spark,0,2021,ferramentas
+Paraná,BR-PR,Apache Spark,0,2021,ferramentas
+Paraíba,BR-PB,Apache Spark,0,2021,ferramentas
+Pará,BR-PA,Apache Spark,0,2021,ferramentas
+Pernambuco,BR-PE,Apache Spark,1,2021,ferramentas
+Piauí,BR-PI,Apache Spark,0,2021,ferramentas
+Rio Grande do Norte,BR-RN,Apache Spark,0,2021,ferramentas
+Rio Grande do Sul,BR-RS,Apache Spark,1,2021,ferramentas
+Rio de Janeiro,BR-RJ,Apache Spark,0,2021,ferramentas
+Rondônia,BR-RO,Apache Spark,0,2021,ferramentas
+Roraima,BR-RR,Apache Spark,0,2021,ferramentas
+Santa Catarina,BR-SC,Apache Spark,1,2021,ferramentas
+Sergipe,BR-SE,Apache Spark,0,2021,ferramentas
+São Paulo,BR-SP,Apache Spark,0,2021,ferramentas
+Tocantins,BR-TO,Apache Spark,0,2021,ferramentas
+Acre,BR-AC,dbt,0,2021,ferramentas
+Alagoas,BR-AL,dbt,6,2021,ferramentas
+Amapá,BR-AP,dbt,0,2021,ferramentas
+Amazonas,BR-AM,dbt,2,2021,ferramentas
+Bahia,BR-BA,dbt,8,2021,ferramentas
+Ceará,BR-CE,dbt,3,2021,ferramentas
+Distrito Federal,BR-DF,dbt,3,2021,ferramentas
+Espírito Santo,BR-ES,dbt,1,2021,ferramentas
+Goiás,BR-GO,dbt,3,2021,ferramentas
+Maranhão,BR-MA,dbt,4,2021,ferramentas
+Mato Grosso,BR-MT,dbt,3,2021,ferramentas
+Mato Grosso do Sul,BR-MS,dbt,4,2021,ferramentas
+Minas Gerais,BR-MG,dbt,2,2021,ferramentas
+Paraná,BR-PR,dbt,3,2021,ferramentas
+Paraíba,BR-PB,dbt,7,2021,ferramentas
+Pará,BR-PA,dbt,2,2021,ferramentas
+Pernambuco,BR-PE,dbt,3,2021,ferramentas
+Piauí,BR-PI,dbt,6,2021,ferramentas
+Rio Grande do Norte,BR-RN,dbt,4,2021,ferramentas
+Rio Grande do Sul,BR-RS,dbt,4,2021,ferramentas
+Rio de Janeiro,BR-RJ,dbt,2,2021,ferramentas
+Rondônia,BR-RO,dbt,8,2021,ferramentas
+Roraima,BR-RR,dbt,0,2021,ferramentas
+Santa Catarina,BR-SC,dbt,2,2021,ferramentas
+Sergipe,BR-SE,dbt,5,2021,ferramentas
+São Paulo,BR-SP,dbt,1,2021,ferramentas
+Tocantins,BR-TO,dbt,7,2021,ferramentas
+Acre,BR-AC,Databricks,0,2021,ferramentas
+Alagoas,BR-AL,Databricks,0,2021,ferramentas
+Amapá,BR-AP,Databricks,0,2021,ferramentas
+Amazonas,BR-AM,Databricks,0,2021,ferramentas
+Bahia,BR-BA,Databricks,0,2021,ferramentas
+Ceará,BR-CE,Databricks,1,2021,ferramentas
+Distrito Federal,BR-DF,Databricks,2,2021,ferramentas
+Espírito Santo,BR-ES,Databricks,2,2021,ferramentas
+Goiás,BR-GO,Databricks,1,2021,ferramentas
+Maranhão,BR-MA,Databricks,2,2021,ferramentas
+Mato Grosso,BR-MT,Databricks,0,2021,ferramentas
+Mato Grosso do Sul,BR-MS,Databricks,3,2021,ferramentas
+Minas Gerais,BR-MG,Databricks,1,2021,ferramentas
+Paraná,BR-PR,Databricks,1,2021,ferramentas
+Paraíba,BR-PB,Databricks,3,2021,ferramentas
+Pará,BR-PA,Databricks,0,2021,ferramentas
+Pernambuco,BR-PE,Databricks,2,2021,ferramentas
+Piauí,BR-PI,Databricks,0,2021,ferramentas
+Rio Grande do Norte,BR-RN,Databricks,0,2021,ferramentas
+Rio Grande do Sul,BR-RS,Databricks,2,2021,ferramentas
+Rio de Janeiro,BR-RJ,Databricks,2,2021,ferramentas
+Rondônia,BR-RO,Databricks,0,2021,ferramentas
+Roraima,BR-RR,Databricks,0,2021,ferramentas
+Santa Catarina,BR-SC,Databricks,2,2021,ferramentas
+Sergipe,BR-SE,Databricks,0,2021,ferramentas
+São Paulo,BR-SP,Databricks,4,2021,ferramentas
+Tocantins,BR-TO,Databricks,0,2021,ferramentas
+Acre,BR-AC,cientista de dados,0,2021,carreiras
+Alagoas,BR-AL,cientista de dados,21,2021,carreiras
+Amapá,BR-AP,cientista de dados,0,2021,carreiras
+Amazonas,BR-AM,cientista de dados,16,2021,carreiras
+Bahia,BR-BA,cientista de dados,14,2021,carreiras
+Ceará,BR-CE,cientista de dados,19,2021,carreiras
+Distrito Federal,BR-DF,cientista de dados,14,2021,carreiras
+Espírito Santo,BR-ES,cientista de dados,12,2021,carreiras
+Goiás,BR-GO,cientista de dados,16,2021,carreiras
+Maranhão,BR-MA,cientista de dados,16,2021,carreiras
+Mato Grosso,BR-MT,cientista de dados,14,2021,carreiras
+Mato Grosso do Sul,BR-MS,cientista de dados,14,2021,carreiras
+Minas Gerais,BR-MG,cientista de dados,17,2021,carreiras
+Paraná,BR-PR,cientista de dados,14,2021,carreiras
+Paraíba,BR-PB,cientista de dados,14,2021,carreiras
+Pará,BR-PA,cientista de dados,17,2021,carreiras
+Pernambuco,BR-PE,cientista de dados,17,2021,carreiras
+Piauí,BR-PI,cientista de dados,12,2021,carreiras
+Rio Grande do Norte,BR-RN,cientista de dados,10,2021,carreiras
+Rio Grande do Sul,BR-RS,cientista de dados,12,2021,carreiras
+Rio de Janeiro,BR-RJ,cientista de dados,15,2021,carreiras
+Rondônia,BR-RO,cientista de dados,17,2021,carreiras
+Roraima,BR-RR,cientista de dados,0,2021,carreiras
+Santa Catarina,BR-SC,cientista de dados,13,2021,carreiras
+Sergipe,BR-SE,cientista de dados,17,2021,carreiras
+São Paulo,BR-SP,cientista de dados,12,2021,carreiras
+Tocantins,BR-TO,cientista de dados,41,2021,carreiras
+Acre,BR-AC,engenheiro de dados,0,2021,carreiras
+Alagoas,BR-AL,engenheiro de dados,0,2021,carreiras
+Amapá,BR-AP,engenheiro de dados,0,2021,carreiras
+Amazonas,BR-AM,engenheiro de dados,5,2021,carreiras
+Bahia,BR-BA,engenheiro de dados,5,2021,carreiras
+Ceará,BR-CE,engenheiro de dados,4,2021,carreiras
+Distrito Federal,BR-DF,engenheiro de dados,4,2021,carreiras
+Espírito Santo,BR-ES,engenheiro de dados,5,2021,carreiras
+Goiás,BR-GO,engenheiro de dados,4,2021,carreiras
+Maranhão,BR-MA,engenheiro de dados,5,2021,carreiras
+Mato Grosso,BR-MT,engenheiro de dados,5,2021,carreiras
+Mato Grosso do Sul,BR-MS,engenheiro de dados,4,2021,carreiras
+Minas Gerais,BR-MG,engenheiro de dados,5,2021,carreiras
+Paraná,BR-PR,engenheiro de dados,5,2021,carreiras
+Paraíba,BR-PB,engenheiro de dados,5,2021,carreiras
+Pará,BR-PA,engenheiro de dados,4,2021,carreiras
+Pernambuco,BR-PE,engenheiro de dados,4,2021,carreiras
+Piauí,BR-PI,engenheiro de dados,0,2021,carreiras
+Rio Grande do Norte,BR-RN,engenheiro de dados,0,2021,carreiras
+Rio Grande do Sul,BR-RS,engenheiro de dados,3,2021,carreiras
+Rio de Janeiro,BR-RJ,engenheiro de dados,4,2021,carreiras
+Rondônia,BR-RO,engenheiro de dados,0,2021,carreiras
+Roraima,BR-RR,engenheiro de dados,0,2021,carreiras
+Santa Catarina,BR-SC,engenheiro de dados,4,2021,carreiras
+Sergipe,BR-SE,engenheiro de dados,7,2021,carreiras
+São Paulo,BR-SP,engenheiro de dados,5,2021,carreiras
+Tocantins,BR-TO,engenheiro de dados,0,2021,carreiras
+Acre,BR-AC,analista de dados,0,2021,carreiras
+Alagoas,BR-AL,analista de dados,11,2021,carreiras
+Amapá,BR-AP,analista de dados,0,2021,carreiras
+Amazonas,BR-AM,analista de dados,8,2021,carreiras
+Bahia,BR-BA,analista de dados,10,2021,carreiras
+Ceará,BR-CE,analista de dados,12,2021,carreiras
+Distrito Federal,BR-DF,analista de dados,11,2021,carreiras
+Espírito Santo,BR-ES,analista de dados,16,2021,carreiras
+Goiás,BR-GO,analista de dados,10,2021,carreiras
+Maranhão,BR-MA,analista de dados,12,2021,carreiras
+Mato Grosso,BR-MT,analista de dados,11,2021,carreiras
+Mato Grosso do Sul,BR-MS,analista de dados,10,2021,carreiras
+Minas Gerais,BR-MG,analista de dados,10,2021,carreiras
+Paraná,BR-PR,analista de dados,10,2021,carreiras
+Paraíba,BR-PB,analista de dados,5,2021,carreiras
+Pará,BR-PA,analista de dados,9,2021,carreiras
+Pernambuco,BR-PE,analista de dados,11,2021,carreiras
+Piauí,BR-PI,analista de dados,10,2021,carreiras
+Rio Grande do Norte,BR-RN,analista de dados,7,2021,carreiras
+Rio Grande do Sul,BR-RS,analista de dados,11,2021,carreiras
+Rio de Janeiro,BR-RJ,analista de dados,12,2021,carreiras
+Rondônia,BR-RO,analista de dados,11,2021,carreiras
+Roraima,BR-RR,analista de dados,0,2021,carreiras
+Santa Catarina,BR-SC,analista de dados,11,2021,carreiras
+Sergipe,BR-SE,analista de dados,12,2021,carreiras
+São Paulo,BR-SP,analista de dados,12,2021,carreiras
+Tocantins,BR-TO,analista de dados,0,2021,carreiras
+Acre,BR-AC,machine learning,0,2021,carreiras
+Alagoas,BR-AL,machine learning,25,2021,carreiras
+Amapá,BR-AP,machine learning,38,2021,carreiras
+Amazonas,BR-AM,machine learning,29,2021,carreiras
+Bahia,BR-BA,machine learning,26,2021,carreiras
+Ceará,BR-CE,machine learning,30,2021,carreiras
+Distrito Federal,BR-DF,machine learning,34,2021,carreiras
+Espírito Santo,BR-ES,machine learning,30,2021,carreiras
+Goiás,BR-GO,machine learning,22,2021,carreiras
+Maranhão,BR-MA,machine learning,25,2021,carreiras
+Mato Grosso,BR-MT,machine learning,25,2021,carreiras
+Mato Grosso do Sul,BR-MS,machine learning,28,2021,carreiras
+Minas Gerais,BR-MG,machine learning,29,2021,carreiras
+Paraná,BR-PR,machine learning,27,2021,carreiras
+Paraíba,BR-PB,machine learning,34,2021,carreiras
+Pará,BR-PA,machine learning,22,2021,carreiras
+Pernambuco,BR-PE,machine learning,27,2021,carreiras
+Piauí,BR-PI,machine learning,31,2021,carreiras
+Rio Grande do Norte,BR-RN,machine learning,36,2021,carreiras
+Rio Grande do Sul,BR-RS,machine learning,29,2021,carreiras
+Rio de Janeiro,BR-RJ,machine learning,31,2021,carreiras
+Rondônia,BR-RO,machine learning,26,2021,carreiras
+Roraima,BR-RR,machine learning,0,2021,carreiras
+Santa Catarina,BR-SC,machine learning,29,2021,carreiras
+Sergipe,BR-SE,machine learning,29,2021,carreiras
+São Paulo,BR-SP,machine learning,32,2021,carreiras
+Tocantins,BR-TO,machine learning,23,2021,carreiras
+Acre,BR-AC,inteligencia artificial,100,2021,carreiras
+Alagoas,BR-AL,inteligencia artificial,43,2021,carreiras
+Amapá,BR-AP,inteligencia artificial,62,2021,carreiras
+Amazonas,BR-AM,inteligencia artificial,42,2021,carreiras
+Bahia,BR-BA,inteligencia artificial,45,2021,carreiras
+Ceará,BR-CE,inteligencia artificial,35,2021,carreiras
+Distrito Federal,BR-DF,inteligencia artificial,37,2021,carreiras
+Espírito Santo,BR-ES,inteligencia artificial,37,2021,carreiras
+Goiás,BR-GO,inteligencia artificial,48,2021,carreiras
+Maranhão,BR-MA,inteligencia artificial,42,2021,carreiras
+Mato Grosso,BR-MT,inteligencia artificial,45,2021,carreiras
+Mato Grosso do Sul,BR-MS,inteligencia artificial,44,2021,carreiras
+Minas Gerais,BR-MG,inteligencia artificial,39,2021,carreiras
+Paraná,BR-PR,inteligencia artificial,44,2021,carreiras
+Paraíba,BR-PB,inteligencia artificial,42,2021,carreiras
+Pará,BR-PA,inteligencia artificial,48,2021,carreiras
+Pernambuco,BR-PE,inteligencia artificial,41,2021,carreiras
+Piauí,BR-PI,inteligencia artificial,47,2021,carreiras
+Rio Grande do Norte,BR-RN,inteligencia artificial,47,2021,carreiras
+Rio Grande do Sul,BR-RS,inteligencia artificial,45,2021,carreiras
+Rio de Janeiro,BR-RJ,inteligencia artificial,38,2021,carreiras
+Rondônia,BR-RO,inteligencia artificial,46,2021,carreiras
+Roraima,BR-RR,inteligencia artificial,100,2021,carreiras
+Santa Catarina,BR-SC,inteligencia artificial,43,2021,carreiras
+Sergipe,BR-SE,inteligencia artificial,35,2021,carreiras
+São Paulo,BR-SP,inteligencia artificial,39,2021,carreiras
+Tocantins,BR-TO,inteligencia artificial,36,2021,carreiras
+Acre,BR-AC,Python,14,2022,linguagens
+Alagoas,BR-AL,Python,21,2022,linguagens
+Amapá,BR-AP,Python,12,2022,linguagens
+Amazonas,BR-AM,Python,21,2022,linguagens
+Bahia,BR-BA,Python,18,2022,linguagens
+Ceará,BR-CE,Python,24,2022,linguagens
+Distrito Federal,BR-DF,Python,33,2022,linguagens
+Espírito Santo,BR-ES,Python,23,2022,linguagens
+Goiás,BR-GO,Python,18,2022,linguagens
+Maranhão,BR-MA,Python,15,2022,linguagens
+Mato Grosso,BR-MT,Python,14,2022,linguagens
+Mato Grosso do Sul,BR-MS,Python,17,2022,linguagens
+Minas Gerais,BR-MG,Python,20,2022,linguagens
+Paraná,BR-PR,Python,22,2022,linguagens
+Paraíba,BR-PB,Python,30,2022,linguagens
+Pará,BR-PA,Python,16,2022,linguagens
+Pernambuco,BR-PE,Python,26,2022,linguagens
+Piauí,BR-PI,Python,19,2022,linguagens
+Rio Grande do Norte,BR-RN,Python,26,2022,linguagens
+Rio Grande do Sul,BR-RS,Python,21,2022,linguagens
+Rio de Janeiro,BR-RJ,Python,23,2022,linguagens
+Rondônia,BR-RO,Python,14,2022,linguagens
+Roraima,BR-RR,Python,13,2022,linguagens
+Santa Catarina,BR-SC,Python,25,2022,linguagens
+Sergipe,BR-SE,Python,22,2022,linguagens
+São Paulo,BR-SP,Python,24,2022,linguagens
+Tocantins,BR-TO,Python,16,2022,linguagens
+Acre,BR-AC,SQL,5,2022,linguagens
+Alagoas,BR-AL,SQL,7,2022,linguagens
+Amapá,BR-AP,SQL,4,2022,linguagens
+Amazonas,BR-AM,SQL,6,2022,linguagens
+Bahia,BR-BA,SQL,6,2022,linguagens
+Ceará,BR-CE,SQL,9,2022,linguagens
+Distrito Federal,BR-DF,SQL,15,2022,linguagens
+Espírito Santo,BR-ES,SQL,11,2022,linguagens
+Goiás,BR-GO,SQL,9,2022,linguagens
+Maranhão,BR-MA,SQL,4,2022,linguagens
+Mato Grosso,BR-MT,SQL,7,2022,linguagens
+Mato Grosso do Sul,BR-MS,SQL,8,2022,linguagens
+Minas Gerais,BR-MG,SQL,11,2022,linguagens
+Paraná,BR-PR,SQL,11,2022,linguagens
+Paraíba,BR-PB,SQL,7,2022,linguagens
+Pará,BR-PA,SQL,4,2022,linguagens
+Pernambuco,BR-PE,SQL,9,2022,linguagens
+Piauí,BR-PI,SQL,4,2022,linguagens
+Rio Grande do Norte,BR-RN,SQL,6,2022,linguagens
+Rio Grande do Sul,BR-RS,SQL,11,2022,linguagens
+Rio de Janeiro,BR-RJ,SQL,9,2022,linguagens
+Rondônia,BR-RO,SQL,8,2022,linguagens
+Roraima,BR-RR,SQL,4,2022,linguagens
+Santa Catarina,BR-SC,SQL,13,2022,linguagens
+Sergipe,BR-SE,SQL,8,2022,linguagens
+São Paulo,BR-SP,SQL,15,2022,linguagens
+Tocantins,BR-TO,SQL,10,2022,linguagens
+Acre,BR-AC,R,58,2022,linguagens
+Alagoas,BR-AL,R,53,2022,linguagens
+Amapá,BR-AP,R,61,2022,linguagens
+Amazonas,BR-AM,R,48,2022,linguagens
+Bahia,BR-BA,R,57,2022,linguagens
+Ceará,BR-CE,R,49,2022,linguagens
+Distrito Federal,BR-DF,R,37,2022,linguagens
+Espírito Santo,BR-ES,R,48,2022,linguagens
+Goiás,BR-GO,R,54,2022,linguagens
+Maranhão,BR-MA,R,59,2022,linguagens
+Mato Grosso,BR-MT,R,59,2022,linguagens
+Mato Grosso do Sul,BR-MS,R,56,2022,linguagens
+Minas Gerais,BR-MG,R,50,2022,linguagens
+Paraná,BR-PR,R,50,2022,linguagens
+Paraíba,BR-PB,R,45,2022,linguagens
+Pará,BR-PA,R,56,2022,linguagens
+Pernambuco,BR-PE,R,48,2022,linguagens
+Piauí,BR-PI,R,63,2022,linguagens
+Rio Grande do Norte,BR-RN,R,52,2022,linguagens
+Rio Grande do Sul,BR-RS,R,48,2022,linguagens
+Rio de Janeiro,BR-RJ,R,47,2022,linguagens
+Rondônia,BR-RO,R,61,2022,linguagens
+Roraima,BR-RR,R,63,2022,linguagens
+Santa Catarina,BR-SC,R,44,2022,linguagens
+Sergipe,BR-SE,R,53,2022,linguagens
+São Paulo,BR-SP,R,44,2022,linguagens
+Tocantins,BR-TO,R,57,2022,linguagens
+Acre,BR-AC,Scala,1,2022,linguagens
+Alagoas,BR-AL,Scala,0,2022,linguagens
+Amapá,BR-AP,Scala,0,2022,linguagens
+Amazonas,BR-AM,Scala,0,2022,linguagens
+Bahia,BR-BA,Scala,1,2022,linguagens
+Ceará,BR-CE,Scala,0,2022,linguagens
+Distrito Federal,BR-DF,Scala,1,2022,linguagens
+Espírito Santo,BR-ES,Scala,0,2022,linguagens
+Goiás,BR-GO,Scala,1,2022,linguagens
+Maranhão,BR-MA,Scala,1,2022,linguagens
+Mato Grosso,BR-MT,Scala,1,2022,linguagens
+Mato Grosso do Sul,BR-MS,Scala,1,2022,linguagens
+Minas Gerais,BR-MG,Scala,1,2022,linguagens
+Paraná,BR-PR,Scala,0,2022,linguagens
+Paraíba,BR-PB,Scala,0,2022,linguagens
+Pará,BR-PA,Scala,0,2022,linguagens
+Pernambuco,BR-PE,Scala,0,2022,linguagens
+Piauí,BR-PI,Scala,0,2022,linguagens
+Rio Grande do Norte,BR-RN,Scala,0,2022,linguagens
+Rio Grande do Sul,BR-RS,Scala,1,2022,linguagens
+Rio de Janeiro,BR-RJ,Scala,0,2022,linguagens
+Rondônia,BR-RO,Scala,0,2022,linguagens
+Roraima,BR-RR,Scala,0,2022,linguagens
+Santa Catarina,BR-SC,Scala,1,2022,linguagens
+Sergipe,BR-SE,Scala,0,2022,linguagens
+São Paulo,BR-SP,Scala,1,2022,linguagens
+Tocantins,BR-TO,Scala,0,2022,linguagens
+Acre,BR-AC,Julia,22,2022,linguagens
+Alagoas,BR-AL,Julia,19,2022,linguagens
+Amapá,BR-AP,Julia,23,2022,linguagens
+Amazonas,BR-AM,Julia,25,2022,linguagens
+Bahia,BR-BA,Julia,18,2022,linguagens
+Ceará,BR-CE,Julia,18,2022,linguagens
+Distrito Federal,BR-DF,Julia,14,2022,linguagens
+Espírito Santo,BR-ES,Julia,18,2022,linguagens
+Goiás,BR-GO,Julia,18,2022,linguagens
+Maranhão,BR-MA,Julia,21,2022,linguagens
+Mato Grosso,BR-MT,Julia,19,2022,linguagens
+Mato Grosso do Sul,BR-MS,Julia,18,2022,linguagens
+Minas Gerais,BR-MG,Julia,18,2022,linguagens
+Paraná,BR-PR,Julia,17,2022,linguagens
+Paraíba,BR-PB,Julia,18,2022,linguagens
+Pará,BR-PA,Julia,24,2022,linguagens
+Pernambuco,BR-PE,Julia,17,2022,linguagens
+Piauí,BR-PI,Julia,14,2022,linguagens
+Rio Grande do Norte,BR-RN,Julia,16,2022,linguagens
+Rio Grande do Sul,BR-RS,Julia,19,2022,linguagens
+Rio de Janeiro,BR-RJ,Julia,21,2022,linguagens
+Rondônia,BR-RO,Julia,17,2022,linguagens
+Roraima,BR-RR,Julia,20,2022,linguagens
+Santa Catarina,BR-SC,Julia,17,2022,linguagens
+Sergipe,BR-SE,Julia,17,2022,linguagens
+São Paulo,BR-SP,Julia,16,2022,linguagens
+Tocantins,BR-TO,Julia,17,2022,linguagens
+Acre,BR-AC,Power BI,100,2022,ferramentas
+Alagoas,BR-AL,Power BI,89,2022,ferramentas
+Amapá,BR-AP,Power BI,57,2022,ferramentas
+Amazonas,BR-AM,Power BI,89,2022,ferramentas
+Bahia,BR-BA,Power BI,88,2022,ferramentas
+Ceará,BR-CE,Power BI,89,2022,ferramentas
+Distrito Federal,BR-DF,Power BI,88,2022,ferramentas
+Espírito Santo,BR-ES,Power BI,89,2022,ferramentas
+Goiás,BR-GO,Power BI,90,2022,ferramentas
+Maranhão,BR-MA,Power BI,89,2022,ferramentas
+Mato Grosso,BR-MT,Power BI,92,2022,ferramentas
+Mato Grosso do Sul,BR-MS,Power BI,89,2022,ferramentas
+Minas Gerais,BR-MG,Power BI,89,2022,ferramentas
+Paraná,BR-PR,Power BI,89,2022,ferramentas
+Paraíba,BR-PB,Power BI,85,2022,ferramentas
+Pará,BR-PA,Power BI,92,2022,ferramentas
+Pernambuco,BR-PE,Power BI,87,2022,ferramentas
+Piauí,BR-PI,Power BI,94,2022,ferramentas
+Rio Grande do Norte,BR-RN,Power BI,85,2022,ferramentas
+Rio Grande do Sul,BR-RS,Power BI,84,2022,ferramentas
+Rio de Janeiro,BR-RJ,Power BI,87,2022,ferramentas
+Rondônia,BR-RO,Power BI,93,2022,ferramentas
+Roraima,BR-RR,Power BI,100,2022,ferramentas
+Santa Catarina,BR-SC,Power BI,84,2022,ferramentas
+Sergipe,BR-SE,Power BI,88,2022,ferramentas
+São Paulo,BR-SP,Power BI,79,2022,ferramentas
+Tocantins,BR-TO,Power BI,100,2022,ferramentas
+Acre,BR-AC,Tableau,0,2022,ferramentas
+Alagoas,BR-AL,Tableau,4,2022,ferramentas
+Amapá,BR-AP,Tableau,34,2022,ferramentas
+Amazonas,BR-AM,Tableau,7,2022,ferramentas
+Bahia,BR-BA,Tableau,5,2022,ferramentas
+Ceará,BR-CE,Tableau,7,2022,ferramentas
+Distrito Federal,BR-DF,Tableau,6,2022,ferramentas
+Espírito Santo,BR-ES,Tableau,6,2022,ferramentas
+Goiás,BR-GO,Tableau,4,2022,ferramentas
+Maranhão,BR-MA,Tableau,4,2022,ferramentas
+Mato Grosso,BR-MT,Tableau,4,2022,ferramentas
+Mato Grosso do Sul,BR-MS,Tableau,6,2022,ferramentas
+Minas Gerais,BR-MG,Tableau,6,2022,ferramentas
+Paraná,BR-PR,Tableau,6,2022,ferramentas
+Paraíba,BR-PB,Tableau,7,2022,ferramentas
+Pará,BR-PA,Tableau,5,2022,ferramentas
+Pernambuco,BR-PE,Tableau,6,2022,ferramentas
+Piauí,BR-PI,Tableau,4,2022,ferramentas
+Rio Grande do Norte,BR-RN,Tableau,9,2022,ferramentas
+Rio Grande do Sul,BR-RS,Tableau,7,2022,ferramentas
+Rio de Janeiro,BR-RJ,Tableau,7,2022,ferramentas
+Rondônia,BR-RO,Tableau,3,2022,ferramentas
+Roraima,BR-RR,Tableau,0,2022,ferramentas
+Santa Catarina,BR-SC,Tableau,6,2022,ferramentas
+Sergipe,BR-SE,Tableau,5,2022,ferramentas
+São Paulo,BR-SP,Tableau,13,2022,ferramentas
+Tocantins,BR-TO,Tableau,0,2022,ferramentas
+Acre,BR-AC,Apache Spark,0,2022,ferramentas
+Alagoas,BR-AL,Apache Spark,0,2022,ferramentas
+Amapá,BR-AP,Apache Spark,0,2022,ferramentas
+Amazonas,BR-AM,Apache Spark,0,2022,ferramentas
+Bahia,BR-BA,Apache Spark,0,2022,ferramentas
+Ceará,BR-CE,Apache Spark,0,2022,ferramentas
+Distrito Federal,BR-DF,Apache Spark,0,2022,ferramentas
+Espírito Santo,BR-ES,Apache Spark,0,2022,ferramentas
+Goiás,BR-GO,Apache Spark,0,2022,ferramentas
+Maranhão,BR-MA,Apache Spark,0,2022,ferramentas
+Mato Grosso,BR-MT,Apache Spark,0,2022,ferramentas
+Mato Grosso do Sul,BR-MS,Apache Spark,0,2022,ferramentas
+Minas Gerais,BR-MG,Apache Spark,0,2022,ferramentas
+Paraná,BR-PR,Apache Spark,0,2022,ferramentas
+Paraíba,BR-PB,Apache Spark,1,2022,ferramentas
+Pará,BR-PA,Apache Spark,0,2022,ferramentas
+Pernambuco,BR-PE,Apache Spark,0,2022,ferramentas
+Piauí,BR-PI,Apache Spark,0,2022,ferramentas
+Rio Grande do Norte,BR-RN,Apache Spark,0,2022,ferramentas
+Rio Grande do Sul,BR-RS,Apache Spark,0,2022,ferramentas
+Rio de Janeiro,BR-RJ,Apache Spark,0,2022,ferramentas
+Rondônia,BR-RO,Apache Spark,0,2022,ferramentas
+Roraima,BR-RR,Apache Spark,0,2022,ferramentas
+Santa Catarina,BR-SC,Apache Spark,0,2022,ferramentas
+Sergipe,BR-SE,Apache Spark,0,2022,ferramentas
+São Paulo,BR-SP,Apache Spark,0,2022,ferramentas
+Tocantins,BR-TO,Apache Spark,0,2022,ferramentas
+Acre,BR-AC,dbt,0,2022,ferramentas
+Alagoas,BR-AL,dbt,5,2022,ferramentas
+Amapá,BR-AP,dbt,9,2022,ferramentas
+Amazonas,BR-AM,dbt,2,2022,ferramentas
+Bahia,BR-BA,dbt,5,2022,ferramentas
+Ceará,BR-CE,dbt,2,2022,ferramentas
+Distrito Federal,BR-DF,dbt,3,2022,ferramentas
+Espírito Santo,BR-ES,dbt,1,2022,ferramentas
+Goiás,BR-GO,dbt,3,2022,ferramentas
+Maranhão,BR-MA,dbt,4,2022,ferramentas
+Mato Grosso,BR-MT,dbt,3,2022,ferramentas
+Mato Grosso do Sul,BR-MS,dbt,3,2022,ferramentas
+Minas Gerais,BR-MG,dbt,2,2022,ferramentas
+Paraná,BR-PR,dbt,2,2022,ferramentas
+Paraíba,BR-PB,dbt,3,2022,ferramentas
+Pará,BR-PA,dbt,2,2022,ferramentas
+Pernambuco,BR-PE,dbt,3,2022,ferramentas
+Piauí,BR-PI,dbt,2,2022,ferramentas
+Rio Grande do Norte,BR-RN,dbt,4,2022,ferramentas
+Rio Grande do Sul,BR-RS,dbt,4,2022,ferramentas
+Rio de Janeiro,BR-RJ,dbt,2,2022,ferramentas
+Rondônia,BR-RO,dbt,4,2022,ferramentas
+Roraima,BR-RR,dbt,0,2022,ferramentas
+Santa Catarina,BR-SC,dbt,5,2022,ferramentas
+Sergipe,BR-SE,dbt,2,2022,ferramentas
+São Paulo,BR-SP,dbt,2,2022,ferramentas
+Tocantins,BR-TO,dbt,0,2022,ferramentas
+Acre,BR-AC,Databricks,0,2022,ferramentas
+Alagoas,BR-AL,Databricks,2,2022,ferramentas
+Amapá,BR-AP,Databricks,0,2022,ferramentas
+Amazonas,BR-AM,Databricks,2,2022,ferramentas
+Bahia,BR-BA,Databricks,2,2022,ferramentas
+Ceará,BR-CE,Databricks,2,2022,ferramentas
+Distrito Federal,BR-DF,Databricks,3,2022,ferramentas
+Espírito Santo,BR-ES,Databricks,4,2022,ferramentas
+Goiás,BR-GO,Databricks,3,2022,ferramentas
+Maranhão,BR-MA,Databricks,3,2022,ferramentas
+Mato Grosso,BR-MT,Databricks,1,2022,ferramentas
+Mato Grosso do Sul,BR-MS,Databricks,2,2022,ferramentas
+Minas Gerais,BR-MG,Databricks,3,2022,ferramentas
+Paraná,BR-PR,Databricks,3,2022,ferramentas
+Paraíba,BR-PB,Databricks,4,2022,ferramentas
+Pará,BR-PA,Databricks,1,2022,ferramentas
+Pernambuco,BR-PE,Databricks,4,2022,ferramentas
+Piauí,BR-PI,Databricks,0,2022,ferramentas
+Rio Grande do Norte,BR-RN,Databricks,2,2022,ferramentas
+Rio Grande do Sul,BR-RS,Databricks,5,2022,ferramentas
+Rio de Janeiro,BR-RJ,Databricks,4,2022,ferramentas
+Rondônia,BR-RO,Databricks,0,2022,ferramentas
+Roraima,BR-RR,Databricks,0,2022,ferramentas
+Santa Catarina,BR-SC,Databricks,5,2022,ferramentas
+Sergipe,BR-SE,Databricks,5,2022,ferramentas
+São Paulo,BR-SP,Databricks,6,2022,ferramentas
+Tocantins,BR-TO,Databricks,0,2022,ferramentas
+Acre,BR-AC,cientista de dados,0,2022,carreiras
+Alagoas,BR-AL,cientista de dados,15,2022,carreiras
+Amapá,BR-AP,cientista de dados,0,2022,carreiras
+Amazonas,BR-AM,cientista de dados,9,2022,carreiras
+Bahia,BR-BA,cientista de dados,15,2022,carreiras
+Ceará,BR-CE,cientista de dados,15,2022,carreiras
+Distrito Federal,BR-DF,cientista de dados,12,2022,carreiras
+Espírito Santo,BR-ES,cientista de dados,13,2022,carreiras
+Goiás,BR-GO,cientista de dados,13,2022,carreiras
+Maranhão,BR-MA,cientista de dados,14,2022,carreiras
+Mato Grosso,BR-MT,cientista de dados,14,2022,carreiras
+Mato Grosso do Sul,BR-MS,cientista de dados,12,2022,carreiras
+Minas Gerais,BR-MG,cientista de dados,13,2022,carreiras
+Paraná,BR-PR,cientista de dados,12,2022,carreiras
+Paraíba,BR-PB,cientista de dados,10,2022,carreiras
+Pará,BR-PA,cientista de dados,17,2022,carreiras
+Pernambuco,BR-PE,cientista de dados,13,2022,carreiras
+Piauí,BR-PI,cientista de dados,15,2022,carreiras
+Rio Grande do Norte,BR-RN,cientista de dados,10,2022,carreiras
+Rio Grande do Sul,BR-RS,cientista de dados,11,2022,carreiras
+Rio de Janeiro,BR-RJ,cientista de dados,14,2022,carreiras
+Rondônia,BR-RO,cientista de dados,13,2022,carreiras
+Roraima,BR-RR,cientista de dados,0,2022,carreiras
+Santa Catarina,BR-SC,cientista de dados,10,2022,carreiras
+Sergipe,BR-SE,cientista de dados,11,2022,carreiras
+São Paulo,BR-SP,cientista de dados,12,2022,carreiras
+Tocantins,BR-TO,cientista de dados,7,2022,carreiras
+Acre,BR-AC,engenheiro de dados,0,2022,carreiras
+Alagoas,BR-AL,engenheiro de dados,6,2022,carreiras
+Amapá,BR-AP,engenheiro de dados,0,2022,carreiras
+Amazonas,BR-AM,engenheiro de dados,5,2022,carreiras
+Bahia,BR-BA,engenheiro de dados,5,2022,carreiras
+Ceará,BR-CE,engenheiro de dados,5,2022,carreiras
+Distrito Federal,BR-DF,engenheiro de dados,4,2022,carreiras
+Espírito Santo,BR-ES,engenheiro de dados,3,2022,carreiras
+Goiás,BR-GO,engenheiro de dados,5,2022,carreiras
+Maranhão,BR-MA,engenheiro de dados,5,2022,carreiras
+Mato Grosso,BR-MT,engenheiro de dados,5,2022,carreiras
+Mato Grosso do Sul,BR-MS,engenheiro de dados,5,2022,carreiras
+Minas Gerais,BR-MG,engenheiro de dados,6,2022,carreiras
+Paraná,BR-PR,engenheiro de dados,5,2022,carreiras
+Paraíba,BR-PB,engenheiro de dados,6,2022,carreiras
+Pará,BR-PA,engenheiro de dados,3,2022,carreiras
+Pernambuco,BR-PE,engenheiro de dados,6,2022,carreiras
+Piauí,BR-PI,engenheiro de dados,4,2022,carreiras
+Rio Grande do Norte,BR-RN,engenheiro de dados,4,2022,carreiras
+Rio Grande do Sul,BR-RS,engenheiro de dados,4,2022,carreiras
+Rio de Janeiro,BR-RJ,engenheiro de dados,5,2022,carreiras
+Rondônia,BR-RO,engenheiro de dados,5,2022,carreiras
+Roraima,BR-RR,engenheiro de dados,0,2022,carreiras
+Santa Catarina,BR-SC,engenheiro de dados,4,2022,carreiras
+Sergipe,BR-SE,engenheiro de dados,7,2022,carreiras
+São Paulo,BR-SP,engenheiro de dados,6,2022,carreiras
+Tocantins,BR-TO,engenheiro de dados,0,2022,carreiras
+Acre,BR-AC,analista de dados,0,2022,carreiras
+Alagoas,BR-AL,analista de dados,12,2022,carreiras
+Amapá,BR-AP,analista de dados,0,2022,carreiras
+Amazonas,BR-AM,analista de dados,15,2022,carreiras
+Bahia,BR-BA,analista de dados,16,2022,carreiras
+Ceará,BR-CE,analista de dados,18,2022,carreiras
+Distrito Federal,BR-DF,analista de dados,14,2022,carreiras
+Espírito Santo,BR-ES,analista de dados,18,2022,carreiras
+Goiás,BR-GO,analista de dados,15,2022,carreiras
+Maranhão,BR-MA,analista de dados,16,2022,carreiras
+Mato Grosso,BR-MT,analista de dados,15,2022,carreiras
+Mato Grosso do Sul,BR-MS,analista de dados,11,2022,carreiras
+Minas Gerais,BR-MG,analista de dados,15,2022,carreiras
+Paraná,BR-PR,analista de dados,15,2022,carreiras
+Paraíba,BR-PB,analista de dados,15,2022,carreiras
+Pará,BR-PA,analista de dados,16,2022,carreiras
+Pernambuco,BR-PE,analista de dados,16,2022,carreiras
+Piauí,BR-PI,analista de dados,16,2022,carreiras
+Rio Grande do Norte,BR-RN,analista de dados,10,2022,carreiras
+Rio Grande do Sul,BR-RS,analista de dados,15,2022,carreiras
+Rio de Janeiro,BR-RJ,analista de dados,18,2022,carreiras
+Rondônia,BR-RO,analista de dados,13,2022,carreiras
+Roraima,BR-RR,analista de dados,27,2022,carreiras
+Santa Catarina,BR-SC,analista de dados,15,2022,carreiras
+Sergipe,BR-SE,analista de dados,16,2022,carreiras
+São Paulo,BR-SP,analista de dados,15,2022,carreiras
+Tocantins,BR-TO,analista de dados,14,2022,carreiras
+Acre,BR-AC,machine learning,28,2022,carreiras
+Alagoas,BR-AL,machine learning,30,2022,carreiras
+Amapá,BR-AP,machine learning,0,2022,carreiras
+Amazonas,BR-AM,machine learning,33,2022,carreiras
+Bahia,BR-BA,machine learning,23,2022,carreiras
+Ceará,BR-CE,machine learning,29,2022,carreiras
+Distrito Federal,BR-DF,machine learning,35,2022,carreiras
+Espírito Santo,BR-ES,machine learning,28,2022,carreiras
+Goiás,BR-GO,machine learning,24,2022,carreiras
+Maranhão,BR-MA,machine learning,23,2022,carreiras
+Mato Grosso,BR-MT,machine learning,24,2022,carreiras
+Mato Grosso do Sul,BR-MS,machine learning,23,2022,carreiras
+Minas Gerais,BR-MG,machine learning,28,2022,carreiras
+Paraná,BR-PR,machine learning,29,2022,carreiras
+Paraíba,BR-PB,machine learning,33,2022,carreiras
+Pará,BR-PA,machine learning,26,2022,carreiras
+Pernambuco,BR-PE,machine learning,32,2022,carreiras
+Piauí,BR-PI,machine learning,24,2022,carreiras
+Rio Grande do Norte,BR-RN,machine learning,32,2022,carreiras
+Rio Grande do Sul,BR-RS,machine learning,29,2022,carreiras
+Rio de Janeiro,BR-RJ,machine learning,29,2022,carreiras
+Rondônia,BR-RO,machine learning,21,2022,carreiras
+Roraima,BR-RR,machine learning,0,2022,carreiras
+Santa Catarina,BR-SC,machine learning,32,2022,carreiras
+Sergipe,BR-SE,machine learning,28,2022,carreiras
+São Paulo,BR-SP,machine learning,31,2022,carreiras
+Tocantins,BR-TO,machine learning,24,2022,carreiras
+Acre,BR-AC,inteligencia artificial,72,2022,carreiras
+Alagoas,BR-AL,inteligencia artificial,37,2022,carreiras
+Amapá,BR-AP,inteligencia artificial,100,2022,carreiras
+Amazonas,BR-AM,inteligencia artificial,38,2022,carreiras
+Bahia,BR-BA,inteligencia artificial,41,2022,carreiras
+Ceará,BR-CE,inteligencia artificial,33,2022,carreiras
+Distrito Federal,BR-DF,inteligencia artificial,35,2022,carreiras
+Espírito Santo,BR-ES,inteligencia artificial,38,2022,carreiras
+Goiás,BR-GO,inteligencia artificial,43,2022,carreiras
+Maranhão,BR-MA,inteligencia artificial,42,2022,carreiras
+Mato Grosso,BR-MT,inteligencia artificial,42,2022,carreiras
+Mato Grosso do Sul,BR-MS,inteligencia artificial,49,2022,carreiras
+Minas Gerais,BR-MG,inteligencia artificial,38,2022,carreiras
+Paraná,BR-PR,inteligencia artificial,39,2022,carreiras
+Paraíba,BR-PB,inteligencia artificial,36,2022,carreiras
+Pará,BR-PA,inteligencia artificial,38,2022,carreiras
+Pernambuco,BR-PE,inteligencia artificial,33,2022,carreiras
+Piauí,BR-PI,inteligencia artificial,41,2022,carreiras
+Rio Grande do Norte,BR-RN,inteligencia artificial,44,2022,carreiras
+Rio Grande do Sul,BR-RS,inteligencia artificial,41,2022,carreiras
+Rio de Janeiro,BR-RJ,inteligencia artificial,34,2022,carreiras
+Rondônia,BR-RO,inteligencia artificial,48,2022,carreiras
+Roraima,BR-RR,inteligencia artificial,73,2022,carreiras
+Santa Catarina,BR-SC,inteligencia artificial,39,2022,carreiras
+Sergipe,BR-SE,inteligencia artificial,38,2022,carreiras
+São Paulo,BR-SP,inteligencia artificial,36,2022,carreiras
+Tocantins,BR-TO,inteligencia artificial,55,2022,carreiras
+Acre,BR-AC,Python,16,2023,linguagens
+Alagoas,BR-AL,Python,20,2023,linguagens
+Amapá,BR-AP,Python,12,2023,linguagens
+Amazonas,BR-AM,Python,22,2023,linguagens
+Bahia,BR-BA,Python,15,2023,linguagens
+Ceará,BR-CE,Python,21,2023,linguagens
+Distrito Federal,BR-DF,Python,29,2023,linguagens
+Espírito Santo,BR-ES,Python,20,2023,linguagens
+Goiás,BR-GO,Python,17,2023,linguagens
+Maranhão,BR-MA,Python,14,2023,linguagens
+Mato Grosso,BR-MT,Python,13,2023,linguagens
+Mato Grosso do Sul,BR-MS,Python,17,2023,linguagens
+Minas Gerais,BR-MG,Python,18,2023,linguagens
+Paraná,BR-PR,Python,19,2023,linguagens
+Paraíba,BR-PB,Python,25,2023,linguagens
+Pará,BR-PA,Python,15,2023,linguagens
+Pernambuco,BR-PE,Python,25,2023,linguagens
+Piauí,BR-PI,Python,19,2023,linguagens
+Rio Grande do Norte,BR-RN,Python,24,2023,linguagens
+Rio Grande do Sul,BR-RS,Python,19,2023,linguagens
+Rio de Janeiro,BR-RJ,Python,22,2023,linguagens
+Rondônia,BR-RO,Python,13,2023,linguagens
+Roraima,BR-RR,Python,14,2023,linguagens
+Santa Catarina,BR-SC,Python,22,2023,linguagens
+Sergipe,BR-SE,Python,20,2023,linguagens
+São Paulo,BR-SP,Python,21,2023,linguagens
+Tocantins,BR-TO,Python,16,2023,linguagens
+Acre,BR-AC,SQL,5,2023,linguagens
+Alagoas,BR-AL,SQL,7,2023,linguagens
+Amapá,BR-AP,SQL,4,2023,linguagens
+Amazonas,BR-AM,SQL,5,2023,linguagens
+Bahia,BR-BA,SQL,6,2023,linguagens
+Ceará,BR-CE,SQL,9,2023,linguagens
+Distrito Federal,BR-DF,SQL,16,2023,linguagens
+Espírito Santo,BR-ES,SQL,10,2023,linguagens
+Goiás,BR-GO,SQL,9,2023,linguagens
+Maranhão,BR-MA,SQL,4,2023,linguagens
+Mato Grosso,BR-MT,SQL,7,2023,linguagens
+Mato Grosso do Sul,BR-MS,SQL,6,2023,linguagens
+Minas Gerais,BR-MG,SQL,10,2023,linguagens
+Paraná,BR-PR,SQL,10,2023,linguagens
+Paraíba,BR-PB,SQL,7,2023,linguagens
+Pará,BR-PA,SQL,4,2023,linguagens
+Pernambuco,BR-PE,SQL,8,2023,linguagens
+Piauí,BR-PI,SQL,4,2023,linguagens
+Rio Grande do Norte,BR-RN,SQL,6,2023,linguagens
+Rio Grande do Sul,BR-RS,SQL,9,2023,linguagens
+Rio de Janeiro,BR-RJ,SQL,9,2023,linguagens
+Rondônia,BR-RO,SQL,7,2023,linguagens
+Roraima,BR-RR,SQL,4,2023,linguagens
+Santa Catarina,BR-SC,SQL,12,2023,linguagens
+Sergipe,BR-SE,SQL,9,2023,linguagens
+São Paulo,BR-SP,SQL,14,2023,linguagens
+Tocantins,BR-TO,SQL,8,2023,linguagens
+Acre,BR-AC,R,56,2023,linguagens
+Alagoas,BR-AL,R,52,2023,linguagens
+Amapá,BR-AP,R,61,2023,linguagens
+Amazonas,BR-AM,R,47,2023,linguagens
+Bahia,BR-BA,R,58,2023,linguagens
+Ceará,BR-CE,R,52,2023,linguagens
+Distrito Federal,BR-DF,R,39,2023,linguagens
+Espírito Santo,BR-ES,R,49,2023,linguagens
+Goiás,BR-GO,R,53,2023,linguagens
+Maranhão,BR-MA,R,60,2023,linguagens
+Mato Grosso,BR-MT,R,57,2023,linguagens
+Mato Grosso do Sul,BR-MS,R,58,2023,linguagens
+Minas Gerais,BR-MG,R,52,2023,linguagens
+Paraná,BR-PR,R,53,2023,linguagens
+Paraíba,BR-PB,R,49,2023,linguagens
+Pará,BR-PA,R,58,2023,linguagens
+Pernambuco,BR-PE,R,49,2023,linguagens
+Piauí,BR-PI,R,61,2023,linguagens
+Rio Grande do Norte,BR-RN,R,52,2023,linguagens
+Rio Grande do Sul,BR-RS,R,52,2023,linguagens
+Rio de Janeiro,BR-RJ,R,50,2023,linguagens
+Rondônia,BR-RO,R,62,2023,linguagens
+Roraima,BR-RR,R,61,2023,linguagens
+Santa Catarina,BR-SC,R,47,2023,linguagens
+Sergipe,BR-SE,R,54,2023,linguagens
+São Paulo,BR-SP,R,48,2023,linguagens
+Tocantins,BR-TO,R,57,2023,linguagens
+Acre,BR-AC,Scala,1,2023,linguagens
+Alagoas,BR-AL,Scala,1,2023,linguagens
+Amapá,BR-AP,Scala,0,2023,linguagens
+Amazonas,BR-AM,Scala,0,2023,linguagens
+Bahia,BR-BA,Scala,1,2023,linguagens
+Ceará,BR-CE,Scala,0,2023,linguagens
+Distrito Federal,BR-DF,Scala,1,2023,linguagens
+Espírito Santo,BR-ES,Scala,0,2023,linguagens
+Goiás,BR-GO,Scala,1,2023,linguagens
+Maranhão,BR-MA,Scala,0,2023,linguagens
+Mato Grosso,BR-MT,Scala,1,2023,linguagens
+Mato Grosso do Sul,BR-MS,Scala,1,2023,linguagens
+Minas Gerais,BR-MG,Scala,1,2023,linguagens
+Paraná,BR-PR,Scala,0,2023,linguagens
+Paraíba,BR-PB,Scala,0,2023,linguagens
+Pará,BR-PA,Scala,0,2023,linguagens
+Pernambuco,BR-PE,Scala,0,2023,linguagens
+Piauí,BR-PI,Scala,0,2023,linguagens
+Rio Grande do Norte,BR-RN,Scala,0,2023,linguagens
+Rio Grande do Sul,BR-RS,Scala,1,2023,linguagens
+Rio de Janeiro,BR-RJ,Scala,0,2023,linguagens
+Rondônia,BR-RO,Scala,0,2023,linguagens
+Roraima,BR-RR,Scala,0,2023,linguagens
+Santa Catarina,BR-SC,Scala,0,2023,linguagens
+Sergipe,BR-SE,Scala,0,2023,linguagens
+São Paulo,BR-SP,Scala,1,2023,linguagens
+Tocantins,BR-TO,Scala,0,2023,linguagens
+Acre,BR-AC,Julia,22,2023,linguagens
+Alagoas,BR-AL,Julia,20,2023,linguagens
+Amapá,BR-AP,Julia,23,2023,linguagens
+Amazonas,BR-AM,Julia,26,2023,linguagens
+Bahia,BR-BA,Julia,20,2023,linguagens
+Ceará,BR-CE,Julia,18,2023,linguagens
+Distrito Federal,BR-DF,Julia,15,2023,linguagens
+Espírito Santo,BR-ES,Julia,21,2023,linguagens
+Goiás,BR-GO,Julia,20,2023,linguagens
+Maranhão,BR-MA,Julia,22,2023,linguagens
+Mato Grosso,BR-MT,Julia,22,2023,linguagens
+Mato Grosso do Sul,BR-MS,Julia,18,2023,linguagens
+Minas Gerais,BR-MG,Julia,19,2023,linguagens
+Paraná,BR-PR,Julia,18,2023,linguagens
+Paraíba,BR-PB,Julia,19,2023,linguagens
+Pará,BR-PA,Julia,23,2023,linguagens
+Pernambuco,BR-PE,Julia,18,2023,linguagens
+Piauí,BR-PI,Julia,16,2023,linguagens
+Rio Grande do Norte,BR-RN,Julia,18,2023,linguagens
+Rio Grande do Sul,BR-RS,Julia,19,2023,linguagens
+Rio de Janeiro,BR-RJ,Julia,19,2023,linguagens
+Rondônia,BR-RO,Julia,18,2023,linguagens
+Roraima,BR-RR,Julia,21,2023,linguagens
+Santa Catarina,BR-SC,Julia,19,2023,linguagens
+Sergipe,BR-SE,Julia,17,2023,linguagens
+São Paulo,BR-SP,Julia,16,2023,linguagens
+Tocantins,BR-TO,Julia,19,2023,linguagens
+Acre,BR-AC,Power BI,89,2023,ferramentas
+Alagoas,BR-AL,Power BI,89,2023,ferramentas
+Amapá,BR-AP,Power BI,58,2023,ferramentas
+Amazonas,BR-AM,Power BI,90,2023,ferramentas
+Bahia,BR-BA,Power BI,88,2023,ferramentas
+Ceará,BR-CE,Power BI,89,2023,ferramentas
+Distrito Federal,BR-DF,Power BI,89,2023,ferramentas
+Espírito Santo,BR-ES,Power BI,87,2023,ferramentas
+Goiás,BR-GO,Power BI,91,2023,ferramentas
+Maranhão,BR-MA,Power BI,91,2023,ferramentas
+Mato Grosso,BR-MT,Power BI,94,2023,ferramentas
+Mato Grosso do Sul,BR-MS,Power BI,90,2023,ferramentas
+Minas Gerais,BR-MG,Power BI,88,2023,ferramentas
+Paraná,BR-PR,Power BI,88,2023,ferramentas
+Paraíba,BR-PB,Power BI,85,2023,ferramentas
+Pará,BR-PA,Power BI,94,2023,ferramentas
+Pernambuco,BR-PE,Power BI,87,2023,ferramentas
+Piauí,BR-PI,Power BI,91,2023,ferramentas
+Rio Grande do Norte,BR-RN,Power BI,87,2023,ferramentas
+Rio Grande do Sul,BR-RS,Power BI,81,2023,ferramentas
+Rio de Janeiro,BR-RJ,Power BI,89,2023,ferramentas
+Rondônia,BR-RO,Power BI,96,2023,ferramentas
+Roraima,BR-RR,Power BI,100,2023,ferramentas
+Santa Catarina,BR-SC,Power BI,83,2023,ferramentas
+Sergipe,BR-SE,Power BI,89,2023,ferramentas
+São Paulo,BR-SP,Power BI,80,2023,ferramentas
+Tocantins,BR-TO,Power BI,97,2023,ferramentas
+Acre,BR-AC,Tableau,11,2023,ferramentas
+Alagoas,BR-AL,Tableau,3,2023,ferramentas
+Amapá,BR-AP,Tableau,42,2023,ferramentas
+Amazonas,BR-AM,Tableau,6,2023,ferramentas
+Bahia,BR-BA,Tableau,4,2023,ferramentas
+Ceará,BR-CE,Tableau,5,2023,ferramentas
+Distrito Federal,BR-DF,Tableau,4,2023,ferramentas
+Espírito Santo,BR-ES,Tableau,6,2023,ferramentas
+Goiás,BR-GO,Tableau,4,2023,ferramentas
+Maranhão,BR-MA,Tableau,3,2023,ferramentas
+Mato Grosso,BR-MT,Tableau,3,2023,ferramentas
+Mato Grosso do Sul,BR-MS,Tableau,5,2023,ferramentas
+Minas Gerais,BR-MG,Tableau,5,2023,ferramentas
+Paraná,BR-PR,Tableau,5,2023,ferramentas
+Paraíba,BR-PB,Tableau,4,2023,ferramentas
+Pará,BR-PA,Tableau,3,2023,ferramentas
+Pernambuco,BR-PE,Tableau,4,2023,ferramentas
+Piauí,BR-PI,Tableau,4,2023,ferramentas
+Rio Grande do Norte,BR-RN,Tableau,5,2023,ferramentas
+Rio Grande do Sul,BR-RS,Tableau,6,2023,ferramentas
+Rio de Janeiro,BR-RJ,Tableau,5,2023,ferramentas
+Rondônia,BR-RO,Tableau,0,2023,ferramentas
+Roraima,BR-RR,Tableau,0,2023,ferramentas
+Santa Catarina,BR-SC,Tableau,5,2023,ferramentas
+Sergipe,BR-SE,Tableau,3,2023,ferramentas
+São Paulo,BR-SP,Tableau,11,2023,ferramentas
+Tocantins,BR-TO,Tableau,3,2023,ferramentas
+Acre,BR-AC,Apache Spark,0,2023,ferramentas
+Alagoas,BR-AL,Apache Spark,0,2023,ferramentas
+Amapá,BR-AP,Apache Spark,0,2023,ferramentas
+Amazonas,BR-AM,Apache Spark,0,2023,ferramentas
+Bahia,BR-BA,Apache Spark,0,2023,ferramentas
+Ceará,BR-CE,Apache Spark,0,2023,ferramentas
+Distrito Federal,BR-DF,Apache Spark,0,2023,ferramentas
+Espírito Santo,BR-ES,Apache Spark,0,2023,ferramentas
+Goiás,BR-GO,Apache Spark,0,2023,ferramentas
+Maranhão,BR-MA,Apache Spark,0,2023,ferramentas
+Mato Grosso,BR-MT,Apache Spark,0,2023,ferramentas
+Mato Grosso do Sul,BR-MS,Apache Spark,0,2023,ferramentas
+Minas Gerais,BR-MG,Apache Spark,0,2023,ferramentas
+Paraná,BR-PR,Apache Spark,0,2023,ferramentas
+Paraíba,BR-PB,Apache Spark,0,2023,ferramentas
+Pará,BR-PA,Apache Spark,0,2023,ferramentas
+Pernambuco,BR-PE,Apache Spark,0,2023,ferramentas
+Piauí,BR-PI,Apache Spark,0,2023,ferramentas
+Rio Grande do Norte,BR-RN,Apache Spark,0,2023,ferramentas
+Rio Grande do Sul,BR-RS,Apache Spark,1,2023,ferramentas
+Rio de Janeiro,BR-RJ,Apache Spark,0,2023,ferramentas
+Rondônia,BR-RO,Apache Spark,0,2023,ferramentas
+Roraima,BR-RR,Apache Spark,0,2023,ferramentas
+Santa Catarina,BR-SC,Apache Spark,1,2023,ferramentas
+Sergipe,BR-SE,Apache Spark,0,2023,ferramentas
+São Paulo,BR-SP,Apache Spark,0,2023,ferramentas
+Tocantins,BR-TO,Apache Spark,0,2023,ferramentas
+Acre,BR-AC,dbt,0,2023,ferramentas
+Alagoas,BR-AL,dbt,5,2023,ferramentas
+Amapá,BR-AP,dbt,0,2023,ferramentas
+Amazonas,BR-AM,dbt,2,2023,ferramentas
+Bahia,BR-BA,dbt,5,2023,ferramentas
+Ceará,BR-CE,dbt,3,2023,ferramentas
+Distrito Federal,BR-DF,dbt,3,2023,ferramentas
+Espírito Santo,BR-ES,dbt,2,2023,ferramentas
+Goiás,BR-GO,dbt,2,2023,ferramentas
+Maranhão,BR-MA,dbt,3,2023,ferramentas
+Mato Grosso,BR-MT,dbt,3,2023,ferramentas
+Mato Grosso do Sul,BR-MS,dbt,3,2023,ferramentas
+Minas Gerais,BR-MG,dbt,3,2023,ferramentas
+Paraná,BR-PR,dbt,3,2023,ferramentas
+Paraíba,BR-PB,dbt,6,2023,ferramentas
+Pará,BR-PA,dbt,2,2023,ferramentas
+Pernambuco,BR-PE,dbt,4,2023,ferramentas
+Piauí,BR-PI,dbt,4,2023,ferramentas
+Rio Grande do Norte,BR-RN,dbt,6,2023,ferramentas
+Rio Grande do Sul,BR-RS,dbt,5,2023,ferramentas
+Rio de Janeiro,BR-RJ,dbt,2,2023,ferramentas
+Rondônia,BR-RO,dbt,4,2023,ferramentas
+Roraima,BR-RR,dbt,0,2023,ferramentas
+Santa Catarina,BR-SC,dbt,5,2023,ferramentas
+Sergipe,BR-SE,dbt,3,2023,ferramentas
+São Paulo,BR-SP,dbt,2,2023,ferramentas
+Tocantins,BR-TO,dbt,0,2023,ferramentas
+Acre,BR-AC,Databricks,0,2023,ferramentas
+Alagoas,BR-AL,Databricks,3,2023,ferramentas
+Amapá,BR-AP,Databricks,0,2023,ferramentas
+Amazonas,BR-AM,Databricks,2,2023,ferramentas
+Bahia,BR-BA,Databricks,3,2023,ferramentas
+Ceará,BR-CE,Databricks,3,2023,ferramentas
+Distrito Federal,BR-DF,Databricks,4,2023,ferramentas
+Espírito Santo,BR-ES,Databricks,5,2023,ferramentas
+Goiás,BR-GO,Databricks,3,2023,ferramentas
+Maranhão,BR-MA,Databricks,3,2023,ferramentas
+Mato Grosso,BR-MT,Databricks,0,2023,ferramentas
+Mato Grosso do Sul,BR-MS,Databricks,2,2023,ferramentas
+Minas Gerais,BR-MG,Databricks,4,2023,ferramentas
+Paraná,BR-PR,Databricks,4,2023,ferramentas
+Paraíba,BR-PB,Databricks,5,2023,ferramentas
+Pará,BR-PA,Databricks,1,2023,ferramentas
+Pernambuco,BR-PE,Databricks,5,2023,ferramentas
+Piauí,BR-PI,Databricks,1,2023,ferramentas
+Rio Grande do Norte,BR-RN,Databricks,2,2023,ferramentas
+Rio Grande do Sul,BR-RS,Databricks,7,2023,ferramentas
+Rio de Janeiro,BR-RJ,Databricks,4,2023,ferramentas
+Rondônia,BR-RO,Databricks,0,2023,ferramentas
+Roraima,BR-RR,Databricks,0,2023,ferramentas
+Santa Catarina,BR-SC,Databricks,6,2023,ferramentas
+Sergipe,BR-SE,Databricks,5,2023,ferramentas
+São Paulo,BR-SP,Databricks,7,2023,ferramentas
+Tocantins,BR-TO,Databricks,0,2023,ferramentas
+Acre,BR-AC,cientista de dados,4,2023,carreiras
+Alagoas,BR-AL,cientista de dados,5,2023,carreiras
+Amapá,BR-AP,cientista de dados,0,2023,carreiras
+Amazonas,BR-AM,cientista de dados,4,2023,carreiras
+Bahia,BR-BA,cientista de dados,4,2023,carreiras
+Ceará,BR-CE,cientista de dados,4,2023,carreiras
+Distrito Federal,BR-DF,cientista de dados,4,2023,carreiras
+Espírito Santo,BR-ES,cientista de dados,5,2023,carreiras
+Goiás,BR-GO,cientista de dados,4,2023,carreiras
+Maranhão,BR-MA,cientista de dados,4,2023,carreiras
+Mato Grosso,BR-MT,cientista de dados,4,2023,carreiras
+Mato Grosso do Sul,BR-MS,cientista de dados,5,2023,carreiras
+Minas Gerais,BR-MG,cientista de dados,4,2023,carreiras
+Paraná,BR-PR,cientista de dados,3,2023,carreiras
+Paraíba,BR-PB,cientista de dados,4,2023,carreiras
+Pará,BR-PA,cientista de dados,4,2023,carreiras
+Pernambuco,BR-PE,cientista de dados,4,2023,carreiras
+Piauí,BR-PI,cientista de dados,3,2023,carreiras
+Rio Grande do Norte,BR-RN,cientista de dados,4,2023,carreiras
+Rio Grande do Sul,BR-RS,cientista de dados,3,2023,carreiras
+Rio de Janeiro,BR-RJ,cientista de dados,5,2023,carreiras
+Rondônia,BR-RO,cientista de dados,4,2023,carreiras
+Roraima,BR-RR,cientista de dados,0,2023,carreiras
+Santa Catarina,BR-SC,cientista de dados,3,2023,carreiras
+Sergipe,BR-SE,cientista de dados,6,2023,carreiras
+São Paulo,BR-SP,cientista de dados,4,2023,carreiras
+Tocantins,BR-TO,cientista de dados,4,2023,carreiras
+Acre,BR-AC,engenheiro de dados,0,2023,carreiras
+Alagoas,BR-AL,engenheiro de dados,1,2023,carreiras
+Amapá,BR-AP,engenheiro de dados,0,2023,carreiras
+Amazonas,BR-AM,engenheiro de dados,2,2023,carreiras
+Bahia,BR-BA,engenheiro de dados,1,2023,carreiras
+Ceará,BR-CE,engenheiro de dados,1,2023,carreiras
+Distrito Federal,BR-DF,engenheiro de dados,1,2023,carreiras
+Espírito Santo,BR-ES,engenheiro de dados,1,2023,carreiras
+Goiás,BR-GO,engenheiro de dados,1,2023,carreiras
+Maranhão,BR-MA,engenheiro de dados,1,2023,carreiras
+Mato Grosso,BR-MT,engenheiro de dados,1,2023,carreiras
+Mato Grosso do Sul,BR-MS,engenheiro de dados,1,2023,carreiras
+Minas Gerais,BR-MG,engenheiro de dados,2,2023,carreiras
+Paraná,BR-PR,engenheiro de dados,2,2023,carreiras
+Paraíba,BR-PB,engenheiro de dados,2,2023,carreiras
+Pará,BR-PA,engenheiro de dados,2,2023,carreiras
+Pernambuco,BR-PE,engenheiro de dados,2,2023,carreiras
+Piauí,BR-PI,engenheiro de dados,1,2023,carreiras
+Rio Grande do Norte,BR-RN,engenheiro de dados,1,2023,carreiras
+Rio Grande do Sul,BR-RS,engenheiro de dados,1,2023,carreiras
+Rio de Janeiro,BR-RJ,engenheiro de dados,2,2023,carreiras
+Rondônia,BR-RO,engenheiro de dados,2,2023,carreiras
+Roraima,BR-RR,engenheiro de dados,0,2023,carreiras
+Santa Catarina,BR-SC,engenheiro de dados,1,2023,carreiras
+Sergipe,BR-SE,engenheiro de dados,2,2023,carreiras
+São Paulo,BR-SP,engenheiro de dados,2,2023,carreiras
+Tocantins,BR-TO,engenheiro de dados,0,2023,carreiras
+Acre,BR-AC,analista de dados,4,2023,carreiras
+Alagoas,BR-AL,analista de dados,7,2023,carreiras
+Amapá,BR-AP,analista de dados,6,2023,carreiras
+Amazonas,BR-AM,analista de dados,8,2023,carreiras
+Bahia,BR-BA,analista de dados,7,2023,carreiras
+Ceará,BR-CE,analista de dados,8,2023,carreiras
+Distrito Federal,BR-DF,analista de dados,7,2023,carreiras
+Espírito Santo,BR-ES,analista de dados,10,2023,carreiras
+Goiás,BR-GO,analista de dados,7,2023,carreiras
+Maranhão,BR-MA,analista de dados,7,2023,carreiras
+Mato Grosso,BR-MT,analista de dados,7,2023,carreiras
+Mato Grosso do Sul,BR-MS,analista de dados,6,2023,carreiras
+Minas Gerais,BR-MG,analista de dados,7,2023,carreiras
+Paraná,BR-PR,analista de dados,6,2023,carreiras
+Paraíba,BR-PB,analista de dados,7,2023,carreiras
+Pará,BR-PA,analista de dados,7,2023,carreiras
+Pernambuco,BR-PE,analista de dados,8,2023,carreiras
+Piauí,BR-PI,analista de dados,8,2023,carreiras
+Rio Grande do Norte,BR-RN,analista de dados,5,2023,carreiras
+Rio Grande do Sul,BR-RS,analista de dados,6,2023,carreiras
+Rio de Janeiro,BR-RJ,analista de dados,8,2023,carreiras
+Rondônia,BR-RO,analista de dados,6,2023,carreiras
+Roraima,BR-RR,analista de dados,0,2023,carreiras
+Santa Catarina,BR-SC,analista de dados,6,2023,carreiras
+Sergipe,BR-SE,analista de dados,8,2023,carreiras
+São Paulo,BR-SP,analista de dados,9,2023,carreiras
+Tocantins,BR-TO,analista de dados,4,2023,carreiras
+Acre,BR-AC,machine learning,4,2023,carreiras
+Alagoas,BR-AL,machine learning,9,2023,carreiras
+Amapá,BR-AP,machine learning,6,2023,carreiras
+Amazonas,BR-AM,machine learning,13,2023,carreiras
+Bahia,BR-BA,machine learning,9,2023,carreiras
+Ceará,BR-CE,machine learning,11,2023,carreiras
+Distrito Federal,BR-DF,machine learning,15,2023,carreiras
+Espírito Santo,BR-ES,machine learning,9,2023,carreiras
+Goiás,BR-GO,machine learning,8,2023,carreiras
+Maranhão,BR-MA,machine learning,9,2023,carreiras
+Mato Grosso,BR-MT,machine learning,7,2023,carreiras
+Mato Grosso do Sul,BR-MS,machine learning,8,2023,carreiras
+Minas Gerais,BR-MG,machine learning,8,2023,carreiras
+Paraná,BR-PR,machine learning,10,2023,carreiras
+Paraíba,BR-PB,machine learning,12,2023,carreiras
+Pará,BR-PA,machine learning,9,2023,carreiras
+Pernambuco,BR-PE,machine learning,13,2023,carreiras
+Piauí,BR-PI,machine learning,10,2023,carreiras
+Rio Grande do Norte,BR-RN,machine learning,12,2023,carreiras
+Rio Grande do Sul,BR-RS,machine learning,10,2023,carreiras
+Rio de Janeiro,BR-RJ,machine learning,10,2023,carreiras
+Rondônia,BR-RO,machine learning,5,2023,carreiras
+Roraima,BR-RR,machine learning,6,2023,carreiras
+Santa Catarina,BR-SC,machine learning,9,2023,carreiras
+Sergipe,BR-SE,machine learning,10,2023,carreiras
+São Paulo,BR-SP,machine learning,12,2023,carreiras
+Tocantins,BR-TO,machine learning,7,2023,carreiras
+Acre,BR-AC,inteligencia artificial,88,2023,carreiras
+Alagoas,BR-AL,inteligencia artificial,78,2023,carreiras
+Amapá,BR-AP,inteligencia artificial,88,2023,carreiras
+Amazonas,BR-AM,inteligencia artificial,73,2023,carreiras
+Bahia,BR-BA,inteligencia artificial,79,2023,carreiras
+Ceará,BR-CE,inteligencia artificial,76,2023,carreiras
+Distrito Federal,BR-DF,inteligencia artificial,73,2023,carreiras
+Espírito Santo,BR-ES,inteligencia artificial,75,2023,carreiras
+Goiás,BR-GO,inteligencia artificial,80,2023,carreiras
+Maranhão,BR-MA,inteligencia artificial,79,2023,carreiras
+Mato Grosso,BR-MT,inteligencia artificial,81,2023,carreiras
+Mato Grosso do Sul,BR-MS,inteligencia artificial,80,2023,carreiras
+Minas Gerais,BR-MG,inteligencia artificial,79,2023,carreiras
+Paraná,BR-PR,inteligencia artificial,79,2023,carreiras
+Paraíba,BR-PB,inteligencia artificial,75,2023,carreiras
+Pará,BR-PA,inteligencia artificial,78,2023,carreiras
+Pernambuco,BR-PE,inteligencia artificial,73,2023,carreiras
+Piauí,BR-PI,inteligencia artificial,78,2023,carreiras
+Rio Grande do Norte,BR-RN,inteligencia artificial,78,2023,carreiras
+Rio Grande do Sul,BR-RS,inteligencia artificial,80,2023,carreiras
+Rio de Janeiro,BR-RJ,inteligencia artificial,75,2023,carreiras
+Rondônia,BR-RO,inteligencia artificial,83,2023,carreiras
+Roraima,BR-RR,inteligencia artificial,94,2023,carreiras
+Santa Catarina,BR-SC,inteligencia artificial,81,2023,carreiras
+Sergipe,BR-SE,inteligencia artificial,74,2023,carreiras
+São Paulo,BR-SP,inteligencia artificial,73,2023,carreiras
+Tocantins,BR-TO,inteligencia artificial,85,2023,carreiras
+Acre,BR-AC,Python,15,2024,linguagens
+Alagoas,BR-AL,Python,18,2024,linguagens
+Amapá,BR-AP,Python,14,2024,linguagens
+Amazonas,BR-AM,Python,18,2024,linguagens
+Bahia,BR-BA,Python,15,2024,linguagens
+Ceará,BR-CE,Python,20,2024,linguagens
+Distrito Federal,BR-DF,Python,29,2024,linguagens
+Espírito Santo,BR-ES,Python,18,2024,linguagens
+Goiás,BR-GO,Python,16,2024,linguagens
+Maranhão,BR-MA,Python,13,2024,linguagens
+Mato Grosso,BR-MT,Python,14,2024,linguagens
+Mato Grosso do Sul,BR-MS,Python,13,2024,linguagens
+Minas Gerais,BR-MG,Python,18,2024,linguagens
+Paraná,BR-PR,Python,17,2024,linguagens
+Paraíba,BR-PB,Python,26,2024,linguagens
+Pará,BR-PA,Python,13,2024,linguagens
+Pernambuco,BR-PE,Python,22,2024,linguagens
+Piauí,BR-PI,Python,17,2024,linguagens
+Rio Grande do Norte,BR-RN,Python,21,2024,linguagens
+Rio Grande do Sul,BR-RS,Python,18,2024,linguagens
+Rio de Janeiro,BR-RJ,Python,21,2024,linguagens
+Rondônia,BR-RO,Python,12,2024,linguagens
+Roraima,BR-RR,Python,13,2024,linguagens
+Santa Catarina,BR-SC,Python,20,2024,linguagens
+Sergipe,BR-SE,Python,17,2024,linguagens
+São Paulo,BR-SP,Python,21,2024,linguagens
+Tocantins,BR-TO,Python,15,2024,linguagens
+Acre,BR-AC,SQL,5,2024,linguagens
+Alagoas,BR-AL,SQL,5,2024,linguagens
+Amapá,BR-AP,SQL,4,2024,linguagens
+Amazonas,BR-AM,SQL,5,2024,linguagens
+Bahia,BR-BA,SQL,5,2024,linguagens
+Ceará,BR-CE,SQL,8,2024,linguagens
+Distrito Federal,BR-DF,SQL,14,2024,linguagens
+Espírito Santo,BR-ES,SQL,9,2024,linguagens
+Goiás,BR-GO,SQL,8,2024,linguagens
+Maranhão,BR-MA,SQL,4,2024,linguagens
+Mato Grosso,BR-MT,SQL,6,2024,linguagens
+Mato Grosso do Sul,BR-MS,SQL,6,2024,linguagens
+Minas Gerais,BR-MG,SQL,9,2024,linguagens
+Paraná,BR-PR,SQL,9,2024,linguagens
+Paraíba,BR-PB,SQL,7,2024,linguagens
+Pará,BR-PA,SQL,4,2024,linguagens
+Pernambuco,BR-PE,SQL,7,2024,linguagens
+Piauí,BR-PI,SQL,4,2024,linguagens
+Rio Grande do Norte,BR-RN,SQL,6,2024,linguagens
+Rio Grande do Sul,BR-RS,SQL,9,2024,linguagens
+Rio de Janeiro,BR-RJ,SQL,8,2024,linguagens
+Rondônia,BR-RO,SQL,6,2024,linguagens
+Roraima,BR-RR,SQL,3,2024,linguagens
+Santa Catarina,BR-SC,SQL,11,2024,linguagens
+Sergipe,BR-SE,SQL,9,2024,linguagens
+São Paulo,BR-SP,SQL,11,2024,linguagens
+Tocantins,BR-TO,SQL,7,2024,linguagens
+Acre,BR-AC,R,59,2024,linguagens
+Alagoas,BR-AL,R,58,2024,linguagens
+Amapá,BR-AP,R,60,2024,linguagens
+Amazonas,BR-AM,R,51,2024,linguagens
+Bahia,BR-BA,R,59,2024,linguagens
+Ceará,BR-CE,R,54,2024,linguagens
+Distrito Federal,BR-DF,R,41,2024,linguagens
+Espírito Santo,BR-ES,R,53,2024,linguagens
+Goiás,BR-GO,R,57,2024,linguagens
+Maranhão,BR-MA,R,59,2024,linguagens
+Mato Grosso,BR-MT,R,59,2024,linguagens
+Mato Grosso do Sul,BR-MS,R,62,2024,linguagens
+Minas Gerais,BR-MG,R,53,2024,linguagens
+Paraná,BR-PR,R,55,2024,linguagens
+Paraíba,BR-PB,R,49,2024,linguagens
+Pará,BR-PA,R,58,2024,linguagens
+Pernambuco,BR-PE,R,54,2024,linguagens
+Piauí,BR-PI,R,61,2024,linguagens
+Rio Grande do Norte,BR-RN,R,54,2024,linguagens
+Rio Grande do Sul,BR-RS,R,53,2024,linguagens
+Rio de Janeiro,BR-RJ,R,51,2024,linguagens
+Rondônia,BR-RO,R,66,2024,linguagens
+Roraima,BR-RR,R,64,2024,linguagens
+Santa Catarina,BR-SC,R,51,2024,linguagens
+Sergipe,BR-SE,R,57,2024,linguagens
+São Paulo,BR-SP,R,50,2024,linguagens
+Tocantins,BR-TO,R,60,2024,linguagens
+Acre,BR-AC,Scala,2,2024,linguagens
+Alagoas,BR-AL,Scala,0,2024,linguagens
+Amapá,BR-AP,Scala,0,2024,linguagens
+Amazonas,BR-AM,Scala,0,2024,linguagens
+Bahia,BR-BA,Scala,1,2024,linguagens
+Ceará,BR-CE,Scala,0,2024,linguagens
+Distrito Federal,BR-DF,Scala,1,2024,linguagens
+Espírito Santo,BR-ES,Scala,0,2024,linguagens
+Goiás,BR-GO,Scala,1,2024,linguagens
+Maranhão,BR-MA,Scala,1,2024,linguagens
+Mato Grosso,BR-MT,Scala,1,2024,linguagens
+Mato Grosso do Sul,BR-MS,Scala,1,2024,linguagens
+Minas Gerais,BR-MG,Scala,1,2024,linguagens
+Paraná,BR-PR,Scala,0,2024,linguagens
+Paraíba,BR-PB,Scala,0,2024,linguagens
+Pará,BR-PA,Scala,1,2024,linguagens
+Pernambuco,BR-PE,Scala,0,2024,linguagens
+Piauí,BR-PI,Scala,1,2024,linguagens
+Rio Grande do Norte,BR-RN,Scala,0,2024,linguagens
+Rio Grande do Sul,BR-RS,Scala,1,2024,linguagens
+Rio de Janeiro,BR-RJ,Scala,0,2024,linguagens
+Rondônia,BR-RO,Scala,0,2024,linguagens
+Roraima,BR-RR,Scala,0,2024,linguagens
+Santa Catarina,BR-SC,Scala,0,2024,linguagens
+Sergipe,BR-SE,Scala,0,2024,linguagens
+São Paulo,BR-SP,Scala,1,2024,linguagens
+Tocantins,BR-TO,Scala,0,2024,linguagens
+Acre,BR-AC,Julia,19,2024,linguagens
+Alagoas,BR-AL,Julia,19,2024,linguagens
+Amapá,BR-AP,Julia,22,2024,linguagens
+Amazonas,BR-AM,Julia,26,2024,linguagens
+Bahia,BR-BA,Julia,20,2024,linguagens
+Ceará,BR-CE,Julia,18,2024,linguagens
+Distrito Federal,BR-DF,Julia,15,2024,linguagens
+Espírito Santo,BR-ES,Julia,20,2024,linguagens
+Goiás,BR-GO,Julia,18,2024,linguagens
+Maranhão,BR-MA,Julia,23,2024,linguagens
+Mato Grosso,BR-MT,Julia,20,2024,linguagens
+Mato Grosso do Sul,BR-MS,Julia,18,2024,linguagens
+Minas Gerais,BR-MG,Julia,19,2024,linguagens
+Paraná,BR-PR,Julia,19,2024,linguagens
+Paraíba,BR-PB,Julia,18,2024,linguagens
+Pará,BR-PA,Julia,24,2024,linguagens
+Pernambuco,BR-PE,Julia,17,2024,linguagens
+Piauí,BR-PI,Julia,17,2024,linguagens
+Rio Grande do Norte,BR-RN,Julia,19,2024,linguagens
+Rio Grande do Sul,BR-RS,Julia,19,2024,linguagens
+Rio de Janeiro,BR-RJ,Julia,20,2024,linguagens
+Rondônia,BR-RO,Julia,16,2024,linguagens
+Roraima,BR-RR,Julia,20,2024,linguagens
+Santa Catarina,BR-SC,Julia,18,2024,linguagens
+Sergipe,BR-SE,Julia,17,2024,linguagens
+São Paulo,BR-SP,Julia,17,2024,linguagens
+Tocantins,BR-TO,Julia,18,2024,linguagens
+Acre,BR-AC,Power BI,85,2024,ferramentas
+Alagoas,BR-AL,Power BI,88,2024,ferramentas
+Amapá,BR-AP,Power BI,87,2024,ferramentas
+Amazonas,BR-AM,Power BI,91,2024,ferramentas
+Bahia,BR-BA,Power BI,87,2024,ferramentas
+Ceará,BR-CE,Power BI,88,2024,ferramentas
+Distrito Federal,BR-DF,Power BI,85,2024,ferramentas
+Espírito Santo,BR-ES,Power BI,85,2024,ferramentas
+Goiás,BR-GO,Power BI,90,2024,ferramentas
+Maranhão,BR-MA,Power BI,88,2024,ferramentas
+Mato Grosso,BR-MT,Power BI,91,2024,ferramentas
+Mato Grosso do Sul,BR-MS,Power BI,89,2024,ferramentas
+Minas Gerais,BR-MG,Power BI,87,2024,ferramentas
+Paraná,BR-PR,Power BI,89,2024,ferramentas
+Paraíba,BR-PB,Power BI,80,2024,ferramentas
+Pará,BR-PA,Power BI,92,2024,ferramentas
+Pernambuco,BR-PE,Power BI,88,2024,ferramentas
+Piauí,BR-PI,Power BI,92,2024,ferramentas
+Rio Grande do Norte,BR-RN,Power BI,87,2024,ferramentas
+Rio Grande do Sul,BR-RS,Power BI,80,2024,ferramentas
+Rio de Janeiro,BR-RJ,Power BI,86,2024,ferramentas
+Rondônia,BR-RO,Power BI,93,2024,ferramentas
+Roraima,BR-RR,Power BI,100,2024,ferramentas
+Santa Catarina,BR-SC,Power BI,81,2024,ferramentas
+Sergipe,BR-SE,Power BI,89,2024,ferramentas
+São Paulo,BR-SP,Power BI,79,2024,ferramentas
+Tocantins,BR-TO,Power BI,96,2024,ferramentas
+Acre,BR-AC,Tableau,15,2024,ferramentas
+Alagoas,BR-AL,Tableau,3,2024,ferramentas
+Amapá,BR-AP,Tableau,13,2024,ferramentas
+Amazonas,BR-AM,Tableau,3,2024,ferramentas
+Bahia,BR-BA,Tableau,4,2024,ferramentas
+Ceará,BR-CE,Tableau,4,2024,ferramentas
+Distrito Federal,BR-DF,Tableau,4,2024,ferramentas
+Espírito Santo,BR-ES,Tableau,6,2024,ferramentas
+Goiás,BR-GO,Tableau,2,2024,ferramentas
+Maranhão,BR-MA,Tableau,4,2024,ferramentas
+Mato Grosso,BR-MT,Tableau,4,2024,ferramentas
+Mato Grosso do Sul,BR-MS,Tableau,4,2024,ferramentas
+Minas Gerais,BR-MG,Tableau,5,2024,ferramentas
+Paraná,BR-PR,Tableau,4,2024,ferramentas
+Paraíba,BR-PB,Tableau,5,2024,ferramentas
+Pará,BR-PA,Tableau,3,2024,ferramentas
+Pernambuco,BR-PE,Tableau,4,2024,ferramentas
+Piauí,BR-PI,Tableau,5,2024,ferramentas
+Rio Grande do Norte,BR-RN,Tableau,4,2024,ferramentas
+Rio Grande do Sul,BR-RS,Tableau,6,2024,ferramentas
+Rio de Janeiro,BR-RJ,Tableau,5,2024,ferramentas
+Rondônia,BR-RO,Tableau,0,2024,ferramentas
+Roraima,BR-RR,Tableau,0,2024,ferramentas
+Santa Catarina,BR-SC,Tableau,5,2024,ferramentas
+Sergipe,BR-SE,Tableau,3,2024,ferramentas
+São Paulo,BR-SP,Tableau,9,2024,ferramentas
+Tocantins,BR-TO,Tableau,0,2024,ferramentas
+Acre,BR-AC,Apache Spark,0,2024,ferramentas
+Alagoas,BR-AL,Apache Spark,0,2024,ferramentas
+Amapá,BR-AP,Apache Spark,0,2024,ferramentas
+Amazonas,BR-AM,Apache Spark,0,2024,ferramentas
+Bahia,BR-BA,Apache Spark,0,2024,ferramentas
+Ceará,BR-CE,Apache Spark,0,2024,ferramentas
+Distrito Federal,BR-DF,Apache Spark,0,2024,ferramentas
+Espírito Santo,BR-ES,Apache Spark,0,2024,ferramentas
+Goiás,BR-GO,Apache Spark,0,2024,ferramentas
+Maranhão,BR-MA,Apache Spark,0,2024,ferramentas
+Mato Grosso,BR-MT,Apache Spark,0,2024,ferramentas
+Mato Grosso do Sul,BR-MS,Apache Spark,0,2024,ferramentas
+Minas Gerais,BR-MG,Apache Spark,0,2024,ferramentas
+Paraná,BR-PR,Apache Spark,0,2024,ferramentas
+Paraíba,BR-PB,Apache Spark,1,2024,ferramentas
+Pará,BR-PA,Apache Spark,0,2024,ferramentas
+Pernambuco,BR-PE,Apache Spark,0,2024,ferramentas
+Piauí,BR-PI,Apache Spark,0,2024,ferramentas
+Rio Grande do Norte,BR-RN,Apache Spark,0,2024,ferramentas
+Rio Grande do Sul,BR-RS,Apache Spark,0,2024,ferramentas
+Rio de Janeiro,BR-RJ,Apache Spark,0,2024,ferramentas
+Rondônia,BR-RO,Apache Spark,0,2024,ferramentas
+Roraima,BR-RR,Apache Spark,0,2024,ferramentas
+Santa Catarina,BR-SC,Apache Spark,1,2024,ferramentas
+Sergipe,BR-SE,Apache Spark,0,2024,ferramentas
+São Paulo,BR-SP,Apache Spark,0,2024,ferramentas
+Tocantins,BR-TO,Apache Spark,0,2024,ferramentas
+Acre,BR-AC,dbt,0,2024,ferramentas
+Alagoas,BR-AL,dbt,6,2024,ferramentas
+Amapá,BR-AP,dbt,0,2024,ferramentas
+Amazonas,BR-AM,dbt,3,2024,ferramentas
+Bahia,BR-BA,dbt,6,2024,ferramentas
+Ceará,BR-CE,dbt,4,2024,ferramentas
+Distrito Federal,BR-DF,dbt,4,2024,ferramentas
+Espírito Santo,BR-ES,dbt,3,2024,ferramentas
+Goiás,BR-GO,dbt,4,2024,ferramentas
+Maranhão,BR-MA,dbt,4,2024,ferramentas
+Mato Grosso,BR-MT,dbt,4,2024,ferramentas
+Mato Grosso do Sul,BR-MS,dbt,5,2024,ferramentas
+Minas Gerais,BR-MG,dbt,3,2024,ferramentas
+Paraná,BR-PR,dbt,3,2024,ferramentas
+Paraíba,BR-PB,dbt,6,2024,ferramentas
+Pará,BR-PA,dbt,3,2024,ferramentas
+Pernambuco,BR-PE,dbt,4,2024,ferramentas
+Piauí,BR-PI,dbt,3,2024,ferramentas
+Rio Grande do Norte,BR-RN,dbt,5,2024,ferramentas
+Rio Grande do Sul,BR-RS,dbt,5,2024,ferramentas
+Rio de Janeiro,BR-RJ,dbt,3,2024,ferramentas
+Rondônia,BR-RO,dbt,4,2024,ferramentas
+Roraima,BR-RR,dbt,0,2024,ferramentas
+Santa Catarina,BR-SC,dbt,6,2024,ferramentas
+Sergipe,BR-SE,dbt,5,2024,ferramentas
+São Paulo,BR-SP,dbt,2,2024,ferramentas
+Tocantins,BR-TO,dbt,4,2024,ferramentas
+Acre,BR-AC,Databricks,0,2024,ferramentas
+Alagoas,BR-AL,Databricks,3,2024,ferramentas
+Amapá,BR-AP,Databricks,0,2024,ferramentas
+Amazonas,BR-AM,Databricks,3,2024,ferramentas
+Bahia,BR-BA,Databricks,3,2024,ferramentas
+Ceará,BR-CE,Databricks,4,2024,ferramentas
+Distrito Federal,BR-DF,Databricks,7,2024,ferramentas
+Espírito Santo,BR-ES,Databricks,6,2024,ferramentas
+Goiás,BR-GO,Databricks,4,2024,ferramentas
+Maranhão,BR-MA,Databricks,4,2024,ferramentas
+Mato Grosso,BR-MT,Databricks,1,2024,ferramentas
+Mato Grosso do Sul,BR-MS,Databricks,2,2024,ferramentas
+Minas Gerais,BR-MG,Databricks,5,2024,ferramentas
+Paraná,BR-PR,Databricks,4,2024,ferramentas
+Paraíba,BR-PB,Databricks,8,2024,ferramentas
+Pará,BR-PA,Databricks,2,2024,ferramentas
+Pernambuco,BR-PE,Databricks,4,2024,ferramentas
+Piauí,BR-PI,Databricks,0,2024,ferramentas
+Rio Grande do Norte,BR-RN,Databricks,4,2024,ferramentas
+Rio Grande do Sul,BR-RS,Databricks,9,2024,ferramentas
+Rio de Janeiro,BR-RJ,Databricks,6,2024,ferramentas
+Rondônia,BR-RO,Databricks,3,2024,ferramentas
+Roraima,BR-RR,Databricks,0,2024,ferramentas
+Santa Catarina,BR-SC,Databricks,7,2024,ferramentas
+Sergipe,BR-SE,Databricks,3,2024,ferramentas
+São Paulo,BR-SP,Databricks,10,2024,ferramentas
+Tocantins,BR-TO,Databricks,0,2024,ferramentas
+Acre,BR-AC,cientista de dados,4,2024,carreiras
+Alagoas,BR-AL,cientista de dados,4,2024,carreiras
+Amapá,BR-AP,cientista de dados,0,2024,carreiras
+Amazonas,BR-AM,cientista de dados,5,2024,carreiras
+Bahia,BR-BA,cientista de dados,4,2024,carreiras
+Ceará,BR-CE,cientista de dados,6,2024,carreiras
+Distrito Federal,BR-DF,cientista de dados,4,2024,carreiras
+Espírito Santo,BR-ES,cientista de dados,5,2024,carreiras
+Goiás,BR-GO,cientista de dados,4,2024,carreiras
+Maranhão,BR-MA,cientista de dados,4,2024,carreiras
+Mato Grosso,BR-MT,cientista de dados,4,2024,carreiras
+Mato Grosso do Sul,BR-MS,cientista de dados,4,2024,carreiras
+Minas Gerais,BR-MG,cientista de dados,4,2024,carreiras
+Paraná,BR-PR,cientista de dados,4,2024,carreiras
+Paraíba,BR-PB,cientista de dados,4,2024,carreiras
+Pará,BR-PA,cientista de dados,5,2024,carreiras
+Pernambuco,BR-PE,cientista de dados,5,2024,carreiras
+Piauí,BR-PI,cientista de dados,3,2024,carreiras
+Rio Grande do Norte,BR-RN,cientista de dados,4,2024,carreiras
+Rio Grande do Sul,BR-RS,cientista de dados,3,2024,carreiras
+Rio de Janeiro,BR-RJ,cientista de dados,4,2024,carreiras
+Rondônia,BR-RO,cientista de dados,3,2024,carreiras
+Roraima,BR-RR,cientista de dados,0,2024,carreiras
+Santa Catarina,BR-SC,cientista de dados,3,2024,carreiras
+Sergipe,BR-SE,cientista de dados,4,2024,carreiras
+São Paulo,BR-SP,cientista de dados,5,2024,carreiras
+Tocantins,BR-TO,cientista de dados,3,2024,carreiras
+Acre,BR-AC,engenheiro de dados,0,2024,carreiras
+Alagoas,BR-AL,engenheiro de dados,2,2024,carreiras
+Amapá,BR-AP,engenheiro de dados,0,2024,carreiras
+Amazonas,BR-AM,engenheiro de dados,2,2024,carreiras
+Bahia,BR-BA,engenheiro de dados,2,2024,carreiras
+Ceará,BR-CE,engenheiro de dados,2,2024,carreiras
+Distrito Federal,BR-DF,engenheiro de dados,2,2024,carreiras
+Espírito Santo,BR-ES,engenheiro de dados,3,2024,carreiras
+Goiás,BR-GO,engenheiro de dados,2,2024,carreiras
+Maranhão,BR-MA,engenheiro de dados,1,2024,carreiras
+Mato Grosso,BR-MT,engenheiro de dados,2,2024,carreiras
+Mato Grosso do Sul,BR-MS,engenheiro de dados,2,2024,carreiras
+Minas Gerais,BR-MG,engenheiro de dados,2,2024,carreiras
+Paraná,BR-PR,engenheiro de dados,2,2024,carreiras
+Paraíba,BR-PB,engenheiro de dados,2,2024,carreiras
+Pará,BR-PA,engenheiro de dados,3,2024,carreiras
+Pernambuco,BR-PE,engenheiro de dados,2,2024,carreiras
+Piauí,BR-PI,engenheiro de dados,1,2024,carreiras
+Rio Grande do Norte,BR-RN,engenheiro de dados,2,2024,carreiras
+Rio Grande do Sul,BR-RS,engenheiro de dados,2,2024,carreiras
+Rio de Janeiro,BR-RJ,engenheiro de dados,2,2024,carreiras
+Rondônia,BR-RO,engenheiro de dados,2,2024,carreiras
+Roraima,BR-RR,engenheiro de dados,0,2024,carreiras
+Santa Catarina,BR-SC,engenheiro de dados,2,2024,carreiras
+Sergipe,BR-SE,engenheiro de dados,2,2024,carreiras
+São Paulo,BR-SP,engenheiro de dados,2,2024,carreiras
+Tocantins,BR-TO,engenheiro de dados,0,2024,carreiras
+Acre,BR-AC,analista de dados,7,2024,carreiras
+Alagoas,BR-AL,analista de dados,10,2024,carreiras
+Amapá,BR-AP,analista de dados,6,2024,carreiras
+Amazonas,BR-AM,analista de dados,9,2024,carreiras
+Bahia,BR-BA,analista de dados,8,2024,carreiras
+Ceará,BR-CE,analista de dados,12,2024,carreiras
+Distrito Federal,BR-DF,analista de dados,9,2024,carreiras
+Espírito Santo,BR-ES,analista de dados,11,2024,carreiras
+Goiás,BR-GO,analista de dados,8,2024,carreiras
+Maranhão,BR-MA,analista de dados,11,2024,carreiras
+Mato Grosso,BR-MT,analista de dados,9,2024,carreiras
+Mato Grosso do Sul,BR-MS,analista de dados,9,2024,carreiras
+Minas Gerais,BR-MG,analista de dados,9,2024,carreiras
+Paraná,BR-PR,analista de dados,9,2024,carreiras
+Paraíba,BR-PB,analista de dados,9,2024,carreiras
+Pará,BR-PA,analista de dados,11,2024,carreiras
+Pernambuco,BR-PE,analista de dados,11,2024,carreiras
+Piauí,BR-PI,analista de dados,8,2024,carreiras
+Rio Grande do Norte,BR-RN,analista de dados,7,2024,carreiras
+Rio Grande do Sul,BR-RS,analista de dados,8,2024,carreiras
+Rio de Janeiro,BR-RJ,analista de dados,11,2024,carreiras
+Rondônia,BR-RO,analista de dados,7,2024,carreiras
+Roraima,BR-RR,analista de dados,7,2024,carreiras
+Santa Catarina,BR-SC,analista de dados,8,2024,carreiras
+Sergipe,BR-SE,analista de dados,8,2024,carreiras
+São Paulo,BR-SP,analista de dados,13,2024,carreiras
+Tocantins,BR-TO,analista de dados,7,2024,carreiras
+Acre,BR-AC,machine learning,8,2024,carreiras
+Alagoas,BR-AL,machine learning,11,2024,carreiras
+Amapá,BR-AP,machine learning,8,2024,carreiras
+Amazonas,BR-AM,machine learning,15,2024,carreiras
+Bahia,BR-BA,machine learning,9,2024,carreiras
+Ceará,BR-CE,machine learning,12,2024,carreiras
+Distrito Federal,BR-DF,machine learning,14,2024,carreiras
+Espírito Santo,BR-ES,machine learning,10,2024,carreiras
+Goiás,BR-GO,machine learning,8,2024,carreiras
+Maranhão,BR-MA,machine learning,10,2024,carreiras
+Mato Grosso,BR-MT,machine learning,9,2024,carreiras
+Mato Grosso do Sul,BR-MS,machine learning,10,2024,carreiras
+Minas Gerais,BR-MG,machine learning,10,2024,carreiras
+Paraná,BR-PR,machine learning,11,2024,carreiras
+Paraíba,BR-PB,machine learning,17,2024,carreiras
+Pará,BR-PA,machine learning,11,2024,carreiras
+Pernambuco,BR-PE,machine learning,14,2024,carreiras
+Piauí,BR-PI,machine learning,10,2024,carreiras
+Rio Grande do Norte,BR-RN,machine learning,14,2024,carreiras
+Rio Grande do Sul,BR-RS,machine learning,13,2024,carreiras
+Rio de Janeiro,BR-RJ,machine learning,11,2024,carreiras
+Rondônia,BR-RO,machine learning,8,2024,carreiras
+Roraima,BR-RR,machine learning,0,2024,carreiras
+Santa Catarina,BR-SC,machine learning,12,2024,carreiras
+Sergipe,BR-SE,machine learning,10,2024,carreiras
+São Paulo,BR-SP,machine learning,14,2024,carreiras
+Tocantins,BR-TO,machine learning,9,2024,carreiras
+Acre,BR-AC,inteligencia artificial,81,2024,carreiras
+Alagoas,BR-AL,inteligencia artificial,73,2024,carreiras
+Amapá,BR-AP,inteligencia artificial,86,2024,carreiras
+Amazonas,BR-AM,inteligencia artificial,69,2024,carreiras
+Bahia,BR-BA,inteligencia artificial,77,2024,carreiras
+Ceará,BR-CE,inteligencia artificial,68,2024,carreiras
+Distrito Federal,BR-DF,inteligencia artificial,71,2024,carreiras
+Espírito Santo,BR-ES,inteligencia artificial,71,2024,carreiras
+Goiás,BR-GO,inteligencia artificial,78,2024,carreiras
+Maranhão,BR-MA,inteligencia artificial,74,2024,carreiras
+Mato Grosso,BR-MT,inteligencia artificial,76,2024,carreiras
+Mato Grosso do Sul,BR-MS,inteligencia artificial,75,2024,carreiras
+Minas Gerais,BR-MG,inteligencia artificial,75,2024,carreiras
+Paraná,BR-PR,inteligencia artificial,74,2024,carreiras
+Paraíba,BR-PB,inteligencia artificial,68,2024,carreiras
+Pará,BR-PA,inteligencia artificial,70,2024,carreiras
+Pernambuco,BR-PE,inteligencia artificial,68,2024,carreiras
+Piauí,BR-PI,inteligencia artificial,78,2024,carreiras
+Rio Grande do Norte,BR-RN,inteligencia artificial,73,2024,carreiras
+Rio Grande do Sul,BR-RS,inteligencia artificial,74,2024,carreiras
+Rio de Janeiro,BR-RJ,inteligencia artificial,72,2024,carreiras
+Rondônia,BR-RO,inteligencia artificial,80,2024,carreiras
+Roraima,BR-RR,inteligencia artificial,93,2024,carreiras
+Santa Catarina,BR-SC,inteligencia artificial,75,2024,carreiras
+Sergipe,BR-SE,inteligencia artificial,76,2024,carreiras
+São Paulo,BR-SP,inteligencia artificial,66,2024,carreiras
+Tocantins,BR-TO,inteligencia artificial,81,2024,carreiras

@@ -1,0 +1,3151 @@
+﻿date,termo,interesse,grupo,ano
+2020-12-27,Python,11,linguagens,2020
+2021-01-03,Python,11,linguagens,2021
+2021-01-10,Python,12,linguagens,2021
+2021-01-17,Python,12,linguagens,2021
+2021-01-24,Python,13,linguagens,2021
+2021-01-31,Python,13,linguagens,2021
+2021-02-07,Python,14,linguagens,2021
+2021-02-14,Python,14,linguagens,2021
+2021-02-21,Python,15,linguagens,2021
+2021-02-28,Python,13,linguagens,2021
+2021-03-07,Python,15,linguagens,2021
+2021-03-14,Python,14,linguagens,2021
+2021-03-21,Python,14,linguagens,2021
+2021-03-28,Python,14,linguagens,2021
+2021-04-04,Python,15,linguagens,2021
+2021-04-11,Python,15,linguagens,2021
+2021-04-18,Python,17,linguagens,2021
+2021-04-25,Python,17,linguagens,2021
+2021-05-02,Python,16,linguagens,2021
+2021-05-09,Python,16,linguagens,2021
+2021-05-16,Python,17,linguagens,2021
+2021-05-23,Python,16,linguagens,2021
+2021-05-30,Python,16,linguagens,2021
+2021-06-06,Python,15,linguagens,2021
+2021-06-13,Python,17,linguagens,2021
+2021-06-20,Python,17,linguagens,2021
+2021-06-27,Python,16,linguagens,2021
+2021-07-04,Python,14,linguagens,2021
+2021-07-11,Python,16,linguagens,2021
+2021-07-18,Python,16,linguagens,2021
+2021-07-25,Python,16,linguagens,2021
+2021-08-01,Python,16,linguagens,2021
+2021-08-08,Python,16,linguagens,2021
+2021-08-15,Python,19,linguagens,2021
+2021-08-22,Python,17,linguagens,2021
+2021-08-29,Python,18,linguagens,2021
+2021-09-05,Python,17,linguagens,2021
+2021-09-12,Python,18,linguagens,2021
+2021-09-19,Python,19,linguagens,2021
+2021-09-26,Python,18,linguagens,2021
+2021-10-03,Python,18,linguagens,2021
+2021-10-10,Python,17,linguagens,2021
+2021-10-17,Python,18,linguagens,2021
+2021-10-24,Python,18,linguagens,2021
+2021-10-31,Python,18,linguagens,2021
+2021-11-07,Python,18,linguagens,2021
+2021-11-14,Python,17,linguagens,2021
+2021-11-21,Python,18,linguagens,2021
+2021-11-28,Python,17,linguagens,2021
+2021-12-05,Python,17,linguagens,2021
+2021-12-12,Python,19,linguagens,2021
+2021-12-19,Python,16,linguagens,2021
+2021-12-26,Python,17,linguagens,2021
+2022-01-02,Python,27,linguagens,2022
+2022-01-09,Python,30,linguagens,2022
+2022-01-16,Python,28,linguagens,2022
+2022-01-23,Python,30,linguagens,2022
+2022-01-30,Python,30,linguagens,2022
+2022-02-06,Python,33,linguagens,2022
+2022-02-13,Python,36,linguagens,2022
+2022-02-20,Python,35,linguagens,2022
+2022-02-27,Python,32,linguagens,2022
+2022-03-06,Python,34,linguagens,2022
+2022-03-13,Python,37,linguagens,2022
+2022-03-20,Python,37,linguagens,2022
+2022-03-27,Python,39,linguagens,2022
+2022-04-03,Python,41,linguagens,2022
+2022-04-10,Python,36,linguagens,2022
+2022-04-17,Python,37,linguagens,2022
+2022-04-24,Python,41,linguagens,2022
+2022-05-01,Python,40,linguagens,2022
+2022-05-08,Python,41,linguagens,2022
+2022-05-15,Python,38,linguagens,2022
+2022-05-22,Python,37,linguagens,2022
+2022-05-29,Python,37,linguagens,2022
+2022-06-05,Python,36,linguagens,2022
+2022-06-12,Python,32,linguagens,2022
+2022-06-19,Python,36,linguagens,2022
+2022-06-26,Python,33,linguagens,2022
+2022-07-03,Python,34,linguagens,2022
+2022-07-10,Python,33,linguagens,2022
+2022-07-17,Python,33,linguagens,2022
+2022-07-24,Python,36,linguagens,2022
+2022-07-31,Python,34,linguagens,2022
+2022-08-07,Python,34,linguagens,2022
+2022-08-14,Python,35,linguagens,2022
+2022-08-21,Python,37,linguagens,2022
+2022-08-28,Python,37,linguagens,2022
+2022-09-04,Python,33,linguagens,2022
+2022-09-11,Python,37,linguagens,2022
+2022-09-18,Python,37,linguagens,2022
+2022-09-25,Python,36,linguagens,2022
+2022-10-02,Python,31,linguagens,2022
+2022-10-09,Python,33,linguagens,2022
+2022-10-16,Python,37,linguagens,2022
+2022-10-23,Python,36,linguagens,2022
+2022-10-30,Python,31,linguagens,2022
+2022-11-06,Python,35,linguagens,2022
+2022-11-13,Python,35,linguagens,2022
+2022-11-20,Python,32,linguagens,2022
+2022-11-27,Python,33,linguagens,2022
+2022-12-04,Python,32,linguagens,2022
+2022-12-11,Python,35,linguagens,2022
+2022-12-18,Python,30,linguagens,2022
+2022-12-25,Python,27,linguagens,2022
+2023-01-01,Python,31,linguagens,2023
+2023-01-08,Python,34,linguagens,2023
+2023-01-15,Python,33,linguagens,2023
+2023-01-22,Python,37,linguagens,2023
+2023-01-29,Python,35,linguagens,2023
+2023-02-05,Python,35,linguagens,2023
+2023-02-12,Python,35,linguagens,2023
+2023-02-19,Python,28,linguagens,2023
+2023-02-26,Python,34,linguagens,2023
+2023-03-05,Python,39,linguagens,2023
+2023-03-12,Python,37,linguagens,2023
+2023-03-19,Python,39,linguagens,2023
+2023-03-26,Python,38,linguagens,2023
+2023-04-02,Python,34,linguagens,2023
+2023-04-09,Python,36,linguagens,2023
+2023-04-16,Python,35,linguagens,2023
+2023-04-23,Python,36,linguagens,2023
+2023-04-30,Python,32,linguagens,2023
+2023-05-07,Python,34,linguagens,2023
+2023-05-14,Python,34,linguagens,2023
+2023-05-21,Python,39,linguagens,2023
+2023-05-28,Python,33,linguagens,2023
+2023-06-04,Python,30,linguagens,2023
+2023-06-11,Python,31,linguagens,2023
+2023-06-18,Python,31,linguagens,2023
+2023-06-25,Python,31,linguagens,2023
+2023-07-02,Python,30,linguagens,2023
+2023-07-09,Python,31,linguagens,2023
+2023-07-16,Python,30,linguagens,2023
+2023-07-23,Python,30,linguagens,2023
+2023-07-30,Python,30,linguagens,2023
+2023-08-06,Python,32,linguagens,2023
+2023-08-13,Python,32,linguagens,2023
+2023-08-20,Python,36,linguagens,2023
+2023-08-27,Python,35,linguagens,2023
+2023-09-03,Python,32,linguagens,2023
+2023-09-10,Python,33,linguagens,2023
+2023-09-17,Python,35,linguagens,2023
+2023-09-24,Python,34,linguagens,2023
+2023-10-01,Python,32,linguagens,2023
+2023-10-08,Python,29,linguagens,2023
+2023-10-15,Python,31,linguagens,2023
+2023-10-22,Python,32,linguagens,2023
+2023-10-29,Python,28,linguagens,2023
+2023-11-05,Python,30,linguagens,2023
+2023-11-12,Python,27,linguagens,2023
+2023-11-19,Python,29,linguagens,2023
+2023-11-26,Python,28,linguagens,2023
+2023-12-03,Python,27,linguagens,2023
+2023-12-10,Python,27,linguagens,2023
+2023-12-17,Python,25,linguagens,2023
+2023-12-24,Python,21,linguagens,2023
+2023-12-31,Python,22,linguagens,2023
+2024-01-07,Python,28,linguagens,2024
+2024-01-14,Python,28,linguagens,2024
+2024-01-21,Python,28,linguagens,2024
+2024-01-28,Python,30,linguagens,2024
+2024-02-04,Python,32,linguagens,2024
+2024-02-11,Python,28,linguagens,2024
+2024-02-18,Python,36,linguagens,2024
+2024-02-25,Python,35,linguagens,2024
+2024-03-03,Python,34,linguagens,2024
+2024-03-10,Python,38,linguagens,2024
+2024-03-17,Python,39,linguagens,2024
+2024-03-24,Python,35,linguagens,2024
+2024-03-31,Python,36,linguagens,2024
+2024-04-07,Python,36,linguagens,2024
+2024-04-14,Python,37,linguagens,2024
+2024-04-21,Python,35,linguagens,2024
+2024-04-28,Python,34,linguagens,2024
+2024-05-05,Python,36,linguagens,2024
+2024-05-12,Python,37,linguagens,2024
+2024-05-19,Python,36,linguagens,2024
+2024-05-26,Python,31,linguagens,2024
+2024-06-02,Python,35,linguagens,2024
+2024-06-09,Python,35,linguagens,2024
+2024-06-16,Python,33,linguagens,2024
+2024-06-23,Python,31,linguagens,2024
+2024-06-30,Python,28,linguagens,2024
+2024-07-07,Python,30,linguagens,2024
+2024-07-14,Python,30,linguagens,2024
+2024-07-21,Python,30,linguagens,2024
+2024-07-28,Python,28,linguagens,2024
+2024-08-04,Python,30,linguagens,2024
+2024-08-11,Python,30,linguagens,2024
+2024-08-18,Python,32,linguagens,2024
+2024-08-25,Python,32,linguagens,2024
+2024-09-01,Python,32,linguagens,2024
+2024-09-08,Python,32,linguagens,2024
+2024-09-15,Python,30,linguagens,2024
+2024-09-22,Python,32,linguagens,2024
+2024-09-29,Python,31,linguagens,2024
+2024-10-06,Python,30,linguagens,2024
+2024-10-13,Python,31,linguagens,2024
+2024-10-20,Python,30,linguagens,2024
+2024-10-27,Python,31,linguagens,2024
+2024-11-03,Python,30,linguagens,2024
+2024-11-10,Python,28,linguagens,2024
+2024-11-17,Python,28,linguagens,2024
+2024-11-24,Python,27,linguagens,2024
+2024-12-01,Python,27,linguagens,2024
+2024-12-08,Python,28,linguagens,2024
+2024-12-15,Python,24,linguagens,2024
+2024-12-22,Python,21,linguagens,2024
+2024-12-29,Python,22,linguagens,2024
+2020-12-27,SQL,5,linguagens,2020
+2021-01-03,SQL,8,linguagens,2021
+2021-01-10,SQL,9,linguagens,2021
+2021-01-17,SQL,9,linguagens,2021
+2021-01-24,SQL,9,linguagens,2021
+2021-01-31,SQL,9,linguagens,2021
+2021-02-07,SQL,9,linguagens,2021
+2021-02-14,SQL,8,linguagens,2021
+2021-02-21,SQL,9,linguagens,2021
+2021-02-28,SQL,10,linguagens,2021
+2021-03-07,SQL,9,linguagens,2021
+2021-03-14,SQL,9,linguagens,2021
+2021-03-21,SQL,9,linguagens,2021
+2021-03-28,SQL,8,linguagens,2021
+2021-04-04,SQL,10,linguagens,2021
+2021-04-11,SQL,10,linguagens,2021
+2021-04-18,SQL,9,linguagens,2021
+2021-04-25,SQL,10,linguagens,2021
+2021-05-02,SQL,10,linguagens,2021
+2021-05-09,SQL,10,linguagens,2021
+2021-05-16,SQL,10,linguagens,2021
+2021-05-23,SQL,10,linguagens,2021
+2021-05-30,SQL,9,linguagens,2021
+2021-06-06,SQL,10,linguagens,2021
+2021-06-13,SQL,10,linguagens,2021
+2021-06-20,SQL,10,linguagens,2021
+2021-06-27,SQL,9,linguagens,2021
+2021-07-04,SQL,10,linguagens,2021
+2021-07-11,SQL,11,linguagens,2021
+2021-07-18,SQL,10,linguagens,2021
+2021-07-25,SQL,10,linguagens,2021
+2021-08-01,SQL,10,linguagens,2021
+2021-08-08,SQL,10,linguagens,2021
+2021-08-15,SQL,10,linguagens,2021
+2021-08-22,SQL,11,linguagens,2021
+2021-08-29,SQL,11,linguagens,2021
+2021-09-05,SQL,10,linguagens,2021
+2021-09-12,SQL,12,linguagens,2021
+2021-09-19,SQL,14,linguagens,2021
+2021-09-26,SQL,12,linguagens,2021
+2021-10-03,SQL,11,linguagens,2021
+2021-10-10,SQL,10,linguagens,2021
+2021-10-17,SQL,12,linguagens,2021
+2021-10-24,SQL,12,linguagens,2021
+2021-10-31,SQL,9,linguagens,2021
+2021-11-07,SQL,12,linguagens,2021
+2021-11-14,SQL,10,linguagens,2021
+2021-11-21,SQL,12,linguagens,2021
+2021-11-28,SQL,12,linguagens,2021
+2021-12-05,SQL,12,linguagens,2021
+2021-12-12,SQL,12,linguagens,2021
+2021-12-19,SQL,10,linguagens,2021
+2021-12-26,SQL,9,linguagens,2021
+2022-01-02,SQL,14,linguagens,2022
+2022-01-09,SQL,15,linguagens,2022
+2022-01-16,SQL,14,linguagens,2022
+2022-01-23,SQL,14,linguagens,2022
+2022-01-30,SQL,17,linguagens,2022
+2022-02-06,SQL,15,linguagens,2022
+2022-02-13,SQL,18,linguagens,2022
+2022-02-20,SQL,17,linguagens,2022
+2022-02-27,SQL,13,linguagens,2022
+2022-03-06,SQL,16,linguagens,2022
+2022-03-13,SQL,18,linguagens,2022
+2022-03-20,SQL,19,linguagens,2022
+2022-03-27,SQL,19,linguagens,2022
+2022-04-03,SQL,20,linguagens,2022
+2022-04-10,SQL,16,linguagens,2022
+2022-04-17,SQL,17,linguagens,2022
+2022-04-24,SQL,18,linguagens,2022
+2022-05-01,SQL,19,linguagens,2022
+2022-05-08,SQL,20,linguagens,2022
+2022-05-15,SQL,18,linguagens,2022
+2022-05-22,SQL,18,linguagens,2022
+2022-05-29,SQL,19,linguagens,2022
+2022-06-05,SQL,18,linguagens,2022
+2022-06-12,SQL,15,linguagens,2022
+2022-06-19,SQL,19,linguagens,2022
+2022-06-26,SQL,17,linguagens,2022
+2022-07-03,SQL,18,linguagens,2022
+2022-07-10,SQL,17,linguagens,2022
+2022-07-17,SQL,19,linguagens,2022
+2022-07-24,SQL,19,linguagens,2022
+2022-07-31,SQL,17,linguagens,2022
+2022-08-07,SQL,18,linguagens,2022
+2022-08-14,SQL,19,linguagens,2022
+2022-08-21,SQL,19,linguagens,2022
+2022-08-28,SQL,19,linguagens,2022
+2022-09-04,SQL,14,linguagens,2022
+2022-09-11,SQL,19,linguagens,2022
+2022-09-18,SQL,20,linguagens,2022
+2022-09-25,SQL,19,linguagens,2022
+2022-10-02,SQL,15,linguagens,2022
+2022-10-09,SQL,15,linguagens,2022
+2022-10-16,SQL,18,linguagens,2022
+2022-10-23,SQL,18,linguagens,2022
+2022-10-30,SQL,13,linguagens,2022
+2022-11-06,SQL,18,linguagens,2022
+2022-11-13,SQL,16,linguagens,2022
+2022-11-20,SQL,17,linguagens,2022
+2022-11-27,SQL,17,linguagens,2022
+2022-12-04,SQL,16,linguagens,2022
+2022-12-11,SQL,19,linguagens,2022
+2022-12-18,SQL,16,linguagens,2022
+2022-12-25,SQL,13,linguagens,2022
+2023-01-01,SQL,15,linguagens,2023
+2023-01-08,SQL,16,linguagens,2023
+2023-01-15,SQL,17,linguagens,2023
+2023-01-22,SQL,17,linguagens,2023
+2023-01-29,SQL,19,linguagens,2023
+2023-02-05,SQL,19,linguagens,2023
+2023-02-12,SQL,18,linguagens,2023
+2023-02-19,SQL,13,linguagens,2023
+2023-02-26,SQL,19,linguagens,2023
+2023-03-05,SQL,19,linguagens,2023
+2023-03-12,SQL,18,linguagens,2023
+2023-03-19,SQL,20,linguagens,2023
+2023-03-26,SQL,19,linguagens,2023
+2023-04-02,SQL,14,linguagens,2023
+2023-04-09,SQL,18,linguagens,2023
+2023-04-16,SQL,15,linguagens,2023
+2023-04-23,SQL,18,linguagens,2023
+2023-04-30,SQL,15,linguagens,2023
+2023-05-07,SQL,17,linguagens,2023
+2023-05-14,SQL,17,linguagens,2023
+2023-05-21,SQL,17,linguagens,2023
+2023-05-28,SQL,17,linguagens,2023
+2023-06-04,SQL,13,linguagens,2023
+2023-06-11,SQL,16,linguagens,2023
+2023-06-18,SQL,16,linguagens,2023
+2023-06-25,SQL,16,linguagens,2023
+2023-07-02,SQL,15,linguagens,2023
+2023-07-09,SQL,16,linguagens,2023
+2023-07-16,SQL,15,linguagens,2023
+2023-07-23,SQL,16,linguagens,2023
+2023-07-30,SQL,16,linguagens,2023
+2023-08-06,SQL,15,linguagens,2023
+2023-08-13,SQL,15,linguagens,2023
+2023-08-20,SQL,15,linguagens,2023
+2023-08-27,SQL,16,linguagens,2023
+2023-09-03,SQL,13,linguagens,2023
+2023-09-10,SQL,16,linguagens,2023
+2023-09-17,SQL,18,linguagens,2023
+2023-09-24,SQL,16,linguagens,2023
+2023-10-01,SQL,15,linguagens,2023
+2023-10-08,SQL,13,linguagens,2023
+2023-10-15,SQL,15,linguagens,2023
+2023-10-22,SQL,15,linguagens,2023
+2023-10-29,SQL,13,linguagens,2023
+2023-11-05,SQL,15,linguagens,2023
+2023-11-12,SQL,13,linguagens,2023
+2023-11-19,SQL,14,linguagens,2023
+2023-11-26,SQL,15,linguagens,2023
+2023-12-03,SQL,14,linguagens,2023
+2023-12-10,SQL,14,linguagens,2023
+2023-12-17,SQL,13,linguagens,2023
+2023-12-24,SQL,10,linguagens,2023
+2023-12-31,SQL,11,linguagens,2023
+2024-01-07,SQL,13,linguagens,2024
+2024-01-14,SQL,15,linguagens,2024
+2024-01-21,SQL,14,linguagens,2024
+2024-01-28,SQL,16,linguagens,2024
+2024-02-04,SQL,17,linguagens,2024
+2024-02-11,SQL,12,linguagens,2024
+2024-02-18,SQL,17,linguagens,2024
+2024-02-25,SQL,15,linguagens,2024
+2024-03-03,SQL,16,linguagens,2024
+2024-03-10,SQL,16,linguagens,2024
+2024-03-17,SQL,16,linguagens,2024
+2024-03-24,SQL,15,linguagens,2024
+2024-03-31,SQL,16,linguagens,2024
+2024-04-07,SQL,16,linguagens,2024
+2024-04-14,SQL,16,linguagens,2024
+2024-04-21,SQL,15,linguagens,2024
+2024-04-28,SQL,14,linguagens,2024
+2024-05-05,SQL,16,linguagens,2024
+2024-05-12,SQL,16,linguagens,2024
+2024-05-19,SQL,17,linguagens,2024
+2024-05-26,SQL,13,linguagens,2024
+2024-06-02,SQL,17,linguagens,2024
+2024-06-09,SQL,16,linguagens,2024
+2024-06-16,SQL,16,linguagens,2024
+2024-06-23,SQL,15,linguagens,2024
+2024-06-30,SQL,14,linguagens,2024
+2024-07-07,SQL,13,linguagens,2024
+2024-07-14,SQL,15,linguagens,2024
+2024-07-21,SQL,15,linguagens,2024
+2024-07-28,SQL,14,linguagens,2024
+2024-08-04,SQL,15,linguagens,2024
+2024-08-11,SQL,15,linguagens,2024
+2024-08-18,SQL,15,linguagens,2024
+2024-08-25,SQL,16,linguagens,2024
+2024-09-01,SQL,15,linguagens,2024
+2024-09-08,SQL,14,linguagens,2024
+2024-09-15,SQL,14,linguagens,2024
+2024-09-22,SQL,15,linguagens,2024
+2024-09-29,SQL,14,linguagens,2024
+2024-10-06,SQL,15,linguagens,2024
+2024-10-13,SQL,15,linguagens,2024
+2024-10-20,SQL,15,linguagens,2024
+2024-10-27,SQL,14,linguagens,2024
+2024-11-03,SQL,14,linguagens,2024
+2024-11-10,SQL,13,linguagens,2024
+2024-11-17,SQL,15,linguagens,2024
+2024-11-24,SQL,15,linguagens,2024
+2024-12-01,SQL,13,linguagens,2024
+2024-12-08,SQL,14,linguagens,2024
+2024-12-15,SQL,13,linguagens,2024
+2024-12-22,SQL,9,linguagens,2024
+2024-12-29,SQL,8,linguagens,2024
+2020-12-27,R,60,linguagens,2020
+2021-01-03,R,64,linguagens,2021
+2021-01-10,R,66,linguagens,2021
+2021-01-17,R,65,linguagens,2021
+2021-01-24,R,62,linguagens,2021
+2021-01-31,R,69,linguagens,2021
+2021-02-07,R,67,linguagens,2021
+2021-02-14,R,65,linguagens,2021
+2021-02-21,R,69,linguagens,2021
+2021-02-28,R,68,linguagens,2021
+2021-03-07,R,72,linguagens,2021
+2021-03-14,R,71,linguagens,2021
+2021-03-21,R,73,linguagens,2021
+2021-03-28,R,69,linguagens,2021
+2021-04-04,R,75,linguagens,2021
+2021-04-11,R,76,linguagens,2021
+2021-04-18,R,74,linguagens,2021
+2021-04-25,R,78,linguagens,2021
+2021-05-02,R,77,linguagens,2021
+2021-05-09,R,76,linguagens,2021
+2021-05-16,R,72,linguagens,2021
+2021-05-23,R,78,linguagens,2021
+2021-05-30,R,76,linguagens,2021
+2021-06-06,R,90,linguagens,2021
+2021-06-13,R,80,linguagens,2021
+2021-06-20,R,77,linguagens,2021
+2021-06-27,R,71,linguagens,2021
+2021-07-04,R,70,linguagens,2021
+2021-07-11,R,73,linguagens,2021
+2021-07-18,R,72,linguagens,2021
+2021-07-25,R,70,linguagens,2021
+2021-08-01,R,73,linguagens,2021
+2021-08-08,R,73,linguagens,2021
+2021-08-15,R,78,linguagens,2021
+2021-08-22,R,76,linguagens,2021
+2021-08-29,R,77,linguagens,2021
+2021-09-05,R,74,linguagens,2021
+2021-09-12,R,76,linguagens,2021
+2021-09-19,R,79,linguagens,2021
+2021-09-26,R,80,linguagens,2021
+2021-10-03,R,74,linguagens,2021
+2021-10-10,R,69,linguagens,2021
+2021-10-17,R,75,linguagens,2021
+2021-10-24,R,73,linguagens,2021
+2021-10-31,R,70,linguagens,2021
+2021-11-07,R,72,linguagens,2021
+2021-11-14,R,72,linguagens,2021
+2021-11-21,R,72,linguagens,2021
+2021-11-28,R,73,linguagens,2021
+2021-12-05,R,71,linguagens,2021
+2021-12-12,R,71,linguagens,2021
+2021-12-19,R,62,linguagens,2021
+2021-12-26,R,60,linguagens,2021
+2022-01-02,R,67,linguagens,2022
+2022-01-09,R,69,linguagens,2022
+2022-01-16,R,67,linguagens,2022
+2022-01-23,R,66,linguagens,2022
+2022-01-30,R,70,linguagens,2022
+2022-02-06,R,71,linguagens,2022
+2022-02-13,R,77,linguagens,2022
+2022-02-20,R,77,linguagens,2022
+2022-02-27,R,74,linguagens,2022
+2022-03-06,R,78,linguagens,2022
+2022-03-13,R,83,linguagens,2022
+2022-03-20,R,81,linguagens,2022
+2022-03-27,R,82,linguagens,2022
+2022-04-03,R,81,linguagens,2022
+2022-04-10,R,74,linguagens,2022
+2022-04-17,R,76,linguagens,2022
+2022-04-24,R,82,linguagens,2022
+2022-05-01,R,82,linguagens,2022
+2022-05-08,R,79,linguagens,2022
+2022-05-15,R,78,linguagens,2022
+2022-05-22,R,79,linguagens,2022
+2022-05-29,R,80,linguagens,2022
+2022-06-05,R,79,linguagens,2022
+2022-06-12,R,75,linguagens,2022
+2022-06-19,R,80,linguagens,2022
+2022-06-26,R,80,linguagens,2022
+2022-07-03,R,77,linguagens,2022
+2022-07-10,R,73,linguagens,2022
+2022-07-17,R,75,linguagens,2022
+2022-07-24,R,74,linguagens,2022
+2022-07-31,R,77,linguagens,2022
+2022-08-07,R,78,linguagens,2022
+2022-08-14,R,79,linguagens,2022
+2022-08-21,R,80,linguagens,2022
+2022-08-28,R,80,linguagens,2022
+2022-09-04,R,71,linguagens,2022
+2022-09-11,R,79,linguagens,2022
+2022-09-18,R,80,linguagens,2022
+2022-09-25,R,81,linguagens,2022
+2022-10-02,R,68,linguagens,2022
+2022-10-09,R,72,linguagens,2022
+2022-10-16,R,75,linguagens,2022
+2022-10-23,R,77,linguagens,2022
+2022-10-30,R,70,linguagens,2022
+2022-11-06,R,79,linguagens,2022
+2022-11-13,R,76,linguagens,2022
+2022-11-20,R,73,linguagens,2022
+2022-11-27,R,74,linguagens,2022
+2022-12-04,R,71,linguagens,2022
+2022-12-11,R,73,linguagens,2022
+2022-12-18,R,68,linguagens,2022
+2022-12-25,R,64,linguagens,2022
+2023-01-01,R,70,linguagens,2023
+2023-01-08,R,69,linguagens,2023
+2023-01-15,R,70,linguagens,2023
+2023-01-22,R,71,linguagens,2023
+2023-01-29,R,75,linguagens,2023
+2023-02-05,R,70,linguagens,2023
+2023-02-12,R,71,linguagens,2023
+2023-02-19,R,68,linguagens,2023
+2023-02-26,R,81,linguagens,2023
+2023-03-05,R,81,linguagens,2023
+2023-03-12,R,80,linguagens,2023
+2023-03-19,R,81,linguagens,2023
+2023-03-26,R,83,linguagens,2023
+2023-04-02,R,78,linguagens,2023
+2023-04-09,R,80,linguagens,2023
+2023-04-16,R,77,linguagens,2023
+2023-04-23,R,79,linguagens,2023
+2023-04-30,R,78,linguagens,2023
+2023-05-07,R,80,linguagens,2023
+2023-05-14,R,78,linguagens,2023
+2023-05-21,R,81,linguagens,2023
+2023-05-28,R,79,linguagens,2023
+2023-06-04,R,85,linguagens,2023
+2023-06-11,R,85,linguagens,2023
+2023-06-18,R,85,linguagens,2023
+2023-06-25,R,80,linguagens,2023
+2023-07-02,R,79,linguagens,2023
+2023-07-09,R,78,linguagens,2023
+2023-07-16,R,79,linguagens,2023
+2023-07-23,R,77,linguagens,2023
+2023-07-30,R,75,linguagens,2023
+2023-08-06,R,79,linguagens,2023
+2023-08-13,R,81,linguagens,2023
+2023-08-20,R,81,linguagens,2023
+2023-08-27,R,81,linguagens,2023
+2023-09-03,R,77,linguagens,2023
+2023-09-10,R,86,linguagens,2023
+2023-09-17,R,84,linguagens,2023
+2023-09-24,R,79,linguagens,2023
+2023-10-01,R,80,linguagens,2023
+2023-10-08,R,74,linguagens,2023
+2023-10-15,R,81,linguagens,2023
+2023-10-22,R,80,linguagens,2023
+2023-10-29,R,76,linguagens,2023
+2023-11-05,R,80,linguagens,2023
+2023-11-12,R,79,linguagens,2023
+2023-11-19,R,81,linguagens,2023
+2023-11-26,R,74,linguagens,2023
+2023-12-03,R,79,linguagens,2023
+2023-12-10,R,85,linguagens,2023
+2023-12-17,R,80,linguagens,2023
+2023-12-24,R,75,linguagens,2023
+2023-12-31,R,74,linguagens,2023
+2024-01-07,R,79,linguagens,2024
+2024-01-14,R,75,linguagens,2024
+2024-01-21,R,74,linguagens,2024
+2024-01-28,R,78,linguagens,2024
+2024-02-04,R,83,linguagens,2024
+2024-02-11,R,89,linguagens,2024
+2024-02-18,R,85,linguagens,2024
+2024-02-25,R,85,linguagens,2024
+2024-03-03,R,85,linguagens,2024
+2024-03-10,R,86,linguagens,2024
+2024-03-17,R,90,linguagens,2024
+2024-03-24,R,81,linguagens,2024
+2024-03-31,R,86,linguagens,2024
+2024-04-07,R,87,linguagens,2024
+2024-04-14,R,86,linguagens,2024
+2024-04-21,R,87,linguagens,2024
+2024-04-28,R,83,linguagens,2024
+2024-05-05,R,87,linguagens,2024
+2024-05-12,R,90,linguagens,2024
+2024-05-19,R,88,linguagens,2024
+2024-05-26,R,80,linguagens,2024
+2024-06-02,R,95,linguagens,2024
+2024-06-09,R,92,linguagens,2024
+2024-06-16,R,98,linguagens,2024
+2024-06-23,R,87,linguagens,2024
+2024-06-30,R,87,linguagens,2024
+2024-07-07,R,83,linguagens,2024
+2024-07-14,R,87,linguagens,2024
+2024-07-21,R,81,linguagens,2024
+2024-07-28,R,83,linguagens,2024
+2024-08-04,R,84,linguagens,2024
+2024-08-11,R,90,linguagens,2024
+2024-08-18,R,86,linguagens,2024
+2024-08-25,R,88,linguagens,2024
+2024-09-01,R,84,linguagens,2024
+2024-09-08,R,91,linguagens,2024
+2024-09-15,R,89,linguagens,2024
+2024-09-22,R,100,linguagens,2024
+2024-09-29,R,92,linguagens,2024
+2024-10-06,R,86,linguagens,2024
+2024-10-13,R,89,linguagens,2024
+2024-10-20,R,85,linguagens,2024
+2024-10-27,R,93,linguagens,2024
+2024-11-03,R,87,linguagens,2024
+2024-11-10,R,87,linguagens,2024
+2024-11-17,R,87,linguagens,2024
+2024-11-24,R,89,linguagens,2024
+2024-12-01,R,94,linguagens,2024
+2024-12-08,R,90,linguagens,2024
+2024-12-15,R,90,linguagens,2024
+2024-12-22,R,81,linguagens,2024
+2024-12-29,R,77,linguagens,2024
+2020-12-27,Scala,2,linguagens,2020
+2021-01-03,Scala,2,linguagens,2021
+2021-01-10,Scala,2,linguagens,2021
+2021-01-17,Scala,2,linguagens,2021
+2021-01-24,Scala,2,linguagens,2021
+2021-01-31,Scala,2,linguagens,2021
+2021-02-07,Scala,2,linguagens,2021
+2021-02-14,Scala,2,linguagens,2021
+2021-02-21,Scala,2,linguagens,2021
+2021-02-28,Scala,2,linguagens,2021
+2021-03-07,Scala,2,linguagens,2021
+2021-03-14,Scala,1,linguagens,2021
+2021-03-21,Scala,1,linguagens,2021
+2021-03-28,Scala,1,linguagens,2021
+2021-04-04,Scala,2,linguagens,2021
+2021-04-11,Scala,2,linguagens,2021
+2021-04-18,Scala,2,linguagens,2021
+2021-04-25,Scala,2,linguagens,2021
+2021-05-02,Scala,2,linguagens,2021
+2021-05-09,Scala,2,linguagens,2021
+2021-05-16,Scala,2,linguagens,2021
+2021-05-23,Scala,2,linguagens,2021
+2021-05-30,Scala,2,linguagens,2021
+2021-06-06,Scala,2,linguagens,2021
+2021-06-13,Scala,2,linguagens,2021
+2021-06-20,Scala,2,linguagens,2021
+2021-06-27,Scala,2,linguagens,2021
+2021-07-04,Scala,2,linguagens,2021
+2021-07-11,Scala,2,linguagens,2021
+2021-07-18,Scala,2,linguagens,2021
+2021-07-25,Scala,2,linguagens,2021
+2021-08-01,Scala,2,linguagens,2021
+2021-08-08,Scala,2,linguagens,2021
+2021-08-15,Scala,2,linguagens,2021
+2021-08-22,Scala,2,linguagens,2021
+2021-08-29,Scala,2,linguagens,2021
+2021-09-05,Scala,2,linguagens,2021
+2021-09-12,Scala,2,linguagens,2021
+2021-09-19,Scala,2,linguagens,2021
+2021-09-26,Scala,2,linguagens,2021
+2021-10-03,Scala,2,linguagens,2021
+2021-10-10,Scala,1,linguagens,2021
+2021-10-17,Scala,2,linguagens,2021
+2021-10-24,Scala,2,linguagens,2021
+2021-10-31,Scala,2,linguagens,2021
+2021-11-07,Scala,2,linguagens,2021
+2021-11-14,Scala,2,linguagens,2021
+2021-11-21,Scala,2,linguagens,2021
+2021-11-28,Scala,2,linguagens,2021
+2021-12-05,Scala,2,linguagens,2021
+2021-12-12,Scala,2,linguagens,2021
+2021-12-19,Scala,2,linguagens,2021
+2021-12-26,Scala,2,linguagens,2021
+2022-01-02,Scala,2,linguagens,2022
+2022-01-09,Scala,2,linguagens,2022
+2022-01-16,Scala,2,linguagens,2022
+2022-01-23,Scala,2,linguagens,2022
+2022-01-30,Scala,2,linguagens,2022
+2022-02-06,Scala,2,linguagens,2022
+2022-02-13,Scala,2,linguagens,2022
+2022-02-20,Scala,2,linguagens,2022
+2022-02-27,Scala,2,linguagens,2022
+2022-03-06,Scala,2,linguagens,2022
+2022-03-13,Scala,2,linguagens,2022
+2022-03-20,Scala,2,linguagens,2022
+2022-03-27,Scala,2,linguagens,2022
+2022-04-03,Scala,2,linguagens,2022
+2022-04-10,Scala,2,linguagens,2022
+2022-04-17,Scala,2,linguagens,2022
+2022-04-24,Scala,2,linguagens,2022
+2022-05-01,Scala,2,linguagens,2022
+2022-05-08,Scala,2,linguagens,2022
+2022-05-15,Scala,2,linguagens,2022
+2022-05-22,Scala,2,linguagens,2022
+2022-05-29,Scala,2,linguagens,2022
+2022-06-05,Scala,2,linguagens,2022
+2022-06-12,Scala,2,linguagens,2022
+2022-06-19,Scala,2,linguagens,2022
+2022-06-26,Scala,2,linguagens,2022
+2022-07-03,Scala,2,linguagens,2022
+2022-07-10,Scala,2,linguagens,2022
+2022-07-17,Scala,2,linguagens,2022
+2022-07-24,Scala,2,linguagens,2022
+2022-07-31,Scala,2,linguagens,2022
+2022-08-07,Scala,2,linguagens,2022
+2022-08-14,Scala,2,linguagens,2022
+2022-08-21,Scala,2,linguagens,2022
+2022-08-28,Scala,2,linguagens,2022
+2022-09-04,Scala,2,linguagens,2022
+2022-09-11,Scala,2,linguagens,2022
+2022-09-18,Scala,2,linguagens,2022
+2022-09-25,Scala,2,linguagens,2022
+2022-10-02,Scala,2,linguagens,2022
+2022-10-09,Scala,2,linguagens,2022
+2022-10-16,Scala,2,linguagens,2022
+2022-10-23,Scala,2,linguagens,2022
+2022-10-30,Scala,2,linguagens,2022
+2022-11-06,Scala,2,linguagens,2022
+2022-11-13,Scala,2,linguagens,2022
+2022-11-20,Scala,2,linguagens,2022
+2022-11-27,Scala,2,linguagens,2022
+2022-12-04,Scala,2,linguagens,2022
+2022-12-11,Scala,2,linguagens,2022
+2022-12-18,Scala,2,linguagens,2022
+2022-12-25,Scala,2,linguagens,2022
+2023-01-01,Scala,2,linguagens,2023
+2023-01-08,Scala,2,linguagens,2023
+2023-01-15,Scala,2,linguagens,2023
+2023-01-22,Scala,2,linguagens,2023
+2023-01-29,Scala,2,linguagens,2023
+2023-02-05,Scala,2,linguagens,2023
+2023-02-12,Scala,2,linguagens,2023
+2023-02-19,Scala,2,linguagens,2023
+2023-02-26,Scala,2,linguagens,2023
+2023-03-05,Scala,2,linguagens,2023
+2023-03-12,Scala,2,linguagens,2023
+2023-03-19,Scala,2,linguagens,2023
+2023-03-26,Scala,2,linguagens,2023
+2023-04-02,Scala,2,linguagens,2023
+2023-04-09,Scala,2,linguagens,2023
+2023-04-16,Scala,2,linguagens,2023
+2023-04-23,Scala,2,linguagens,2023
+2023-04-30,Scala,2,linguagens,2023
+2023-05-07,Scala,2,linguagens,2023
+2023-05-14,Scala,2,linguagens,2023
+2023-05-21,Scala,2,linguagens,2023
+2023-05-28,Scala,2,linguagens,2023
+2023-06-04,Scala,2,linguagens,2023
+2023-06-11,Scala,2,linguagens,2023
+2023-06-18,Scala,2,linguagens,2023
+2023-06-25,Scala,2,linguagens,2023
+2023-07-02,Scala,2,linguagens,2023
+2023-07-09,Scala,2,linguagens,2023
+2023-07-16,Scala,2,linguagens,2023
+2023-07-23,Scala,2,linguagens,2023
+2023-07-30,Scala,2,linguagens,2023
+2023-08-06,Scala,2,linguagens,2023
+2023-08-13,Scala,2,linguagens,2023
+2023-08-20,Scala,2,linguagens,2023
+2023-08-27,Scala,2,linguagens,2023
+2023-09-03,Scala,2,linguagens,2023
+2023-09-10,Scala,2,linguagens,2023
+2023-09-17,Scala,2,linguagens,2023
+2023-09-24,Scala,2,linguagens,2023
+2023-10-01,Scala,2,linguagens,2023
+2023-10-08,Scala,2,linguagens,2023
+2023-10-15,Scala,2,linguagens,2023
+2023-10-22,Scala,2,linguagens,2023
+2023-10-29,Scala,1,linguagens,2023
+2023-11-05,Scala,2,linguagens,2023
+2023-11-12,Scala,2,linguagens,2023
+2023-11-19,Scala,2,linguagens,2023
+2023-11-26,Scala,2,linguagens,2023
+2023-12-03,Scala,2,linguagens,2023
+2023-12-10,Scala,2,linguagens,2023
+2023-12-17,Scala,2,linguagens,2023
+2023-12-24,Scala,2,linguagens,2023
+2023-12-31,Scala,2,linguagens,2023
+2024-01-07,Scala,2,linguagens,2024
+2024-01-14,Scala,2,linguagens,2024
+2024-01-21,Scala,2,linguagens,2024
+2024-01-28,Scala,2,linguagens,2024
+2024-02-04,Scala,2,linguagens,2024
+2024-02-11,Scala,2,linguagens,2024
+2024-02-18,Scala,2,linguagens,2024
+2024-02-25,Scala,2,linguagens,2024
+2024-03-03,Scala,2,linguagens,2024
+2024-03-10,Scala,2,linguagens,2024
+2024-03-17,Scala,2,linguagens,2024
+2024-03-24,Scala,2,linguagens,2024
+2024-03-31,Scala,2,linguagens,2024
+2024-04-07,Scala,2,linguagens,2024
+2024-04-14,Scala,2,linguagens,2024
+2024-04-21,Scala,2,linguagens,2024
+2024-04-28,Scala,2,linguagens,2024
+2024-05-05,Scala,2,linguagens,2024
+2024-05-12,Scala,2,linguagens,2024
+2024-05-19,Scala,2,linguagens,2024
+2024-05-26,Scala,2,linguagens,2024
+2024-06-02,Scala,2,linguagens,2024
+2024-06-09,Scala,2,linguagens,2024
+2024-06-16,Scala,2,linguagens,2024
+2024-06-23,Scala,2,linguagens,2024
+2024-06-30,Scala,2,linguagens,2024
+2024-07-07,Scala,2,linguagens,2024
+2024-07-14,Scala,2,linguagens,2024
+2024-07-21,Scala,2,linguagens,2024
+2024-07-28,Scala,2,linguagens,2024
+2024-08-04,Scala,2,linguagens,2024
+2024-08-11,Scala,2,linguagens,2024
+2024-08-18,Scala,2,linguagens,2024
+2024-08-25,Scala,2,linguagens,2024
+2024-09-01,Scala,2,linguagens,2024
+2024-09-08,Scala,2,linguagens,2024
+2024-09-15,Scala,2,linguagens,2024
+2024-09-22,Scala,2,linguagens,2024
+2024-09-29,Scala,2,linguagens,2024
+2024-10-06,Scala,2,linguagens,2024
+2024-10-13,Scala,2,linguagens,2024
+2024-10-20,Scala,2,linguagens,2024
+2024-10-27,Scala,2,linguagens,2024
+2024-11-03,Scala,2,linguagens,2024
+2024-11-10,Scala,2,linguagens,2024
+2024-11-17,Scala,2,linguagens,2024
+2024-11-24,Scala,2,linguagens,2024
+2024-12-01,Scala,2,linguagens,2024
+2024-12-08,Scala,2,linguagens,2024
+2024-12-15,Scala,2,linguagens,2024
+2024-12-22,Scala,2,linguagens,2024
+2024-12-29,Scala,2,linguagens,2024
+2020-12-27,Julia,38,linguagens,2020
+2021-01-03,Julia,33,linguagens,2021
+2021-01-10,Julia,33,linguagens,2021
+2021-01-17,Julia,31,linguagens,2021
+2021-01-24,Julia,31,linguagens,2021
+2021-01-31,Julia,29,linguagens,2021
+2021-02-07,Julia,29,linguagens,2021
+2021-02-14,Julia,30,linguagens,2021
+2021-02-21,Julia,29,linguagens,2021
+2021-02-28,Julia,29,linguagens,2021
+2021-03-07,Julia,30,linguagens,2021
+2021-03-14,Julia,29,linguagens,2021
+2021-03-21,Julia,30,linguagens,2021
+2021-03-28,Julia,34,linguagens,2021
+2021-04-04,Julia,32,linguagens,2021
+2021-04-11,Julia,33,linguagens,2021
+2021-04-18,Julia,33,linguagens,2021
+2021-04-25,Julia,30,linguagens,2021
+2021-05-02,Julia,29,linguagens,2021
+2021-05-09,Julia,30,linguagens,2021
+2021-05-16,Julia,38,linguagens,2021
+2021-05-23,Julia,29,linguagens,2021
+2021-05-30,Julia,31,linguagens,2021
+2021-06-06,Julia,30,linguagens,2021
+2021-06-13,Julia,34,linguagens,2021
+2021-06-20,Julia,30,linguagens,2021
+2021-06-27,Julia,27,linguagens,2021
+2021-07-04,Julia,30,linguagens,2021
+2021-07-11,Julia,40,linguagens,2021
+2021-07-18,Julia,29,linguagens,2021
+2021-07-25,Julia,29,linguagens,2021
+2021-08-01,Julia,31,linguagens,2021
+2021-08-08,Julia,28,linguagens,2021
+2021-08-15,Julia,28,linguagens,2021
+2021-08-22,Julia,26,linguagens,2021
+2021-08-29,Julia,28,linguagens,2021
+2021-09-05,Julia,28,linguagens,2021
+2021-09-12,Julia,32,linguagens,2021
+2021-09-19,Julia,32,linguagens,2021
+2021-09-26,Julia,28,linguagens,2021
+2021-10-03,Julia,26,linguagens,2021
+2021-10-10,Julia,25,linguagens,2021
+2021-10-17,Julia,26,linguagens,2021
+2021-10-24,Julia,27,linguagens,2021
+2021-10-31,Julia,28,linguagens,2021
+2021-11-07,Julia,27,linguagens,2021
+2021-11-14,Julia,29,linguagens,2021
+2021-11-21,Julia,28,linguagens,2021
+2021-11-28,Julia,30,linguagens,2021
+2021-12-05,Julia,29,linguagens,2021
+2021-12-12,Julia,28,linguagens,2021
+2021-12-19,Julia,29,linguagens,2021
+2021-12-26,Julia,26,linguagens,2021
+2022-01-02,Julia,34,linguagens,2022
+2022-01-09,Julia,31,linguagens,2022
+2022-01-16,Julia,26,linguagens,2022
+2022-01-23,Julia,27,linguagens,2022
+2022-01-30,Julia,28,linguagens,2022
+2022-02-06,Julia,28,linguagens,2022
+2022-02-13,Julia,27,linguagens,2022
+2022-02-20,Julia,25,linguagens,2022
+2022-02-27,Julia,27,linguagens,2022
+2022-03-06,Julia,22,linguagens,2022
+2022-03-13,Julia,24,linguagens,2022
+2022-03-20,Julia,25,linguagens,2022
+2022-03-27,Julia,27,linguagens,2022
+2022-04-03,Julia,27,linguagens,2022
+2022-04-10,Julia,29,linguagens,2022
+2022-04-17,Julia,34,linguagens,2022
+2022-04-24,Julia,28,linguagens,2022
+2022-05-01,Julia,26,linguagens,2022
+2022-05-08,Julia,25,linguagens,2022
+2022-05-15,Julia,28,linguagens,2022
+2022-05-22,Julia,27,linguagens,2022
+2022-05-29,Julia,30,linguagens,2022
+2022-06-05,Julia,29,linguagens,2022
+2022-06-12,Julia,28,linguagens,2022
+2022-06-19,Julia,29,linguagens,2022
+2022-06-26,Julia,30,linguagens,2022
+2022-07-03,Julia,28,linguagens,2022
+2022-07-10,Julia,28,linguagens,2022
+2022-07-17,Julia,30,linguagens,2022
+2022-07-24,Julia,28,linguagens,2022
+2022-07-31,Julia,25,linguagens,2022
+2022-08-07,Julia,25,linguagens,2022
+2022-08-14,Julia,25,linguagens,2022
+2022-08-21,Julia,26,linguagens,2022
+2022-08-28,Julia,25,linguagens,2022
+2022-09-04,Julia,28,linguagens,2022
+2022-09-11,Julia,29,linguagens,2022
+2022-09-18,Julia,30,linguagens,2022
+2022-09-25,Julia,27,linguagens,2022
+2022-10-02,Julia,23,linguagens,2022
+2022-10-09,Julia,26,linguagens,2022
+2022-10-16,Julia,26,linguagens,2022
+2022-10-23,Julia,25,linguagens,2022
+2022-10-30,Julia,24,linguagens,2022
+2022-11-06,Julia,26,linguagens,2022
+2022-11-13,Julia,26,linguagens,2022
+2022-11-20,Julia,21,linguagens,2022
+2022-11-27,Julia,24,linguagens,2022
+2022-12-04,Julia,28,linguagens,2022
+2022-12-11,Julia,27,linguagens,2022
+2022-12-18,Julia,26,linguagens,2022
+2022-12-25,Julia,28,linguagens,2022
+2023-01-01,Julia,27,linguagens,2023
+2023-01-08,Julia,28,linguagens,2023
+2023-01-15,Julia,26,linguagens,2023
+2023-01-22,Julia,26,linguagens,2023
+2023-01-29,Julia,31,linguagens,2023
+2023-02-05,Julia,29,linguagens,2023
+2023-02-12,Julia,26,linguagens,2023
+2023-02-19,Julia,31,linguagens,2023
+2023-02-26,Julia,26,linguagens,2023
+2023-03-05,Julia,26,linguagens,2023
+2023-03-12,Julia,27,linguagens,2023
+2023-03-19,Julia,28,linguagens,2023
+2023-03-26,Julia,26,linguagens,2023
+2023-04-02,Julia,33,linguagens,2023
+2023-04-09,Julia,36,linguagens,2023
+2023-04-16,Julia,34,linguagens,2023
+2023-04-23,Julia,30,linguagens,2023
+2023-04-30,Julia,27,linguagens,2023
+2023-05-07,Julia,27,linguagens,2023
+2023-05-14,Julia,28,linguagens,2023
+2023-05-21,Julia,26,linguagens,2023
+2023-05-28,Julia,25,linguagens,2023
+2023-06-04,Julia,27,linguagens,2023
+2023-06-11,Julia,26,linguagens,2023
+2023-06-18,Julia,52,linguagens,2023
+2023-06-25,Julia,26,linguagens,2023
+2023-07-02,Julia,26,linguagens,2023
+2023-07-09,Julia,28,linguagens,2023
+2023-07-16,Julia,26,linguagens,2023
+2023-07-23,Julia,27,linguagens,2023
+2023-07-30,Julia,25,linguagens,2023
+2023-08-06,Julia,25,linguagens,2023
+2023-08-13,Julia,25,linguagens,2023
+2023-08-20,Julia,24,linguagens,2023
+2023-08-27,Julia,27,linguagens,2023
+2023-09-03,Julia,28,linguagens,2023
+2023-09-10,Julia,25,linguagens,2023
+2023-09-17,Julia,26,linguagens,2023
+2023-09-24,Julia,25,linguagens,2023
+2023-10-01,Julia,25,linguagens,2023
+2023-10-08,Julia,27,linguagens,2023
+2023-10-15,Julia,28,linguagens,2023
+2023-10-22,Julia,25,linguagens,2023
+2023-10-29,Julia,29,linguagens,2023
+2023-11-05,Julia,25,linguagens,2023
+2023-11-12,Julia,26,linguagens,2023
+2023-11-19,Julia,27,linguagens,2023
+2023-11-26,Julia,25,linguagens,2023
+2023-12-03,Julia,33,linguagens,2023
+2023-12-10,Julia,43,linguagens,2023
+2023-12-17,Julia,33,linguagens,2023
+2023-12-24,Julia,35,linguagens,2023
+2023-12-31,Julia,32,linguagens,2023
+2024-01-07,Julia,30,linguagens,2024
+2024-01-14,Julia,27,linguagens,2024
+2024-01-21,Julia,27,linguagens,2024
+2024-01-28,Julia,28,linguagens,2024
+2024-02-04,Julia,27,linguagens,2024
+2024-02-11,Julia,31,linguagens,2024
+2024-02-18,Julia,28,linguagens,2024
+2024-02-25,Julia,27,linguagens,2024
+2024-03-03,Julia,26,linguagens,2024
+2024-03-10,Julia,26,linguagens,2024
+2024-03-17,Julia,27,linguagens,2024
+2024-03-24,Julia,31,linguagens,2024
+2024-03-31,Julia,31,linguagens,2024
+2024-04-07,Julia,26,linguagens,2024
+2024-04-14,Julia,26,linguagens,2024
+2024-04-21,Julia,26,linguagens,2024
+2024-04-28,Julia,28,linguagens,2024
+2024-05-05,Julia,26,linguagens,2024
+2024-05-12,Julia,28,linguagens,2024
+2024-05-19,Julia,37,linguagens,2024
+2024-05-26,Julia,28,linguagens,2024
+2024-06-02,Julia,34,linguagens,2024
+2024-06-09,Julia,31,linguagens,2024
+2024-06-16,Julia,32,linguagens,2024
+2024-06-23,Julia,30,linguagens,2024
+2024-06-30,Julia,28,linguagens,2024
+2024-07-07,Julia,29,linguagens,2024
+2024-07-14,Julia,29,linguagens,2024
+2024-07-21,Julia,29,linguagens,2024
+2024-07-28,Julia,60,linguagens,2024
+2024-08-04,Julia,44,linguagens,2024
+2024-08-11,Julia,31,linguagens,2024
+2024-08-18,Julia,30,linguagens,2024
+2024-08-25,Julia,28,linguagens,2024
+2024-09-01,Julia,29,linguagens,2024
+2024-09-08,Julia,29,linguagens,2024
+2024-09-15,Julia,31,linguagens,2024
+2024-09-22,Julia,29,linguagens,2024
+2024-09-29,Julia,26,linguagens,2024
+2024-10-06,Julia,29,linguagens,2024
+2024-10-13,Julia,30,linguagens,2024
+2024-10-20,Julia,30,linguagens,2024
+2024-10-27,Julia,27,linguagens,2024
+2024-11-03,Julia,27,linguagens,2024
+2024-11-10,Julia,27,linguagens,2024
+2024-11-17,Julia,26,linguagens,2024
+2024-11-24,Julia,26,linguagens,2024
+2024-12-01,Julia,27,linguagens,2024
+2024-12-08,Julia,26,linguagens,2024
+2024-12-15,Julia,29,linguagens,2024
+2024-12-22,Julia,30,linguagens,2024
+2024-12-29,Julia,28,linguagens,2024
+2020-12-27,Power BI,19,ferramentas,2020
+2021-01-03,Power BI,26,ferramentas,2021
+2021-01-10,Power BI,33,ferramentas,2021
+2021-01-17,Power BI,36,ferramentas,2021
+2021-01-24,Power BI,34,ferramentas,2021
+2021-01-31,Power BI,36,ferramentas,2021
+2021-02-07,Power BI,39,ferramentas,2021
+2021-02-14,Power BI,33,ferramentas,2021
+2021-02-21,Power BI,41,ferramentas,2021
+2021-02-28,Power BI,43,ferramentas,2021
+2021-03-07,Power BI,40,ferramentas,2021
+2021-03-14,Power BI,38,ferramentas,2021
+2021-03-21,Power BI,38,ferramentas,2021
+2021-03-28,Power BI,35,ferramentas,2021
+2021-04-04,Power BI,38,ferramentas,2021
+2021-04-11,Power BI,40,ferramentas,2021
+2021-04-18,Power BI,37,ferramentas,2021
+2021-04-25,Power BI,42,ferramentas,2021
+2021-05-02,Power BI,42,ferramentas,2021
+2021-05-09,Power BI,46,ferramentas,2021
+2021-05-16,Power BI,48,ferramentas,2021
+2021-05-23,Power BI,41,ferramentas,2021
+2021-05-30,Power BI,38,ferramentas,2021
+2021-06-06,Power BI,39,ferramentas,2021
+2021-06-13,Power BI,42,ferramentas,2021
+2021-06-20,Power BI,44,ferramentas,2021
+2021-06-27,Power BI,47,ferramentas,2021
+2021-07-04,Power BI,46,ferramentas,2021
+2021-07-11,Power BI,45,ferramentas,2021
+2021-07-18,Power BI,47,ferramentas,2021
+2021-07-25,Power BI,44,ferramentas,2021
+2021-08-01,Power BI,42,ferramentas,2021
+2021-08-08,Power BI,41,ferramentas,2021
+2021-08-15,Power BI,45,ferramentas,2021
+2021-08-22,Power BI,44,ferramentas,2021
+2021-08-29,Power BI,46,ferramentas,2021
+2021-09-05,Power BI,40,ferramentas,2021
+2021-09-12,Power BI,47,ferramentas,2021
+2021-09-19,Power BI,51,ferramentas,2021
+2021-09-26,Power BI,46,ferramentas,2021
+2021-10-03,Power BI,43,ferramentas,2021
+2021-10-10,Power BI,36,ferramentas,2021
+2021-10-17,Power BI,43,ferramentas,2021
+2021-10-24,Power BI,45,ferramentas,2021
+2021-10-31,Power BI,34,ferramentas,2021
+2021-11-07,Power BI,41,ferramentas,2021
+2021-11-14,Power BI,39,ferramentas,2021
+2021-11-21,Power BI,42,ferramentas,2021
+2021-11-28,Power BI,43,ferramentas,2021
+2021-12-05,Power BI,42,ferramentas,2021
+2021-12-12,Power BI,42,ferramentas,2021
+2021-12-19,Power BI,33,ferramentas,2021
+2021-12-26,Power BI,31,ferramentas,2021
+2022-01-02,Power BI,51,ferramentas,2022
+2022-01-09,Power BI,58,ferramentas,2022
+2022-01-16,Power BI,52,ferramentas,2022
+2022-01-23,Power BI,55,ferramentas,2022
+2022-01-30,Power BI,63,ferramentas,2022
+2022-02-06,Power BI,67,ferramentas,2022
+2022-02-13,Power BI,61,ferramentas,2022
+2022-02-20,Power BI,59,ferramentas,2022
+2022-02-27,Power BI,50,ferramentas,2022
+2022-03-06,Power BI,59,ferramentas,2022
+2022-03-13,Power BI,59,ferramentas,2022
+2022-03-20,Power BI,69,ferramentas,2022
+2022-03-27,Power BI,59,ferramentas,2022
+2022-04-03,Power BI,59,ferramentas,2022
+2022-04-10,Power BI,58,ferramentas,2022
+2022-04-17,Power BI,55,ferramentas,2022
+2022-04-24,Power BI,64,ferramentas,2022
+2022-05-01,Power BI,58,ferramentas,2022
+2022-05-08,Power BI,64,ferramentas,2022
+2022-05-15,Power BI,63,ferramentas,2022
+2022-05-22,Power BI,71,ferramentas,2022
+2022-05-29,Power BI,67,ferramentas,2022
+2022-06-05,Power BI,63,ferramentas,2022
+2022-06-12,Power BI,59,ferramentas,2022
+2022-06-19,Power BI,68,ferramentas,2022
+2022-06-26,Power BI,63,ferramentas,2022
+2022-07-03,Power BI,75,ferramentas,2022
+2022-07-10,Power BI,66,ferramentas,2022
+2022-07-17,Power BI,64,ferramentas,2022
+2022-07-24,Power BI,73,ferramentas,2022
+2022-07-31,Power BI,70,ferramentas,2022
+2022-08-07,Power BI,80,ferramentas,2022
+2022-08-14,Power BI,67,ferramentas,2022
+2022-08-21,Power BI,68,ferramentas,2022
+2022-08-28,Power BI,68,ferramentas,2022
+2022-09-04,Power BI,59,ferramentas,2022
+2022-09-11,Power BI,77,ferramentas,2022
+2022-09-18,Power BI,69,ferramentas,2022
+2022-09-25,Power BI,64,ferramentas,2022
+2022-10-02,Power BI,57,ferramentas,2022
+2022-10-09,Power BI,61,ferramentas,2022
+2022-10-16,Power BI,63,ferramentas,2022
+2022-10-23,Power BI,61,ferramentas,2022
+2022-10-30,Power BI,54,ferramentas,2022
+2022-11-06,Power BI,64,ferramentas,2022
+2022-11-13,Power BI,58,ferramentas,2022
+2022-11-20,Power BI,53,ferramentas,2022
+2022-11-27,Power BI,54,ferramentas,2022
+2022-12-04,Power BI,56,ferramentas,2022
+2022-12-11,Power BI,61,ferramentas,2022
+2022-12-18,Power BI,59,ferramentas,2022
+2022-12-25,Power BI,57,ferramentas,2022
+2023-01-01,Power BI,67,ferramentas,2023
+2023-01-08,Power BI,76,ferramentas,2023
+2023-01-15,Power BI,77,ferramentas,2023
+2023-01-22,Power BI,77,ferramentas,2023
+2023-01-29,Power BI,86,ferramentas,2023
+2023-02-05,Power BI,76,ferramentas,2023
+2023-02-12,Power BI,73,ferramentas,2023
+2023-02-19,Power BI,63,ferramentas,2023
+2023-02-26,Power BI,77,ferramentas,2023
+2023-03-05,Power BI,66,ferramentas,2023
+2023-03-12,Power BI,75,ferramentas,2023
+2023-03-19,Power BI,75,ferramentas,2023
+2023-03-26,Power BI,76,ferramentas,2023
+2023-04-02,Power BI,64,ferramentas,2023
+2023-04-09,Power BI,85,ferramentas,2023
+2023-04-16,Power BI,63,ferramentas,2023
+2023-04-23,Power BI,75,ferramentas,2023
+2023-04-30,Power BI,66,ferramentas,2023
+2023-05-07,Power BI,73,ferramentas,2023
+2023-05-14,Power BI,72,ferramentas,2023
+2023-05-21,Power BI,74,ferramentas,2023
+2023-05-28,Power BI,72,ferramentas,2023
+2023-06-04,Power BI,59,ferramentas,2023
+2023-06-11,Power BI,66,ferramentas,2023
+2023-06-18,Power BI,74,ferramentas,2023
+2023-06-25,Power BI,73,ferramentas,2023
+2023-07-02,Power BI,69,ferramentas,2023
+2023-07-09,Power BI,81,ferramentas,2023
+2023-07-16,Power BI,74,ferramentas,2023
+2023-07-23,Power BI,75,ferramentas,2023
+2023-07-30,Power BI,73,ferramentas,2023
+2023-08-06,Power BI,79,ferramentas,2023
+2023-08-13,Power BI,71,ferramentas,2023
+2023-08-20,Power BI,70,ferramentas,2023
+2023-08-27,Power BI,83,ferramentas,2023
+2023-09-03,Power BI,67,ferramentas,2023
+2023-09-10,Power BI,76,ferramentas,2023
+2023-09-17,Power BI,89,ferramentas,2023
+2023-09-24,Power BI,82,ferramentas,2023
+2023-10-01,Power BI,75,ferramentas,2023
+2023-10-08,Power BI,62,ferramentas,2023
+2023-10-15,Power BI,65,ferramentas,2023
+2023-10-22,Power BI,72,ferramentas,2023
+2023-10-29,Power BI,61,ferramentas,2023
+2023-11-05,Power BI,68,ferramentas,2023
+2023-11-12,Power BI,63,ferramentas,2023
+2023-11-19,Power BI,63,ferramentas,2023
+2023-11-26,Power BI,65,ferramentas,2023
+2023-12-03,Power BI,65,ferramentas,2023
+2023-12-10,Power BI,70,ferramentas,2023
+2023-12-17,Power BI,73,ferramentas,2023
+2023-12-24,Power BI,51,ferramentas,2023
+2023-12-31,Power BI,60,ferramentas,2023
+2024-01-07,Power BI,75,ferramentas,2024
+2024-01-14,Power BI,73,ferramentas,2024
+2024-01-21,Power BI,78,ferramentas,2024
+2024-01-28,Power BI,91,ferramentas,2024
+2024-02-04,Power BI,87,ferramentas,2024
+2024-02-11,Power BI,67,ferramentas,2024
+2024-02-18,Power BI,93,ferramentas,2024
+2024-02-25,Power BI,86,ferramentas,2024
+2024-03-03,Power BI,86,ferramentas,2024
+2024-03-10,Power BI,86,ferramentas,2024
+2024-03-17,Power BI,88,ferramentas,2024
+2024-03-24,Power BI,75,ferramentas,2024
+2024-03-31,Power BI,83,ferramentas,2024
+2024-04-07,Power BI,82,ferramentas,2024
+2024-04-14,Power BI,82,ferramentas,2024
+2024-04-21,Power BI,82,ferramentas,2024
+2024-04-28,Power BI,75,ferramentas,2024
+2024-05-05,Power BI,88,ferramentas,2024
+2024-05-12,Power BI,84,ferramentas,2024
+2024-05-19,Power BI,91,ferramentas,2024
+2024-05-26,Power BI,68,ferramentas,2024
+2024-06-02,Power BI,81,ferramentas,2024
+2024-06-09,Power BI,81,ferramentas,2024
+2024-06-16,Power BI,90,ferramentas,2024
+2024-06-23,Power BI,89,ferramentas,2024
+2024-06-30,Power BI,80,ferramentas,2024
+2024-07-07,Power BI,75,ferramentas,2024
+2024-07-14,Power BI,82,ferramentas,2024
+2024-07-21,Power BI,84,ferramentas,2024
+2024-07-28,Power BI,77,ferramentas,2024
+2024-08-04,Power BI,73,ferramentas,2024
+2024-08-11,Power BI,75,ferramentas,2024
+2024-08-18,Power BI,78,ferramentas,2024
+2024-08-25,Power BI,79,ferramentas,2024
+2024-09-01,Power BI,100,ferramentas,2024
+2024-09-08,Power BI,78,ferramentas,2024
+2024-09-15,Power BI,79,ferramentas,2024
+2024-09-22,Power BI,77,ferramentas,2024
+2024-09-29,Power BI,76,ferramentas,2024
+2024-10-06,Power BI,74,ferramentas,2024
+2024-10-13,Power BI,77,ferramentas,2024
+2024-10-20,Power BI,75,ferramentas,2024
+2024-10-27,Power BI,78,ferramentas,2024
+2024-11-03,Power BI,75,ferramentas,2024
+2024-11-10,Power BI,69,ferramentas,2024
+2024-11-17,Power BI,70,ferramentas,2024
+2024-11-24,Power BI,80,ferramentas,2024
+2024-12-01,Power BI,73,ferramentas,2024
+2024-12-08,Power BI,71,ferramentas,2024
+2024-12-15,Power BI,71,ferramentas,2024
+2024-12-22,Power BI,43,ferramentas,2024
+2024-12-29,Power BI,47,ferramentas,2024
+2020-12-27,Tableau,3,ferramentas,2020
+2021-01-03,Tableau,5,ferramentas,2021
+2021-01-10,Tableau,5,ferramentas,2021
+2021-01-17,Tableau,6,ferramentas,2021
+2021-01-24,Tableau,6,ferramentas,2021
+2021-01-31,Tableau,5,ferramentas,2021
+2021-02-07,Tableau,6,ferramentas,2021
+2021-02-14,Tableau,5,ferramentas,2021
+2021-02-21,Tableau,5,ferramentas,2021
+2021-02-28,Tableau,5,ferramentas,2021
+2021-03-07,Tableau,5,ferramentas,2021
+2021-03-14,Tableau,4,ferramentas,2021
+2021-03-21,Tableau,5,ferramentas,2021
+2021-03-28,Tableau,4,ferramentas,2021
+2021-04-04,Tableau,5,ferramentas,2021
+2021-04-11,Tableau,5,ferramentas,2021
+2021-04-18,Tableau,6,ferramentas,2021
+2021-04-25,Tableau,5,ferramentas,2021
+2021-05-02,Tableau,5,ferramentas,2021
+2021-05-09,Tableau,5,ferramentas,2021
+2021-05-16,Tableau,6,ferramentas,2021
+2021-05-23,Tableau,6,ferramentas,2021
+2021-05-30,Tableau,4,ferramentas,2021
+2021-06-06,Tableau,5,ferramentas,2021
+2021-06-13,Tableau,6,ferramentas,2021
+2021-06-20,Tableau,6,ferramentas,2021
+2021-06-27,Tableau,6,ferramentas,2021
+2021-07-04,Tableau,5,ferramentas,2021
+2021-07-11,Tableau,6,ferramentas,2021
+2021-07-18,Tableau,5,ferramentas,2021
+2021-07-25,Tableau,6,ferramentas,2021
+2021-08-01,Tableau,7,ferramentas,2021
+2021-08-08,Tableau,6,ferramentas,2021
+2021-08-15,Tableau,7,ferramentas,2021
+2021-08-22,Tableau,7,ferramentas,2021
+2021-08-29,Tableau,7,ferramentas,2021
+2021-09-05,Tableau,7,ferramentas,2021
+2021-09-12,Tableau,7,ferramentas,2021
+2021-09-19,Tableau,8,ferramentas,2021
+2021-09-26,Tableau,7,ferramentas,2021
+2021-10-03,Tableau,7,ferramentas,2021
+2021-10-10,Tableau,5,ferramentas,2021
+2021-10-17,Tableau,6,ferramentas,2021
+2021-10-24,Tableau,8,ferramentas,2021
+2021-10-31,Tableau,5,ferramentas,2021
+2021-11-07,Tableau,6,ferramentas,2021
+2021-11-14,Tableau,6,ferramentas,2021
+2021-11-21,Tableau,6,ferramentas,2021
+2021-11-28,Tableau,6,ferramentas,2021
+2021-12-05,Tableau,6,ferramentas,2021
+2021-12-12,Tableau,7,ferramentas,2021
+2021-12-19,Tableau,5,ferramentas,2021
+2021-12-26,Tableau,4,ferramentas,2021
+2022-01-02,Tableau,7,ferramentas,2022
+2022-01-09,Tableau,8,ferramentas,2022
+2022-01-16,Tableau,7,ferramentas,2022
+2022-01-23,Tableau,8,ferramentas,2022
+2022-01-30,Tableau,8,ferramentas,2022
+2022-02-06,Tableau,7,ferramentas,2022
+2022-02-13,Tableau,8,ferramentas,2022
+2022-02-20,Tableau,7,ferramentas,2022
+2022-02-27,Tableau,5,ferramentas,2022
+2022-03-06,Tableau,7,ferramentas,2022
+2022-03-13,Tableau,7,ferramentas,2022
+2022-03-20,Tableau,7,ferramentas,2022
+2022-03-27,Tableau,8,ferramentas,2022
+2022-04-03,Tableau,8,ferramentas,2022
+2022-04-10,Tableau,7,ferramentas,2022
+2022-04-17,Tableau,6,ferramentas,2022
+2022-04-24,Tableau,8,ferramentas,2022
+2022-05-01,Tableau,7,ferramentas,2022
+2022-05-08,Tableau,8,ferramentas,2022
+2022-05-15,Tableau,8,ferramentas,2022
+2022-05-22,Tableau,7,ferramentas,2022
+2022-05-29,Tableau,8,ferramentas,2022
+2022-06-05,Tableau,7,ferramentas,2022
+2022-06-12,Tableau,6,ferramentas,2022
+2022-06-19,Tableau,8,ferramentas,2022
+2022-06-26,Tableau,7,ferramentas,2022
+2022-07-03,Tableau,8,ferramentas,2022
+2022-07-10,Tableau,7,ferramentas,2022
+2022-07-17,Tableau,7,ferramentas,2022
+2022-07-24,Tableau,7,ferramentas,2022
+2022-07-31,Tableau,7,ferramentas,2022
+2022-08-07,Tableau,7,ferramentas,2022
+2022-08-14,Tableau,7,ferramentas,2022
+2022-08-21,Tableau,8,ferramentas,2022
+2022-08-28,Tableau,7,ferramentas,2022
+2022-09-04,Tableau,6,ferramentas,2022
+2022-09-11,Tableau,8,ferramentas,2022
+2022-09-18,Tableau,8,ferramentas,2022
+2022-09-25,Tableau,7,ferramentas,2022
+2022-10-02,Tableau,6,ferramentas,2022
+2022-10-09,Tableau,6,ferramentas,2022
+2022-10-16,Tableau,7,ferramentas,2022
+2022-10-23,Tableau,7,ferramentas,2022
+2022-10-30,Tableau,5,ferramentas,2022
+2022-11-06,Tableau,7,ferramentas,2022
+2022-11-13,Tableau,6,ferramentas,2022
+2022-11-20,Tableau,6,ferramentas,2022
+2022-11-27,Tableau,7,ferramentas,2022
+2022-12-04,Tableau,7,ferramentas,2022
+2022-12-11,Tableau,7,ferramentas,2022
+2022-12-18,Tableau,6,ferramentas,2022
+2022-12-25,Tableau,5,ferramentas,2022
+2023-01-01,Tableau,6,ferramentas,2023
+2023-01-08,Tableau,7,ferramentas,2023
+2023-01-15,Tableau,7,ferramentas,2023
+2023-01-22,Tableau,7,ferramentas,2023
+2023-01-29,Tableau,8,ferramentas,2023
+2023-02-05,Tableau,8,ferramentas,2023
+2023-02-12,Tableau,6,ferramentas,2023
+2023-02-19,Tableau,5,ferramentas,2023
+2023-02-26,Tableau,7,ferramentas,2023
+2023-03-05,Tableau,7,ferramentas,2023
+2023-03-12,Tableau,8,ferramentas,2023
+2023-03-19,Tableau,7,ferramentas,2023
+2023-03-26,Tableau,8,ferramentas,2023
+2023-04-02,Tableau,6,ferramentas,2023
+2023-04-09,Tableau,7,ferramentas,2023
+2023-04-16,Tableau,7,ferramentas,2023
+2023-04-23,Tableau,7,ferramentas,2023
+2023-04-30,Tableau,6,ferramentas,2023
+2023-05-07,Tableau,7,ferramentas,2023
+2023-05-14,Tableau,7,ferramentas,2023
+2023-05-21,Tableau,7,ferramentas,2023
+2023-05-28,Tableau,8,ferramentas,2023
+2023-06-04,Tableau,6,ferramentas,2023
+2023-06-11,Tableau,8,ferramentas,2023
+2023-06-18,Tableau,7,ferramentas,2023
+2023-06-25,Tableau,7,ferramentas,2023
+2023-07-02,Tableau,7,ferramentas,2023
+2023-07-09,Tableau,7,ferramentas,2023
+2023-07-16,Tableau,7,ferramentas,2023
+2023-07-23,Tableau,7,ferramentas,2023
+2023-07-30,Tableau,7,ferramentas,2023
+2023-08-06,Tableau,7,ferramentas,2023
+2023-08-13,Tableau,7,ferramentas,2023
+2023-08-20,Tableau,7,ferramentas,2023
+2023-08-27,Tableau,7,ferramentas,2023
+2023-09-03,Tableau,6,ferramentas,2023
+2023-09-10,Tableau,7,ferramentas,2023
+2023-09-17,Tableau,7,ferramentas,2023
+2023-09-24,Tableau,6,ferramentas,2023
+2023-10-01,Tableau,6,ferramentas,2023
+2023-10-08,Tableau,6,ferramentas,2023
+2023-10-15,Tableau,7,ferramentas,2023
+2023-10-22,Tableau,7,ferramentas,2023
+2023-10-29,Tableau,5,ferramentas,2023
+2023-11-05,Tableau,6,ferramentas,2023
+2023-11-12,Tableau,5,ferramentas,2023
+2023-11-19,Tableau,5,ferramentas,2023
+2023-11-26,Tableau,6,ferramentas,2023
+2023-12-03,Tableau,6,ferramentas,2023
+2023-12-10,Tableau,6,ferramentas,2023
+2023-12-17,Tableau,5,ferramentas,2023
+2023-12-24,Tableau,4,ferramentas,2023
+2023-12-31,Tableau,5,ferramentas,2023
+2024-01-07,Tableau,6,ferramentas,2024
+2024-01-14,Tableau,6,ferramentas,2024
+2024-01-21,Tableau,6,ferramentas,2024
+2024-01-28,Tableau,8,ferramentas,2024
+2024-02-04,Tableau,7,ferramentas,2024
+2024-02-11,Tableau,5,ferramentas,2024
+2024-02-18,Tableau,6,ferramentas,2024
+2024-02-25,Tableau,6,ferramentas,2024
+2024-03-03,Tableau,7,ferramentas,2024
+2024-03-10,Tableau,7,ferramentas,2024
+2024-03-17,Tableau,7,ferramentas,2024
+2024-03-24,Tableau,8,ferramentas,2024
+2024-03-31,Tableau,8,ferramentas,2024
+2024-04-07,Tableau,6,ferramentas,2024
+2024-04-14,Tableau,7,ferramentas,2024
+2024-04-21,Tableau,7,ferramentas,2024
+2024-04-28,Tableau,6,ferramentas,2024
+2024-05-05,Tableau,6,ferramentas,2024
+2024-05-12,Tableau,7,ferramentas,2024
+2024-05-19,Tableau,7,ferramentas,2024
+2024-05-26,Tableau,6,ferramentas,2024
+2024-06-02,Tableau,7,ferramentas,2024
+2024-06-09,Tableau,7,ferramentas,2024
+2024-06-16,Tableau,7,ferramentas,2024
+2024-06-23,Tableau,7,ferramentas,2024
+2024-06-30,Tableau,6,ferramentas,2024
+2024-07-07,Tableau,5,ferramentas,2024
+2024-07-14,Tableau,6,ferramentas,2024
+2024-07-21,Tableau,6,ferramentas,2024
+2024-07-28,Tableau,8,ferramentas,2024
+2024-08-04,Tableau,7,ferramentas,2024
+2024-08-11,Tableau,6,ferramentas,2024
+2024-08-18,Tableau,7,ferramentas,2024
+2024-08-25,Tableau,5,ferramentas,2024
+2024-09-01,Tableau,6,ferramentas,2024
+2024-09-08,Tableau,7,ferramentas,2024
+2024-09-15,Tableau,6,ferramentas,2024
+2024-09-22,Tableau,7,ferramentas,2024
+2024-09-29,Tableau,6,ferramentas,2024
+2024-10-06,Tableau,6,ferramentas,2024
+2024-10-13,Tableau,6,ferramentas,2024
+2024-10-20,Tableau,6,ferramentas,2024
+2024-10-27,Tableau,7,ferramentas,2024
+2024-11-03,Tableau,7,ferramentas,2024
+2024-11-10,Tableau,6,ferramentas,2024
+2024-11-17,Tableau,5,ferramentas,2024
+2024-11-24,Tableau,6,ferramentas,2024
+2024-12-01,Tableau,5,ferramentas,2024
+2024-12-08,Tableau,6,ferramentas,2024
+2024-12-15,Tableau,5,ferramentas,2024
+2024-12-22,Tableau,4,ferramentas,2024
+2024-12-29,Tableau,3,ferramentas,2024
+2020-12-27,Apache Spark,0,ferramentas,2020
+2021-01-03,Apache Spark,0,ferramentas,2021
+2021-01-10,Apache Spark,0,ferramentas,2021
+2021-01-17,Apache Spark,0,ferramentas,2021
+2021-01-24,Apache Spark,0,ferramentas,2021
+2021-01-31,Apache Spark,0,ferramentas,2021
+2021-02-07,Apache Spark,0,ferramentas,2021
+2021-02-14,Apache Spark,0,ferramentas,2021
+2021-02-21,Apache Spark,0,ferramentas,2021
+2021-02-28,Apache Spark,0,ferramentas,2021
+2021-03-07,Apache Spark,0,ferramentas,2021
+2021-03-14,Apache Spark,0,ferramentas,2021
+2021-03-21,Apache Spark,0,ferramentas,2021
+2021-03-28,Apache Spark,0,ferramentas,2021
+2021-04-04,Apache Spark,0,ferramentas,2021
+2021-04-11,Apache Spark,0,ferramentas,2021
+2021-04-18,Apache Spark,0,ferramentas,2021
+2021-04-25,Apache Spark,0,ferramentas,2021
+2021-05-02,Apache Spark,0,ferramentas,2021
+2021-05-09,Apache Spark,0,ferramentas,2021
+2021-05-16,Apache Spark,0,ferramentas,2021
+2021-05-23,Apache Spark,0,ferramentas,2021
+2021-05-30,Apache Spark,0,ferramentas,2021
+2021-06-06,Apache Spark,0,ferramentas,2021
+2021-06-13,Apache Spark,0,ferramentas,2021
+2021-06-20,Apache Spark,0,ferramentas,2021
+2021-06-27,Apache Spark,0,ferramentas,2021
+2021-07-04,Apache Spark,0,ferramentas,2021
+2021-07-11,Apache Spark,0,ferramentas,2021
+2021-07-18,Apache Spark,0,ferramentas,2021
+2021-07-25,Apache Spark,0,ferramentas,2021
+2021-08-01,Apache Spark,0,ferramentas,2021
+2021-08-08,Apache Spark,0,ferramentas,2021
+2021-08-15,Apache Spark,0,ferramentas,2021
+2021-08-22,Apache Spark,0,ferramentas,2021
+2021-08-29,Apache Spark,0,ferramentas,2021
+2021-09-05,Apache Spark,0,ferramentas,2021
+2021-09-12,Apache Spark,0,ferramentas,2021
+2021-09-19,Apache Spark,0,ferramentas,2021
+2021-09-26,Apache Spark,0,ferramentas,2021
+2021-10-03,Apache Spark,0,ferramentas,2021
+2021-10-10,Apache Spark,0,ferramentas,2021
+2021-10-17,Apache Spark,0,ferramentas,2021
+2021-10-24,Apache Spark,0,ferramentas,2021
+2021-10-31,Apache Spark,0,ferramentas,2021
+2021-11-07,Apache Spark,0,ferramentas,2021
+2021-11-14,Apache Spark,0,ferramentas,2021
+2021-11-21,Apache Spark,0,ferramentas,2021
+2021-11-28,Apache Spark,0,ferramentas,2021
+2021-12-05,Apache Spark,0,ferramentas,2021
+2021-12-12,Apache Spark,0,ferramentas,2021
+2021-12-19,Apache Spark,0,ferramentas,2021
+2021-12-26,Apache Spark,0,ferramentas,2021
+2022-01-02,Apache Spark,0,ferramentas,2022
+2022-01-09,Apache Spark,0,ferramentas,2022
+2022-01-16,Apache Spark,1,ferramentas,2022
+2022-01-23,Apache Spark,0,ferramentas,2022
+2022-01-30,Apache Spark,0,ferramentas,2022
+2022-02-06,Apache Spark,0,ferramentas,2022
+2022-02-13,Apache Spark,1,ferramentas,2022
+2022-02-20,Apache Spark,0,ferramentas,2022
+2022-02-27,Apache Spark,0,ferramentas,2022
+2022-03-06,Apache Spark,1,ferramentas,2022
+2022-03-13,Apache Spark,0,ferramentas,2022
+2022-03-20,Apache Spark,0,ferramentas,2022
+2022-03-27,Apache Spark,1,ferramentas,2022
+2022-04-03,Apache Spark,0,ferramentas,2022
+2022-04-10,Apache Spark,0,ferramentas,2022
+2022-04-17,Apache Spark,1,ferramentas,2022
+2022-04-24,Apache Spark,1,ferramentas,2022
+2022-05-01,Apache Spark,1,ferramentas,2022
+2022-05-08,Apache Spark,1,ferramentas,2022
+2022-05-15,Apache Spark,0,ferramentas,2022
+2022-05-22,Apache Spark,0,ferramentas,2022
+2022-05-29,Apache Spark,0,ferramentas,2022
+2022-06-05,Apache Spark,0,ferramentas,2022
+2022-06-12,Apache Spark,0,ferramentas,2022
+2022-06-19,Apache Spark,1,ferramentas,2022
+2022-06-26,Apache Spark,1,ferramentas,2022
+2022-07-03,Apache Spark,0,ferramentas,2022
+2022-07-10,Apache Spark,1,ferramentas,2022
+2022-07-17,Apache Spark,1,ferramentas,2022
+2022-07-24,Apache Spark,1,ferramentas,2022
+2022-07-31,Apache Spark,0,ferramentas,2022
+2022-08-07,Apache Spark,1,ferramentas,2022
+2022-08-14,Apache Spark,1,ferramentas,2022
+2022-08-21,Apache Spark,0,ferramentas,2022
+2022-08-28,Apache Spark,1,ferramentas,2022
+2022-09-04,Apache Spark,0,ferramentas,2022
+2022-09-11,Apache Spark,1,ferramentas,2022
+2022-09-18,Apache Spark,0,ferramentas,2022
+2022-09-25,Apache Spark,0,ferramentas,2022
+2022-10-02,Apache Spark,0,ferramentas,2022
+2022-10-09,Apache Spark,0,ferramentas,2022
+2022-10-16,Apache Spark,0,ferramentas,2022
+2022-10-23,Apache Spark,0,ferramentas,2022
+2022-10-30,Apache Spark,1,ferramentas,2022
+2022-11-06,Apache Spark,0,ferramentas,2022
+2022-11-13,Apache Spark,0,ferramentas,2022
+2022-11-20,Apache Spark,0,ferramentas,2022
+2022-11-27,Apache Spark,0,ferramentas,2022
+2022-12-04,Apache Spark,0,ferramentas,2022
+2022-12-11,Apache Spark,1,ferramentas,2022
+2022-12-18,Apache Spark,1,ferramentas,2022
+2022-12-25,Apache Spark,0,ferramentas,2022
+2023-01-01,Apache Spark,1,ferramentas,2023
+2023-01-08,Apache Spark,0,ferramentas,2023
+2023-01-15,Apache Spark,0,ferramentas,2023
+2023-01-22,Apache Spark,0,ferramentas,2023
+2023-01-29,Apache Spark,1,ferramentas,2023
+2023-02-05,Apache Spark,1,ferramentas,2023
+2023-02-12,Apache Spark,0,ferramentas,2023
+2023-02-19,Apache Spark,0,ferramentas,2023
+2023-02-26,Apache Spark,0,ferramentas,2023
+2023-03-05,Apache Spark,1,ferramentas,2023
+2023-03-12,Apache Spark,0,ferramentas,2023
+2023-03-19,Apache Spark,1,ferramentas,2023
+2023-03-26,Apache Spark,0,ferramentas,2023
+2023-04-02,Apache Spark,0,ferramentas,2023
+2023-04-09,Apache Spark,0,ferramentas,2023
+2023-04-16,Apache Spark,0,ferramentas,2023
+2023-04-23,Apache Spark,1,ferramentas,2023
+2023-04-30,Apache Spark,0,ferramentas,2023
+2023-05-07,Apache Spark,1,ferramentas,2023
+2023-05-14,Apache Spark,1,ferramentas,2023
+2023-05-21,Apache Spark,0,ferramentas,2023
+2023-05-28,Apache Spark,1,ferramentas,2023
+2023-06-04,Apache Spark,1,ferramentas,2023
+2023-06-11,Apache Spark,0,ferramentas,2023
+2023-06-18,Apache Spark,1,ferramentas,2023
+2023-06-25,Apache Spark,1,ferramentas,2023
+2023-07-02,Apache Spark,1,ferramentas,2023
+2023-07-09,Apache Spark,1,ferramentas,2023
+2023-07-16,Apache Spark,0,ferramentas,2023
+2023-07-23,Apache Spark,0,ferramentas,2023
+2023-07-30,Apache Spark,1,ferramentas,2023
+2023-08-06,Apache Spark,0,ferramentas,2023
+2023-08-13,Apache Spark,0,ferramentas,2023
+2023-08-20,Apache Spark,0,ferramentas,2023
+2023-08-27,Apache Spark,1,ferramentas,2023
+2023-09-03,Apache Spark,0,ferramentas,2023
+2023-09-10,Apache Spark,1,ferramentas,2023
+2023-09-17,Apache Spark,1,ferramentas,2023
+2023-09-24,Apache Spark,1,ferramentas,2023
+2023-10-01,Apache Spark,0,ferramentas,2023
+2023-10-08,Apache Spark,0,ferramentas,2023
+2023-10-15,Apache Spark,0,ferramentas,2023
+2023-10-22,Apache Spark,0,ferramentas,2023
+2023-10-29,Apache Spark,1,ferramentas,2023
+2023-11-05,Apache Spark,1,ferramentas,2023
+2023-11-12,Apache Spark,0,ferramentas,2023
+2023-11-19,Apache Spark,0,ferramentas,2023
+2023-11-26,Apache Spark,1,ferramentas,2023
+2023-12-03,Apache Spark,0,ferramentas,2023
+2023-12-10,Apache Spark,1,ferramentas,2023
+2023-12-17,Apache Spark,1,ferramentas,2023
+2023-12-24,Apache Spark,0,ferramentas,2023
+2023-12-31,Apache Spark,1,ferramentas,2023
+2024-01-07,Apache Spark,0,ferramentas,2024
+2024-01-14,Apache Spark,0,ferramentas,2024
+2024-01-21,Apache Spark,0,ferramentas,2024
+2024-01-28,Apache Spark,1,ferramentas,2024
+2024-02-04,Apache Spark,1,ferramentas,2024
+2024-02-11,Apache Spark,0,ferramentas,2024
+2024-02-18,Apache Spark,1,ferramentas,2024
+2024-02-25,Apache Spark,0,ferramentas,2024
+2024-03-03,Apache Spark,1,ferramentas,2024
+2024-03-10,Apache Spark,0,ferramentas,2024
+2024-03-17,Apache Spark,0,ferramentas,2024
+2024-03-24,Apache Spark,0,ferramentas,2024
+2024-03-31,Apache Spark,0,ferramentas,2024
+2024-04-07,Apache Spark,1,ferramentas,2024
+2024-04-14,Apache Spark,1,ferramentas,2024
+2024-04-21,Apache Spark,1,ferramentas,2024
+2024-04-28,Apache Spark,1,ferramentas,2024
+2024-05-05,Apache Spark,1,ferramentas,2024
+2024-05-12,Apache Spark,0,ferramentas,2024
+2024-05-19,Apache Spark,1,ferramentas,2024
+2024-05-26,Apache Spark,0,ferramentas,2024
+2024-06-02,Apache Spark,1,ferramentas,2024
+2024-06-09,Apache Spark,1,ferramentas,2024
+2024-06-16,Apache Spark,0,ferramentas,2024
+2024-06-23,Apache Spark,1,ferramentas,2024
+2024-06-30,Apache Spark,0,ferramentas,2024
+2024-07-07,Apache Spark,0,ferramentas,2024
+2024-07-14,Apache Spark,1,ferramentas,2024
+2024-07-21,Apache Spark,1,ferramentas,2024
+2024-07-28,Apache Spark,1,ferramentas,2024
+2024-08-04,Apache Spark,0,ferramentas,2024
+2024-08-11,Apache Spark,0,ferramentas,2024
+2024-08-18,Apache Spark,1,ferramentas,2024
+2024-08-25,Apache Spark,1,ferramentas,2024
+2024-09-01,Apache Spark,1,ferramentas,2024
+2024-09-08,Apache Spark,1,ferramentas,2024
+2024-09-15,Apache Spark,1,ferramentas,2024
+2024-09-22,Apache Spark,1,ferramentas,2024
+2024-09-29,Apache Spark,0,ferramentas,2024
+2024-10-06,Apache Spark,1,ferramentas,2024
+2024-10-13,Apache Spark,1,ferramentas,2024
+2024-10-20,Apache Spark,1,ferramentas,2024
+2024-10-27,Apache Spark,1,ferramentas,2024
+2024-11-03,Apache Spark,1,ferramentas,2024
+2024-11-10,Apache Spark,0,ferramentas,2024
+2024-11-17,Apache Spark,1,ferramentas,2024
+2024-11-24,Apache Spark,1,ferramentas,2024
+2024-12-01,Apache Spark,1,ferramentas,2024
+2024-12-08,Apache Spark,1,ferramentas,2024
+2024-12-15,Apache Spark,1,ferramentas,2024
+2024-12-22,Apache Spark,1,ferramentas,2024
+2024-12-29,Apache Spark,0,ferramentas,2024
+2020-12-27,dbt,1,ferramentas,2020
+2021-01-03,dbt,1,ferramentas,2021
+2021-01-10,dbt,1,ferramentas,2021
+2021-01-17,dbt,1,ferramentas,2021
+2021-01-24,dbt,1,ferramentas,2021
+2021-01-31,dbt,1,ferramentas,2021
+2021-02-07,dbt,1,ferramentas,2021
+2021-02-14,dbt,1,ferramentas,2021
+2021-02-21,dbt,1,ferramentas,2021
+2021-02-28,dbt,1,ferramentas,2021
+2021-03-07,dbt,1,ferramentas,2021
+2021-03-14,dbt,1,ferramentas,2021
+2021-03-21,dbt,1,ferramentas,2021
+2021-03-28,dbt,1,ferramentas,2021
+2021-04-04,dbt,1,ferramentas,2021
+2021-04-11,dbt,1,ferramentas,2021
+2021-04-18,dbt,1,ferramentas,2021
+2021-04-25,dbt,1,ferramentas,2021
+2021-05-02,dbt,1,ferramentas,2021
+2021-05-09,dbt,1,ferramentas,2021
+2021-05-16,dbt,1,ferramentas,2021
+2021-05-23,dbt,1,ferramentas,2021
+2021-05-30,dbt,1,ferramentas,2021
+2021-06-06,dbt,1,ferramentas,2021
+2021-06-13,dbt,1,ferramentas,2021
+2021-06-20,dbt,1,ferramentas,2021
+2021-06-27,dbt,1,ferramentas,2021
+2021-07-04,dbt,1,ferramentas,2021
+2021-07-11,dbt,1,ferramentas,2021
+2021-07-18,dbt,1,ferramentas,2021
+2021-07-25,dbt,1,ferramentas,2021
+2021-08-01,dbt,1,ferramentas,2021
+2021-08-08,dbt,1,ferramentas,2021
+2021-08-15,dbt,1,ferramentas,2021
+2021-08-22,dbt,1,ferramentas,2021
+2021-08-29,dbt,3,ferramentas,2021
+2021-09-05,dbt,2,ferramentas,2021
+2021-09-12,dbt,1,ferramentas,2021
+2021-09-19,dbt,1,ferramentas,2021
+2021-09-26,dbt,1,ferramentas,2021
+2021-10-03,dbt,1,ferramentas,2021
+2021-10-10,dbt,1,ferramentas,2021
+2021-10-17,dbt,1,ferramentas,2021
+2021-10-24,dbt,1,ferramentas,2021
+2021-10-31,dbt,1,ferramentas,2021
+2021-11-07,dbt,3,ferramentas,2021
+2021-11-14,dbt,1,ferramentas,2021
+2021-11-21,dbt,2,ferramentas,2021
+2021-11-28,dbt,1,ferramentas,2021
+2021-12-05,dbt,1,ferramentas,2021
+2021-12-12,dbt,2,ferramentas,2021
+2021-12-19,dbt,1,ferramentas,2021
+2021-12-26,dbt,1,ferramentas,2021
+2022-01-02,dbt,1,ferramentas,2022
+2022-01-09,dbt,2,ferramentas,2022
+2022-01-16,dbt,2,ferramentas,2022
+2022-01-23,dbt,2,ferramentas,2022
+2022-01-30,dbt,2,ferramentas,2022
+2022-02-06,dbt,1,ferramentas,2022
+2022-02-13,dbt,1,ferramentas,2022
+2022-02-20,dbt,1,ferramentas,2022
+2022-02-27,dbt,2,ferramentas,2022
+2022-03-06,dbt,2,ferramentas,2022
+2022-03-13,dbt,2,ferramentas,2022
+2022-03-20,dbt,2,ferramentas,2022
+2022-03-27,dbt,2,ferramentas,2022
+2022-04-03,dbt,2,ferramentas,2022
+2022-04-10,dbt,2,ferramentas,2022
+2022-04-17,dbt,2,ferramentas,2022
+2022-04-24,dbt,2,ferramentas,2022
+2022-05-01,dbt,2,ferramentas,2022
+2022-05-08,dbt,2,ferramentas,2022
+2022-05-15,dbt,2,ferramentas,2022
+2022-05-22,dbt,3,ferramentas,2022
+2022-05-29,dbt,3,ferramentas,2022
+2022-06-05,dbt,2,ferramentas,2022
+2022-06-12,dbt,2,ferramentas,2022
+2022-06-19,dbt,2,ferramentas,2022
+2022-06-26,dbt,2,ferramentas,2022
+2022-07-03,dbt,3,ferramentas,2022
+2022-07-10,dbt,3,ferramentas,2022
+2022-07-17,dbt,2,ferramentas,2022
+2022-07-24,dbt,2,ferramentas,2022
+2022-07-31,dbt,2,ferramentas,2022
+2022-08-07,dbt,2,ferramentas,2022
+2022-08-14,dbt,2,ferramentas,2022
+2022-08-21,dbt,2,ferramentas,2022
+2022-08-28,dbt,2,ferramentas,2022
+2022-09-04,dbt,2,ferramentas,2022
+2022-09-11,dbt,3,ferramentas,2022
+2022-09-18,dbt,3,ferramentas,2022
+2022-09-25,dbt,2,ferramentas,2022
+2022-10-02,dbt,2,ferramentas,2022
+2022-10-09,dbt,2,ferramentas,2022
+2022-10-16,dbt,3,ferramentas,2022
+2022-10-23,dbt,2,ferramentas,2022
+2022-10-30,dbt,2,ferramentas,2022
+2022-11-06,dbt,2,ferramentas,2022
+2022-11-13,dbt,2,ferramentas,2022
+2022-11-20,dbt,3,ferramentas,2022
+2022-11-27,dbt,2,ferramentas,2022
+2022-12-04,dbt,2,ferramentas,2022
+2022-12-11,dbt,2,ferramentas,2022
+2022-12-18,dbt,2,ferramentas,2022
+2022-12-25,dbt,2,ferramentas,2022
+2023-01-01,dbt,2,ferramentas,2023
+2023-01-08,dbt,2,ferramentas,2023
+2023-01-15,dbt,4,ferramentas,2023
+2023-01-22,dbt,2,ferramentas,2023
+2023-01-29,dbt,2,ferramentas,2023
+2023-02-05,dbt,3,ferramentas,2023
+2023-02-12,dbt,2,ferramentas,2023
+2023-02-19,dbt,2,ferramentas,2023
+2023-02-26,dbt,2,ferramentas,2023
+2023-03-05,dbt,3,ferramentas,2023
+2023-03-12,dbt,3,ferramentas,2023
+2023-03-19,dbt,3,ferramentas,2023
+2023-03-26,dbt,3,ferramentas,2023
+2023-04-02,dbt,3,ferramentas,2023
+2023-04-09,dbt,3,ferramentas,2023
+2023-04-16,dbt,3,ferramentas,2023
+2023-04-23,dbt,3,ferramentas,2023
+2023-04-30,dbt,2,ferramentas,2023
+2023-05-07,dbt,3,ferramentas,2023
+2023-05-14,dbt,3,ferramentas,2023
+2023-05-21,dbt,2,ferramentas,2023
+2023-05-28,dbt,3,ferramentas,2023
+2023-06-04,dbt,3,ferramentas,2023
+2023-06-11,dbt,3,ferramentas,2023
+2023-06-18,dbt,3,ferramentas,2023
+2023-06-25,dbt,3,ferramentas,2023
+2023-07-02,dbt,3,ferramentas,2023
+2023-07-09,dbt,3,ferramentas,2023
+2023-07-16,dbt,3,ferramentas,2023
+2023-07-23,dbt,3,ferramentas,2023
+2023-07-30,dbt,3,ferramentas,2023
+2023-08-06,dbt,3,ferramentas,2023
+2023-08-13,dbt,3,ferramentas,2023
+2023-08-20,dbt,3,ferramentas,2023
+2023-08-27,dbt,3,ferramentas,2023
+2023-09-03,dbt,2,ferramentas,2023
+2023-09-10,dbt,3,ferramentas,2023
+2023-09-17,dbt,3,ferramentas,2023
+2023-09-24,dbt,3,ferramentas,2023
+2023-10-01,dbt,3,ferramentas,2023
+2023-10-08,dbt,2,ferramentas,2023
+2023-10-15,dbt,3,ferramentas,2023
+2023-10-22,dbt,3,ferramentas,2023
+2023-10-29,dbt,2,ferramentas,2023
+2023-11-05,dbt,3,ferramentas,2023
+2023-11-12,dbt,3,ferramentas,2023
+2023-11-19,dbt,3,ferramentas,2023
+2023-11-26,dbt,3,ferramentas,2023
+2023-12-03,dbt,3,ferramentas,2023
+2023-12-10,dbt,3,ferramentas,2023
+2023-12-17,dbt,2,ferramentas,2023
+2023-12-24,dbt,2,ferramentas,2023
+2023-12-31,dbt,3,ferramentas,2023
+2024-01-07,dbt,3,ferramentas,2024
+2024-01-14,dbt,3,ferramentas,2024
+2024-01-21,dbt,3,ferramentas,2024
+2024-01-28,dbt,4,ferramentas,2024
+2024-02-04,dbt,4,ferramentas,2024
+2024-02-11,dbt,3,ferramentas,2024
+2024-02-18,dbt,4,ferramentas,2024
+2024-02-25,dbt,4,ferramentas,2024
+2024-03-03,dbt,4,ferramentas,2024
+2024-03-10,dbt,4,ferramentas,2024
+2024-03-17,dbt,4,ferramentas,2024
+2024-03-24,dbt,3,ferramentas,2024
+2024-03-31,dbt,4,ferramentas,2024
+2024-04-07,dbt,4,ferramentas,2024
+2024-04-14,dbt,4,ferramentas,2024
+2024-04-21,dbt,4,ferramentas,2024
+2024-04-28,dbt,4,ferramentas,2024
+2024-05-05,dbt,4,ferramentas,2024
+2024-05-12,dbt,4,ferramentas,2024
+2024-05-19,dbt,4,ferramentas,2024
+2024-05-26,dbt,3,ferramentas,2024
+2024-06-02,dbt,4,ferramentas,2024
+2024-06-09,dbt,4,ferramentas,2024
+2024-06-16,dbt,4,ferramentas,2024
+2024-06-23,dbt,4,ferramentas,2024
+2024-06-30,dbt,4,ferramentas,2024
+2024-07-07,dbt,4,ferramentas,2024
+2024-07-14,dbt,4,ferramentas,2024
+2024-07-21,dbt,3,ferramentas,2024
+2024-07-28,dbt,4,ferramentas,2024
+2024-08-04,dbt,4,ferramentas,2024
+2024-08-11,dbt,4,ferramentas,2024
+2024-08-18,dbt,4,ferramentas,2024
+2024-08-25,dbt,4,ferramentas,2024
+2024-09-01,dbt,3,ferramentas,2024
+2024-09-08,dbt,4,ferramentas,2024
+2024-09-15,dbt,4,ferramentas,2024
+2024-09-22,dbt,4,ferramentas,2024
+2024-09-29,dbt,4,ferramentas,2024
+2024-10-06,dbt,3,ferramentas,2024
+2024-10-13,dbt,4,ferramentas,2024
+2024-10-20,dbt,3,ferramentas,2024
+2024-10-27,dbt,3,ferramentas,2024
+2024-11-03,dbt,4,ferramentas,2024
+2024-11-10,dbt,4,ferramentas,2024
+2024-11-17,dbt,3,ferramentas,2024
+2024-11-24,dbt,4,ferramentas,2024
+2024-12-01,dbt,4,ferramentas,2024
+2024-12-08,dbt,4,ferramentas,2024
+2024-12-15,dbt,4,ferramentas,2024
+2024-12-22,dbt,2,ferramentas,2024
+2024-12-29,dbt,3,ferramentas,2024
+2020-12-27,Databricks,0,ferramentas,2020
+2021-01-03,Databricks,1,ferramentas,2021
+2021-01-10,Databricks,1,ferramentas,2021
+2021-01-17,Databricks,1,ferramentas,2021
+2021-01-24,Databricks,0,ferramentas,2021
+2021-01-31,Databricks,1,ferramentas,2021
+2021-02-07,Databricks,1,ferramentas,2021
+2021-02-14,Databricks,1,ferramentas,2021
+2021-02-21,Databricks,1,ferramentas,2021
+2021-02-28,Databricks,1,ferramentas,2021
+2021-03-07,Databricks,1,ferramentas,2021
+2021-03-14,Databricks,1,ferramentas,2021
+2021-03-21,Databricks,1,ferramentas,2021
+2021-03-28,Databricks,1,ferramentas,2021
+2021-04-04,Databricks,1,ferramentas,2021
+2021-04-11,Databricks,1,ferramentas,2021
+2021-04-18,Databricks,1,ferramentas,2021
+2021-04-25,Databricks,1,ferramentas,2021
+2021-05-02,Databricks,1,ferramentas,2021
+2021-05-09,Databricks,1,ferramentas,2021
+2021-05-16,Databricks,1,ferramentas,2021
+2021-05-23,Databricks,1,ferramentas,2021
+2021-05-30,Databricks,1,ferramentas,2021
+2021-06-06,Databricks,2,ferramentas,2021
+2021-06-13,Databricks,2,ferramentas,2021
+2021-06-20,Databricks,2,ferramentas,2021
+2021-06-27,Databricks,1,ferramentas,2021
+2021-07-04,Databricks,2,ferramentas,2021
+2021-07-11,Databricks,1,ferramentas,2021
+2021-07-18,Databricks,2,ferramentas,2021
+2021-07-25,Databricks,2,ferramentas,2021
+2021-08-01,Databricks,2,ferramentas,2021
+2021-08-08,Databricks,1,ferramentas,2021
+2021-08-15,Databricks,1,ferramentas,2021
+2021-08-22,Databricks,1,ferramentas,2021
+2021-08-29,Databricks,2,ferramentas,2021
+2021-09-05,Databricks,1,ferramentas,2021
+2021-09-12,Databricks,1,ferramentas,2021
+2021-09-19,Databricks,1,ferramentas,2021
+2021-09-26,Databricks,2,ferramentas,2021
+2021-10-03,Databricks,2,ferramentas,2021
+2021-10-10,Databricks,1,ferramentas,2021
+2021-10-17,Databricks,2,ferramentas,2021
+2021-10-24,Databricks,2,ferramentas,2021
+2021-10-31,Databricks,2,ferramentas,2021
+2021-11-07,Databricks,2,ferramentas,2021
+2021-11-14,Databricks,1,ferramentas,2021
+2021-11-21,Databricks,2,ferramentas,2021
+2021-11-28,Databricks,1,ferramentas,2021
+2021-12-05,Databricks,2,ferramentas,2021
+2021-12-12,Databricks,2,ferramentas,2021
+2021-12-19,Databricks,1,ferramentas,2021
+2021-12-26,Databricks,2,ferramentas,2021
+2022-01-02,Databricks,3,ferramentas,2022
+2022-01-09,Databricks,3,ferramentas,2022
+2022-01-16,Databricks,3,ferramentas,2022
+2022-01-23,Databricks,2,ferramentas,2022
+2022-01-30,Databricks,3,ferramentas,2022
+2022-02-06,Databricks,3,ferramentas,2022
+2022-02-13,Databricks,3,ferramentas,2022
+2022-02-20,Databricks,3,ferramentas,2022
+2022-02-27,Databricks,2,ferramentas,2022
+2022-03-06,Databricks,2,ferramentas,2022
+2022-03-13,Databricks,3,ferramentas,2022
+2022-03-20,Databricks,4,ferramentas,2022
+2022-03-27,Databricks,3,ferramentas,2022
+2022-04-03,Databricks,4,ferramentas,2022
+2022-04-10,Databricks,3,ferramentas,2022
+2022-04-17,Databricks,3,ferramentas,2022
+2022-04-24,Databricks,4,ferramentas,2022
+2022-05-01,Databricks,4,ferramentas,2022
+2022-05-08,Databricks,4,ferramentas,2022
+2022-05-15,Databricks,4,ferramentas,2022
+2022-05-22,Databricks,4,ferramentas,2022
+2022-05-29,Databricks,4,ferramentas,2022
+2022-06-05,Databricks,4,ferramentas,2022
+2022-06-12,Databricks,3,ferramentas,2022
+2022-06-19,Databricks,5,ferramentas,2022
+2022-06-26,Databricks,5,ferramentas,2022
+2022-07-03,Databricks,4,ferramentas,2022
+2022-07-10,Databricks,4,ferramentas,2022
+2022-07-17,Databricks,4,ferramentas,2022
+2022-07-24,Databricks,5,ferramentas,2022
+2022-07-31,Databricks,4,ferramentas,2022
+2022-08-07,Databricks,4,ferramentas,2022
+2022-08-14,Databricks,4,ferramentas,2022
+2022-08-21,Databricks,4,ferramentas,2022
+2022-08-28,Databricks,4,ferramentas,2022
+2022-09-04,Databricks,3,ferramentas,2022
+2022-09-11,Databricks,4,ferramentas,2022
+2022-09-18,Databricks,5,ferramentas,2022
+2022-09-25,Databricks,4,ferramentas,2022
+2022-10-02,Databricks,4,ferramentas,2022
+2022-10-09,Databricks,4,ferramentas,2022
+2022-10-16,Databricks,5,ferramentas,2022
+2022-10-23,Databricks,5,ferramentas,2022
+2022-10-30,Databricks,4,ferramentas,2022
+2022-11-06,Databricks,5,ferramentas,2022
+2022-11-13,Databricks,4,ferramentas,2022
+2022-11-20,Databricks,4,ferramentas,2022
+2022-11-27,Databricks,4,ferramentas,2022
+2022-12-04,Databricks,3,ferramentas,2022
+2022-12-11,Databricks,5,ferramentas,2022
+2022-12-18,Databricks,5,ferramentas,2022
+2022-12-25,Databricks,4,ferramentas,2022
+2023-01-01,Databricks,4,ferramentas,2023
+2023-01-08,Databricks,5,ferramentas,2023
+2023-01-15,Databricks,5,ferramentas,2023
+2023-01-22,Databricks,5,ferramentas,2023
+2023-01-29,Databricks,6,ferramentas,2023
+2023-02-05,Databricks,5,ferramentas,2023
+2023-02-12,Databricks,5,ferramentas,2023
+2023-02-19,Databricks,4,ferramentas,2023
+2023-02-26,Databricks,5,ferramentas,2023
+2023-03-05,Databricks,5,ferramentas,2023
+2023-03-12,Databricks,5,ferramentas,2023
+2023-03-19,Databricks,6,ferramentas,2023
+2023-03-26,Databricks,5,ferramentas,2023
+2023-04-02,Databricks,4,ferramentas,2023
+2023-04-09,Databricks,5,ferramentas,2023
+2023-04-16,Databricks,5,ferramentas,2023
+2023-04-23,Databricks,5,ferramentas,2023
+2023-04-30,Databricks,4,ferramentas,2023
+2023-05-07,Databricks,5,ferramentas,2023
+2023-05-14,Databricks,4,ferramentas,2023
+2023-05-21,Databricks,5,ferramentas,2023
+2023-05-28,Databricks,5,ferramentas,2023
+2023-06-04,Databricks,4,ferramentas,2023
+2023-06-11,Databricks,5,ferramentas,2023
+2023-06-18,Databricks,5,ferramentas,2023
+2023-06-25,Databricks,6,ferramentas,2023
+2023-07-02,Databricks,5,ferramentas,2023
+2023-07-09,Databricks,5,ferramentas,2023
+2023-07-16,Databricks,5,ferramentas,2023
+2023-07-23,Databricks,6,ferramentas,2023
+2023-07-30,Databricks,6,ferramentas,2023
+2023-08-06,Databricks,5,ferramentas,2023
+2023-08-13,Databricks,5,ferramentas,2023
+2023-08-20,Databricks,5,ferramentas,2023
+2023-08-27,Databricks,6,ferramentas,2023
+2023-09-03,Databricks,5,ferramentas,2023
+2023-09-10,Databricks,6,ferramentas,2023
+2023-09-17,Databricks,5,ferramentas,2023
+2023-09-24,Databricks,6,ferramentas,2023
+2023-10-01,Databricks,5,ferramentas,2023
+2023-10-08,Databricks,5,ferramentas,2023
+2023-10-15,Databricks,6,ferramentas,2023
+2023-10-22,Databricks,5,ferramentas,2023
+2023-10-29,Databricks,4,ferramentas,2023
+2023-11-05,Databricks,5,ferramentas,2023
+2023-11-12,Databricks,5,ferramentas,2023
+2023-11-19,Databricks,6,ferramentas,2023
+2023-11-26,Databricks,5,ferramentas,2023
+2023-12-03,Databricks,5,ferramentas,2023
+2023-12-10,Databricks,5,ferramentas,2023
+2023-12-17,Databricks,5,ferramentas,2023
+2023-12-24,Databricks,3,ferramentas,2023
+2023-12-31,Databricks,4,ferramentas,2023
+2024-01-07,Databricks,6,ferramentas,2024
+2024-01-14,Databricks,6,ferramentas,2024
+2024-01-21,Databricks,6,ferramentas,2024
+2024-01-28,Databricks,8,ferramentas,2024
+2024-02-04,Databricks,7,ferramentas,2024
+2024-02-11,Databricks,4,ferramentas,2024
+2024-02-18,Databricks,7,ferramentas,2024
+2024-02-25,Databricks,6,ferramentas,2024
+2024-03-03,Databricks,7,ferramentas,2024
+2024-03-10,Databricks,7,ferramentas,2024
+2024-03-17,Databricks,7,ferramentas,2024
+2024-03-24,Databricks,6,ferramentas,2024
+2024-03-31,Databricks,8,ferramentas,2024
+2024-04-07,Databricks,6,ferramentas,2024
+2024-04-14,Databricks,8,ferramentas,2024
+2024-04-21,Databricks,7,ferramentas,2024
+2024-04-28,Databricks,5,ferramentas,2024
+2024-05-05,Databricks,7,ferramentas,2024
+2024-05-12,Databricks,7,ferramentas,2024
+2024-05-19,Databricks,8,ferramentas,2024
+2024-05-26,Databricks,5,ferramentas,2024
+2024-06-02,Databricks,8,ferramentas,2024
+2024-06-09,Databricks,9,ferramentas,2024
+2024-06-16,Databricks,8,ferramentas,2024
+2024-06-23,Databricks,7,ferramentas,2024
+2024-06-30,Databricks,7,ferramentas,2024
+2024-07-07,Databricks,7,ferramentas,2024
+2024-07-14,Databricks,7,ferramentas,2024
+2024-07-21,Databricks,8,ferramentas,2024
+2024-07-28,Databricks,7,ferramentas,2024
+2024-08-04,Databricks,8,ferramentas,2024
+2024-08-11,Databricks,8,ferramentas,2024
+2024-08-18,Databricks,7,ferramentas,2024
+2024-08-25,Databricks,7,ferramentas,2024
+2024-09-01,Databricks,8,ferramentas,2024
+2024-09-08,Databricks,7,ferramentas,2024
+2024-09-15,Databricks,8,ferramentas,2024
+2024-09-22,Databricks,7,ferramentas,2024
+2024-09-29,Databricks,7,ferramentas,2024
+2024-10-06,Databricks,7,ferramentas,2024
+2024-10-13,Databricks,7,ferramentas,2024
+2024-10-20,Databricks,8,ferramentas,2024
+2024-10-27,Databricks,7,ferramentas,2024
+2024-11-03,Databricks,7,ferramentas,2024
+2024-11-10,Databricks,6,ferramentas,2024
+2024-11-17,Databricks,7,ferramentas,2024
+2024-11-24,Databricks,6,ferramentas,2024
+2024-12-01,Databricks,7,ferramentas,2024
+2024-12-08,Databricks,7,ferramentas,2024
+2024-12-15,Databricks,8,ferramentas,2024
+2024-12-22,Databricks,4,ferramentas,2024
+2024-12-29,Databricks,4,ferramentas,2024
+2020-12-27,cientista de dados,1,carreiras,2020
+2021-01-03,cientista de dados,1,carreiras,2021
+2021-01-10,cientista de dados,1,carreiras,2021
+2021-01-17,cientista de dados,1,carreiras,2021
+2021-01-24,cientista de dados,1,carreiras,2021
+2021-01-31,cientista de dados,1,carreiras,2021
+2021-02-07,cientista de dados,1,carreiras,2021
+2021-02-14,cientista de dados,1,carreiras,2021
+2021-02-21,cientista de dados,1,carreiras,2021
+2021-02-28,cientista de dados,1,carreiras,2021
+2021-03-07,cientista de dados,1,carreiras,2021
+2021-03-14,cientista de dados,1,carreiras,2021
+2021-03-21,cientista de dados,1,carreiras,2021
+2021-03-28,cientista de dados,1,carreiras,2021
+2021-04-04,cientista de dados,1,carreiras,2021
+2021-04-11,cientista de dados,1,carreiras,2021
+2021-04-18,cientista de dados,2,carreiras,2021
+2021-04-25,cientista de dados,2,carreiras,2021
+2021-05-02,cientista de dados,2,carreiras,2021
+2021-05-09,cientista de dados,2,carreiras,2021
+2021-05-16,cientista de dados,2,carreiras,2021
+2021-05-23,cientista de dados,1,carreiras,2021
+2021-05-30,cientista de dados,1,carreiras,2021
+2021-06-06,cientista de dados,2,carreiras,2021
+2021-06-13,cientista de dados,3,carreiras,2021
+2021-06-20,cientista de dados,1,carreiras,2021
+2021-06-27,cientista de dados,1,carreiras,2021
+2021-07-04,cientista de dados,1,carreiras,2021
+2021-07-11,cientista de dados,1,carreiras,2021
+2021-07-18,cientista de dados,1,carreiras,2021
+2021-07-25,cientista de dados,1,carreiras,2021
+2021-08-01,cientista de dados,1,carreiras,2021
+2021-08-08,cientista de dados,1,carreiras,2021
+2021-08-15,cientista de dados,1,carreiras,2021
+2021-08-22,cientista de dados,1,carreiras,2021
+2021-08-29,cientista de dados,1,carreiras,2021
+2021-09-05,cientista de dados,2,carreiras,2021
+2021-09-12,cientista de dados,2,carreiras,2021
+2021-09-19,cientista de dados,1,carreiras,2021
+2021-09-26,cientista de dados,1,carreiras,2021
+2021-10-03,cientista de dados,1,carreiras,2021
+2021-10-10,cientista de dados,1,carreiras,2021
+2021-10-17,cientista de dados,1,carreiras,2021
+2021-10-24,cientista de dados,1,carreiras,2021
+2021-10-31,cientista de dados,1,carreiras,2021
+2021-11-07,cientista de dados,1,carreiras,2021
+2021-11-14,cientista de dados,1,carreiras,2021
+2021-11-21,cientista de dados,1,carreiras,2021
+2021-11-28,cientista de dados,1,carreiras,2021
+2021-12-05,cientista de dados,1,carreiras,2021
+2021-12-12,cientista de dados,1,carreiras,2021
+2021-12-19,cientista de dados,1,carreiras,2021
+2021-12-26,cientista de dados,1,carreiras,2021
+2022-01-02,cientista de dados,2,carreiras,2022
+2022-01-09,cientista de dados,2,carreiras,2022
+2022-01-16,cientista de dados,1,carreiras,2022
+2022-01-23,cientista de dados,2,carreiras,2022
+2022-01-30,cientista de dados,2,carreiras,2022
+2022-02-06,cientista de dados,2,carreiras,2022
+2022-02-13,cientista de dados,2,carreiras,2022
+2022-02-20,cientista de dados,2,carreiras,2022
+2022-02-27,cientista de dados,2,carreiras,2022
+2022-03-06,cientista de dados,2,carreiras,2022
+2022-03-13,cientista de dados,2,carreiras,2022
+2022-03-20,cientista de dados,2,carreiras,2022
+2022-03-27,cientista de dados,2,carreiras,2022
+2022-04-03,cientista de dados,2,carreiras,2022
+2022-04-10,cientista de dados,2,carreiras,2022
+2022-04-17,cientista de dados,2,carreiras,2022
+2022-04-24,cientista de dados,2,carreiras,2022
+2022-05-01,cientista de dados,2,carreiras,2022
+2022-05-08,cientista de dados,2,carreiras,2022
+2022-05-15,cientista de dados,2,carreiras,2022
+2022-05-22,cientista de dados,2,carreiras,2022
+2022-05-29,cientista de dados,2,carreiras,2022
+2022-06-05,cientista de dados,2,carreiras,2022
+2022-06-12,cientista de dados,2,carreiras,2022
+2022-06-19,cientista de dados,2,carreiras,2022
+2022-06-26,cientista de dados,2,carreiras,2022
+2022-07-03,cientista de dados,1,carreiras,2022
+2022-07-10,cientista de dados,1,carreiras,2022
+2022-07-17,cientista de dados,2,carreiras,2022
+2022-07-24,cientista de dados,2,carreiras,2022
+2022-07-31,cientista de dados,2,carreiras,2022
+2022-08-07,cientista de dados,2,carreiras,2022
+2022-08-14,cientista de dados,2,carreiras,2022
+2022-08-21,cientista de dados,2,carreiras,2022
+2022-08-28,cientista de dados,2,carreiras,2022
+2022-09-04,cientista de dados,2,carreiras,2022
+2022-09-11,cientista de dados,2,carreiras,2022
+2022-09-18,cientista de dados,2,carreiras,2022
+2022-09-25,cientista de dados,2,carreiras,2022
+2022-10-02,cientista de dados,1,carreiras,2022
+2022-10-09,cientista de dados,1,carreiras,2022
+2022-10-16,cientista de dados,2,carreiras,2022
+2022-10-23,cientista de dados,2,carreiras,2022
+2022-10-30,cientista de dados,1,carreiras,2022
+2022-11-06,cientista de dados,2,carreiras,2022
+2022-11-13,cientista de dados,2,carreiras,2022
+2022-11-20,cientista de dados,1,carreiras,2022
+2022-11-27,cientista de dados,1,carreiras,2022
+2022-12-04,cientista de dados,1,carreiras,2022
+2022-12-11,cientista de dados,2,carreiras,2022
+2022-12-18,cientista de dados,2,carreiras,2022
+2022-12-25,cientista de dados,1,carreiras,2022
+2023-01-01,cientista de dados,2,carreiras,2023
+2023-01-08,cientista de dados,2,carreiras,2023
+2023-01-15,cientista de dados,1,carreiras,2023
+2023-01-22,cientista de dados,2,carreiras,2023
+2023-01-29,cientista de dados,2,carreiras,2023
+2023-02-05,cientista de dados,2,carreiras,2023
+2023-02-12,cientista de dados,2,carreiras,2023
+2023-02-19,cientista de dados,1,carreiras,2023
+2023-02-26,cientista de dados,2,carreiras,2023
+2023-03-05,cientista de dados,2,carreiras,2023
+2023-03-12,cientista de dados,2,carreiras,2023
+2023-03-19,cientista de dados,2,carreiras,2023
+2023-03-26,cientista de dados,2,carreiras,2023
+2023-04-02,cientista de dados,2,carreiras,2023
+2023-04-09,cientista de dados,2,carreiras,2023
+2023-04-16,cientista de dados,2,carreiras,2023
+2023-04-23,cientista de dados,2,carreiras,2023
+2023-04-30,cientista de dados,1,carreiras,2023
+2023-05-07,cientista de dados,2,carreiras,2023
+2023-05-14,cientista de dados,2,carreiras,2023
+2023-05-21,cientista de dados,2,carreiras,2023
+2023-05-28,cientista de dados,2,carreiras,2023
+2023-06-04,cientista de dados,2,carreiras,2023
+2023-06-11,cientista de dados,2,carreiras,2023
+2023-06-18,cientista de dados,2,carreiras,2023
+2023-06-25,cientista de dados,2,carreiras,2023
+2023-07-02,cientista de dados,1,carreiras,2023
+2023-07-09,cientista de dados,2,carreiras,2023
+2023-07-16,cientista de dados,1,carreiras,2023
+2023-07-23,cientista de dados,2,carreiras,2023
+2023-07-30,cientista de dados,2,carreiras,2023
+2023-08-06,cientista de dados,2,carreiras,2023
+2023-08-13,cientista de dados,2,carreiras,2023
+2023-08-20,cientista de dados,2,carreiras,2023
+2023-08-27,cientista de dados,2,carreiras,2023
+2023-09-03,cientista de dados,2,carreiras,2023
+2023-09-10,cientista de dados,2,carreiras,2023
+2023-09-17,cientista de dados,2,carreiras,2023
+2023-09-24,cientista de dados,2,carreiras,2023
+2023-10-01,cientista de dados,2,carreiras,2023
+2023-10-08,cientista de dados,1,carreiras,2023
+2023-10-15,cientista de dados,2,carreiras,2023
+2023-10-22,cientista de dados,2,carreiras,2023
+2023-10-29,cientista de dados,2,carreiras,2023
+2023-11-05,cientista de dados,2,carreiras,2023
+2023-11-12,cientista de dados,2,carreiras,2023
+2023-11-19,cientista de dados,2,carreiras,2023
+2023-11-26,cientista de dados,2,carreiras,2023
+2023-12-03,cientista de dados,1,carreiras,2023
+2023-12-10,cientista de dados,2,carreiras,2023
+2023-12-17,cientista de dados,1,carreiras,2023
+2023-12-24,cientista de dados,2,carreiras,2023
+2023-12-31,cientista de dados,2,carreiras,2023
+2024-01-07,cientista de dados,2,carreiras,2024
+2024-01-14,cientista de dados,2,carreiras,2024
+2024-01-21,cientista de dados,2,carreiras,2024
+2024-01-28,cientista de dados,2,carreiras,2024
+2024-02-04,cientista de dados,2,carreiras,2024
+2024-02-11,cientista de dados,2,carreiras,2024
+2024-02-18,cientista de dados,2,carreiras,2024
+2024-02-25,cientista de dados,2,carreiras,2024
+2024-03-03,cientista de dados,2,carreiras,2024
+2024-03-10,cientista de dados,2,carreiras,2024
+2024-03-17,cientista de dados,2,carreiras,2024
+2024-03-24,cientista de dados,2,carreiras,2024
+2024-03-31,cientista de dados,2,carreiras,2024
+2024-04-07,cientista de dados,3,carreiras,2024
+2024-04-14,cientista de dados,1,carreiras,2024
+2024-04-21,cientista de dados,2,carreiras,2024
+2024-04-28,cientista de dados,2,carreiras,2024
+2024-05-05,cientista de dados,2,carreiras,2024
+2024-05-12,cientista de dados,1,carreiras,2024
+2024-05-19,cientista de dados,2,carreiras,2024
+2024-05-26,cientista de dados,1,carreiras,2024
+2024-06-02,cientista de dados,2,carreiras,2024
+2024-06-09,cientista de dados,2,carreiras,2024
+2024-06-16,cientista de dados,2,carreiras,2024
+2024-06-23,cientista de dados,2,carreiras,2024
+2024-06-30,cientista de dados,1,carreiras,2024
+2024-07-07,cientista de dados,2,carreiras,2024
+2024-07-14,cientista de dados,2,carreiras,2024
+2024-07-21,cientista de dados,2,carreiras,2024
+2024-07-28,cientista de dados,2,carreiras,2024
+2024-08-04,cientista de dados,1,carreiras,2024
+2024-08-11,cientista de dados,1,carreiras,2024
+2024-08-18,cientista de dados,2,carreiras,2024
+2024-08-25,cientista de dados,2,carreiras,2024
+2024-09-01,cientista de dados,2,carreiras,2024
+2024-09-08,cientista de dados,2,carreiras,2024
+2024-09-15,cientista de dados,2,carreiras,2024
+2024-09-22,cientista de dados,2,carreiras,2024
+2024-09-29,cientista de dados,2,carreiras,2024
+2024-10-06,cientista de dados,2,carreiras,2024
+2024-10-13,cientista de dados,2,carreiras,2024
+2024-10-20,cientista de dados,2,carreiras,2024
+2024-10-27,cientista de dados,2,carreiras,2024
+2024-11-03,cientista de dados,2,carreiras,2024
+2024-11-10,cientista de dados,2,carreiras,2024
+2024-11-17,cientista de dados,2,carreiras,2024
+2024-11-24,cientista de dados,2,carreiras,2024
+2024-12-01,cientista de dados,1,carreiras,2024
+2024-12-08,cientista de dados,1,carreiras,2024
+2024-12-15,cientista de dados,1,carreiras,2024
+2024-12-22,cientista de dados,1,carreiras,2024
+2024-12-29,cientista de dados,1,carreiras,2024
+2020-12-27,engenheiro de dados,0,carreiras,2020
+2021-01-03,engenheiro de dados,0,carreiras,2021
+2021-01-10,engenheiro de dados,0,carreiras,2021
+2021-01-17,engenheiro de dados,0,carreiras,2021
+2021-01-24,engenheiro de dados,0,carreiras,2021
+2021-01-31,engenheiro de dados,0,carreiras,2021
+2021-02-07,engenheiro de dados,0,carreiras,2021
+2021-02-14,engenheiro de dados,0,carreiras,2021
+2021-02-21,engenheiro de dados,0,carreiras,2021
+2021-02-28,engenheiro de dados,0,carreiras,2021
+2021-03-07,engenheiro de dados,0,carreiras,2021
+2021-03-14,engenheiro de dados,0,carreiras,2021
+2021-03-21,engenheiro de dados,0,carreiras,2021
+2021-03-28,engenheiro de dados,0,carreiras,2021
+2021-04-04,engenheiro de dados,1,carreiras,2021
+2021-04-11,engenheiro de dados,1,carreiras,2021
+2021-04-18,engenheiro de dados,1,carreiras,2021
+2021-04-25,engenheiro de dados,0,carreiras,2021
+2021-05-02,engenheiro de dados,0,carreiras,2021
+2021-05-09,engenheiro de dados,1,carreiras,2021
+2021-05-16,engenheiro de dados,0,carreiras,2021
+2021-05-23,engenheiro de dados,1,carreiras,2021
+2021-05-30,engenheiro de dados,0,carreiras,2021
+2021-06-06,engenheiro de dados,1,carreiras,2021
+2021-06-13,engenheiro de dados,0,carreiras,2021
+2021-06-20,engenheiro de dados,1,carreiras,2021
+2021-06-27,engenheiro de dados,1,carreiras,2021
+2021-07-04,engenheiro de dados,1,carreiras,2021
+2021-07-11,engenheiro de dados,0,carreiras,2021
+2021-07-18,engenheiro de dados,0,carreiras,2021
+2021-07-25,engenheiro de dados,0,carreiras,2021
+2021-08-01,engenheiro de dados,0,carreiras,2021
+2021-08-08,engenheiro de dados,0,carreiras,2021
+2021-08-15,engenheiro de dados,1,carreiras,2021
+2021-08-22,engenheiro de dados,0,carreiras,2021
+2021-08-29,engenheiro de dados,1,carreiras,2021
+2021-09-05,engenheiro de dados,0,carreiras,2021
+2021-09-12,engenheiro de dados,1,carreiras,2021
+2021-09-19,engenheiro de dados,1,carreiras,2021
+2021-09-26,engenheiro de dados,1,carreiras,2021
+2021-10-03,engenheiro de dados,1,carreiras,2021
+2021-10-10,engenheiro de dados,0,carreiras,2021
+2021-10-17,engenheiro de dados,1,carreiras,2021
+2021-10-24,engenheiro de dados,0,carreiras,2021
+2021-10-31,engenheiro de dados,0,carreiras,2021
+2021-11-07,engenheiro de dados,1,carreiras,2021
+2021-11-14,engenheiro de dados,1,carreiras,2021
+2021-11-21,engenheiro de dados,1,carreiras,2021
+2021-11-28,engenheiro de dados,0,carreiras,2021
+2021-12-05,engenheiro de dados,0,carreiras,2021
+2021-12-12,engenheiro de dados,0,carreiras,2021
+2021-12-19,engenheiro de dados,0,carreiras,2021
+2021-12-26,engenheiro de dados,0,carreiras,2021
+2022-01-02,engenheiro de dados,1,carreiras,2022
+2022-01-09,engenheiro de dados,1,carreiras,2022
+2022-01-16,engenheiro de dados,1,carreiras,2022
+2022-01-23,engenheiro de dados,1,carreiras,2022
+2022-01-30,engenheiro de dados,1,carreiras,2022
+2022-02-06,engenheiro de dados,1,carreiras,2022
+2022-02-13,engenheiro de dados,1,carreiras,2022
+2022-02-20,engenheiro de dados,1,carreiras,2022
+2022-02-27,engenheiro de dados,1,carreiras,2022
+2022-03-06,engenheiro de dados,1,carreiras,2022
+2022-03-13,engenheiro de dados,1,carreiras,2022
+2022-03-20,engenheiro de dados,1,carreiras,2022
+2022-03-27,engenheiro de dados,1,carreiras,2022
+2022-04-03,engenheiro de dados,1,carreiras,2022
+2022-04-10,engenheiro de dados,1,carreiras,2022
+2022-04-17,engenheiro de dados,1,carreiras,2022
+2022-04-24,engenheiro de dados,1,carreiras,2022
+2022-05-01,engenheiro de dados,1,carreiras,2022
+2022-05-08,engenheiro de dados,1,carreiras,2022
+2022-05-15,engenheiro de dados,1,carreiras,2022
+2022-05-22,engenheiro de dados,1,carreiras,2022
+2022-05-29,engenheiro de dados,1,carreiras,2022
+2022-06-05,engenheiro de dados,1,carreiras,2022
+2022-06-12,engenheiro de dados,1,carreiras,2022
+2022-06-19,engenheiro de dados,1,carreiras,2022
+2022-06-26,engenheiro de dados,1,carreiras,2022
+2022-07-03,engenheiro de dados,1,carreiras,2022
+2022-07-10,engenheiro de dados,1,carreiras,2022
+2022-07-17,engenheiro de dados,1,carreiras,2022
+2022-07-24,engenheiro de dados,1,carreiras,2022
+2022-07-31,engenheiro de dados,1,carreiras,2022
+2022-08-07,engenheiro de dados,1,carreiras,2022
+2022-08-14,engenheiro de dados,1,carreiras,2022
+2022-08-21,engenheiro de dados,1,carreiras,2022
+2022-08-28,engenheiro de dados,1,carreiras,2022
+2022-09-04,engenheiro de dados,1,carreiras,2022
+2022-09-11,engenheiro de dados,1,carreiras,2022
+2022-09-18,engenheiro de dados,1,carreiras,2022
+2022-09-25,engenheiro de dados,1,carreiras,2022
+2022-10-02,engenheiro de dados,1,carreiras,2022
+2022-10-09,engenheiro de dados,1,carreiras,2022
+2022-10-16,engenheiro de dados,1,carreiras,2022
+2022-10-23,engenheiro de dados,1,carreiras,2022
+2022-10-30,engenheiro de dados,1,carreiras,2022
+2022-11-06,engenheiro de dados,1,carreiras,2022
+2022-11-13,engenheiro de dados,1,carreiras,2022
+2022-11-20,engenheiro de dados,1,carreiras,2022
+2022-11-27,engenheiro de dados,1,carreiras,2022
+2022-12-04,engenheiro de dados,1,carreiras,2022
+2022-12-11,engenheiro de dados,1,carreiras,2022
+2022-12-18,engenheiro de dados,1,carreiras,2022
+2022-12-25,engenheiro de dados,0,carreiras,2022
+2023-01-01,engenheiro de dados,1,carreiras,2023
+2023-01-08,engenheiro de dados,1,carreiras,2023
+2023-01-15,engenheiro de dados,1,carreiras,2023
+2023-01-22,engenheiro de dados,1,carreiras,2023
+2023-01-29,engenheiro de dados,1,carreiras,2023
+2023-02-05,engenheiro de dados,1,carreiras,2023
+2023-02-12,engenheiro de dados,1,carreiras,2023
+2023-02-19,engenheiro de dados,1,carreiras,2023
+2023-02-26,engenheiro de dados,1,carreiras,2023
+2023-03-05,engenheiro de dados,1,carreiras,2023
+2023-03-12,engenheiro de dados,1,carreiras,2023
+2023-03-19,engenheiro de dados,1,carreiras,2023
+2023-03-26,engenheiro de dados,1,carreiras,2023
+2023-04-02,engenheiro de dados,1,carreiras,2023
+2023-04-09,engenheiro de dados,1,carreiras,2023
+2023-04-16,engenheiro de dados,1,carreiras,2023
+2023-04-23,engenheiro de dados,1,carreiras,2023
+2023-04-30,engenheiro de dados,1,carreiras,2023
+2023-05-07,engenheiro de dados,1,carreiras,2023
+2023-05-14,engenheiro de dados,1,carreiras,2023
+2023-05-21,engenheiro de dados,1,carreiras,2023
+2023-05-28,engenheiro de dados,1,carreiras,2023
+2023-06-04,engenheiro de dados,1,carreiras,2023
+2023-06-11,engenheiro de dados,1,carreiras,2023
+2023-06-18,engenheiro de dados,1,carreiras,2023
+2023-06-25,engenheiro de dados,1,carreiras,2023
+2023-07-02,engenheiro de dados,1,carreiras,2023
+2023-07-09,engenheiro de dados,0,carreiras,2023
+2023-07-16,engenheiro de dados,1,carreiras,2023
+2023-07-23,engenheiro de dados,1,carreiras,2023
+2023-07-30,engenheiro de dados,1,carreiras,2023
+2023-08-06,engenheiro de dados,1,carreiras,2023
+2023-08-13,engenheiro de dados,1,carreiras,2023
+2023-08-20,engenheiro de dados,1,carreiras,2023
+2023-08-27,engenheiro de dados,1,carreiras,2023
+2023-09-03,engenheiro de dados,1,carreiras,2023
+2023-09-10,engenheiro de dados,1,carreiras,2023
+2023-09-17,engenheiro de dados,1,carreiras,2023
+2023-09-24,engenheiro de dados,1,carreiras,2023
+2023-10-01,engenheiro de dados,1,carreiras,2023
+2023-10-08,engenheiro de dados,1,carreiras,2023
+2023-10-15,engenheiro de dados,1,carreiras,2023
+2023-10-22,engenheiro de dados,1,carreiras,2023
+2023-10-29,engenheiro de dados,1,carreiras,2023
+2023-11-05,engenheiro de dados,1,carreiras,2023
+2023-11-12,engenheiro de dados,1,carreiras,2023
+2023-11-19,engenheiro de dados,1,carreiras,2023
+2023-11-26,engenheiro de dados,1,carreiras,2023
+2023-12-03,engenheiro de dados,1,carreiras,2023
+2023-12-10,engenheiro de dados,1,carreiras,2023
+2023-12-17,engenheiro de dados,1,carreiras,2023
+2023-12-24,engenheiro de dados,1,carreiras,2023
+2023-12-31,engenheiro de dados,1,carreiras,2023
+2024-01-07,engenheiro de dados,1,carreiras,2024
+2024-01-14,engenheiro de dados,1,carreiras,2024
+2024-01-21,engenheiro de dados,1,carreiras,2024
+2024-01-28,engenheiro de dados,1,carreiras,2024
+2024-02-04,engenheiro de dados,1,carreiras,2024
+2024-02-11,engenheiro de dados,1,carreiras,2024
+2024-02-18,engenheiro de dados,1,carreiras,2024
+2024-02-25,engenheiro de dados,1,carreiras,2024
+2024-03-03,engenheiro de dados,1,carreiras,2024
+2024-03-10,engenheiro de dados,1,carreiras,2024
+2024-03-17,engenheiro de dados,1,carreiras,2024
+2024-03-24,engenheiro de dados,1,carreiras,2024
+2024-03-31,engenheiro de dados,1,carreiras,2024
+2024-04-07,engenheiro de dados,2,carreiras,2024
+2024-04-14,engenheiro de dados,1,carreiras,2024
+2024-04-21,engenheiro de dados,1,carreiras,2024
+2024-04-28,engenheiro de dados,1,carreiras,2024
+2024-05-05,engenheiro de dados,1,carreiras,2024
+2024-05-12,engenheiro de dados,1,carreiras,2024
+2024-05-19,engenheiro de dados,1,carreiras,2024
+2024-05-26,engenheiro de dados,1,carreiras,2024
+2024-06-02,engenheiro de dados,1,carreiras,2024
+2024-06-09,engenheiro de dados,1,carreiras,2024
+2024-06-16,engenheiro de dados,1,carreiras,2024
+2024-06-23,engenheiro de dados,1,carreiras,2024
+2024-06-30,engenheiro de dados,1,carreiras,2024
+2024-07-07,engenheiro de dados,1,carreiras,2024
+2024-07-14,engenheiro de dados,1,carreiras,2024
+2024-07-21,engenheiro de dados,1,carreiras,2024
+2024-07-28,engenheiro de dados,1,carreiras,2024
+2024-08-04,engenheiro de dados,1,carreiras,2024
+2024-08-11,engenheiro de dados,1,carreiras,2024
+2024-08-18,engenheiro de dados,1,carreiras,2024
+2024-08-25,engenheiro de dados,1,carreiras,2024
+2024-09-01,engenheiro de dados,1,carreiras,2024
+2024-09-08,engenheiro de dados,1,carreiras,2024
+2024-09-15,engenheiro de dados,1,carreiras,2024
+2024-09-22,engenheiro de dados,1,carreiras,2024
+2024-09-29,engenheiro de dados,1,carreiras,2024
+2024-10-06,engenheiro de dados,1,carreiras,2024
+2024-10-13,engenheiro de dados,1,carreiras,2024
+2024-10-20,engenheiro de dados,1,carreiras,2024
+2024-10-27,engenheiro de dados,1,carreiras,2024
+2024-11-03,engenheiro de dados,1,carreiras,2024
+2024-11-10,engenheiro de dados,1,carreiras,2024
+2024-11-17,engenheiro de dados,1,carreiras,2024
+2024-11-24,engenheiro de dados,1,carreiras,2024
+2024-12-01,engenheiro de dados,1,carreiras,2024
+2024-12-08,engenheiro de dados,1,carreiras,2024
+2024-12-15,engenheiro de dados,1,carreiras,2024
+2024-12-22,engenheiro de dados,1,carreiras,2024
+2024-12-29,engenheiro de dados,1,carreiras,2024
+2020-12-27,analista de dados,0,carreiras,2020
+2021-01-03,analista de dados,1,carreiras,2021
+2021-01-10,analista de dados,1,carreiras,2021
+2021-01-17,analista de dados,1,carreiras,2021
+2021-01-24,analista de dados,1,carreiras,2021
+2021-01-31,analista de dados,1,carreiras,2021
+2021-02-07,analista de dados,1,carreiras,2021
+2021-02-14,analista de dados,1,carreiras,2021
+2021-02-21,analista de dados,1,carreiras,2021
+2021-02-28,analista de dados,1,carreiras,2021
+2021-03-07,analista de dados,1,carreiras,2021
+2021-03-14,analista de dados,1,carreiras,2021
+2021-03-21,analista de dados,1,carreiras,2021
+2021-03-28,analista de dados,1,carreiras,2021
+2021-04-04,analista de dados,1,carreiras,2021
+2021-04-11,analista de dados,1,carreiras,2021
+2021-04-18,analista de dados,1,carreiras,2021
+2021-04-25,analista de dados,1,carreiras,2021
+2021-05-02,analista de dados,1,carreiras,2021
+2021-05-09,analista de dados,1,carreiras,2021
+2021-05-16,analista de dados,1,carreiras,2021
+2021-05-23,analista de dados,1,carreiras,2021
+2021-05-30,analista de dados,1,carreiras,2021
+2021-06-06,analista de dados,1,carreiras,2021
+2021-06-13,analista de dados,1,carreiras,2021
+2021-06-20,analista de dados,1,carreiras,2021
+2021-06-27,analista de dados,1,carreiras,2021
+2021-07-04,analista de dados,1,carreiras,2021
+2021-07-11,analista de dados,1,carreiras,2021
+2021-07-18,analista de dados,1,carreiras,2021
+2021-07-25,analista de dados,1,carreiras,2021
+2021-08-01,analista de dados,1,carreiras,2021
+2021-08-08,analista de dados,1,carreiras,2021
+2021-08-15,analista de dados,1,carreiras,2021
+2021-08-22,analista de dados,1,carreiras,2021
+2021-08-29,analista de dados,1,carreiras,2021
+2021-09-05,analista de dados,1,carreiras,2021
+2021-09-12,analista de dados,1,carreiras,2021
+2021-09-19,analista de dados,1,carreiras,2021
+2021-09-26,analista de dados,1,carreiras,2021
+2021-10-03,analista de dados,1,carreiras,2021
+2021-10-10,analista de dados,1,carreiras,2021
+2021-10-17,analista de dados,1,carreiras,2021
+2021-10-24,analista de dados,1,carreiras,2021
+2021-10-31,analista de dados,1,carreiras,2021
+2021-11-07,analista de dados,1,carreiras,2021
+2021-11-14,analista de dados,1,carreiras,2021
+2021-11-21,analista de dados,1,carreiras,2021
+2021-11-28,analista de dados,1,carreiras,2021
+2021-12-05,analista de dados,1,carreiras,2021
+2021-12-12,analista de dados,1,carreiras,2021
+2021-12-19,analista de dados,1,carreiras,2021
+2021-12-26,analista de dados,1,carreiras,2021
+2022-01-02,analista de dados,2,carreiras,2022
+2022-01-09,analista de dados,2,carreiras,2022
+2022-01-16,analista de dados,2,carreiras,2022
+2022-01-23,analista de dados,2,carreiras,2022
+2022-01-30,analista de dados,2,carreiras,2022
+2022-02-06,analista de dados,2,carreiras,2022
+2022-02-13,analista de dados,2,carreiras,2022
+2022-02-20,analista de dados,2,carreiras,2022
+2022-02-27,analista de dados,2,carreiras,2022
+2022-03-06,analista de dados,2,carreiras,2022
+2022-03-13,analista de dados,2,carreiras,2022
+2022-03-20,analista de dados,2,carreiras,2022
+2022-03-27,analista de dados,2,carreiras,2022
+2022-04-03,analista de dados,2,carreiras,2022
+2022-04-10,analista de dados,2,carreiras,2022
+2022-04-17,analista de dados,2,carreiras,2022
+2022-04-24,analista de dados,2,carreiras,2022
+2022-05-01,analista de dados,2,carreiras,2022
+2022-05-08,analista de dados,2,carreiras,2022
+2022-05-15,analista de dados,2,carreiras,2022
+2022-05-22,analista de dados,2,carreiras,2022
+2022-05-29,analista de dados,2,carreiras,2022
+2022-06-05,analista de dados,2,carreiras,2022
+2022-06-12,analista de dados,2,carreiras,2022
+2022-06-19,analista de dados,2,carreiras,2022
+2022-06-26,analista de dados,3,carreiras,2022
+2022-07-03,analista de dados,2,carreiras,2022
+2022-07-10,analista de dados,2,carreiras,2022
+2022-07-17,analista de dados,2,carreiras,2022
+2022-07-24,analista de dados,2,carreiras,2022
+2022-07-31,analista de dados,2,carreiras,2022
+2022-08-07,analista de dados,2,carreiras,2022
+2022-08-14,analista de dados,2,carreiras,2022
+2022-08-21,analista de dados,2,carreiras,2022
+2022-08-28,analista de dados,2,carreiras,2022
+2022-09-04,analista de dados,2,carreiras,2022
+2022-09-11,analista de dados,2,carreiras,2022
+2022-09-18,analista de dados,2,carreiras,2022
+2022-09-25,analista de dados,2,carreiras,2022
+2022-10-02,analista de dados,2,carreiras,2022
+2022-10-09,analista de dados,2,carreiras,2022
+2022-10-16,analista de dados,2,carreiras,2022
+2022-10-23,analista de dados,2,carreiras,2022
+2022-10-30,analista de dados,2,carreiras,2022
+2022-11-06,analista de dados,2,carreiras,2022
+2022-11-13,analista de dados,2,carreiras,2022
+2022-11-20,analista de dados,2,carreiras,2022
+2022-11-27,analista de dados,2,carreiras,2022
+2022-12-04,analista de dados,2,carreiras,2022
+2022-12-11,analista de dados,2,carreiras,2022
+2022-12-18,analista de dados,2,carreiras,2022
+2022-12-25,analista de dados,2,carreiras,2022
+2023-01-01,analista de dados,3,carreiras,2023
+2023-01-08,analista de dados,3,carreiras,2023
+2023-01-15,analista de dados,3,carreiras,2023
+2023-01-22,analista de dados,3,carreiras,2023
+2023-01-29,analista de dados,3,carreiras,2023
+2023-02-05,analista de dados,3,carreiras,2023
+2023-02-12,analista de dados,3,carreiras,2023
+2023-02-19,analista de dados,2,carreiras,2023
+2023-02-26,analista de dados,3,carreiras,2023
+2023-03-05,analista de dados,2,carreiras,2023
+2023-03-12,analista de dados,2,carreiras,2023
+2023-03-19,analista de dados,2,carreiras,2023
+2023-03-26,analista de dados,3,carreiras,2023
+2023-04-02,analista de dados,3,carreiras,2023
+2023-04-09,analista de dados,3,carreiras,2023
+2023-04-16,analista de dados,3,carreiras,2023
+2023-04-23,analista de dados,3,carreiras,2023
+2023-04-30,analista de dados,3,carreiras,2023
+2023-05-07,analista de dados,3,carreiras,2023
+2023-05-14,analista de dados,3,carreiras,2023
+2023-05-21,analista de dados,3,carreiras,2023
+2023-05-28,analista de dados,3,carreiras,2023
+2023-06-04,analista de dados,3,carreiras,2023
+2023-06-11,analista de dados,3,carreiras,2023
+2023-06-18,analista de dados,3,carreiras,2023
+2023-06-25,analista de dados,3,carreiras,2023
+2023-07-02,analista de dados,3,carreiras,2023
+2023-07-09,analista de dados,3,carreiras,2023
+2023-07-16,analista de dados,3,carreiras,2023
+2023-07-23,analista de dados,3,carreiras,2023
+2023-07-30,analista de dados,3,carreiras,2023
+2023-08-06,analista de dados,3,carreiras,2023
+2023-08-13,analista de dados,3,carreiras,2023
+2023-08-20,analista de dados,3,carreiras,2023
+2023-08-27,analista de dados,3,carreiras,2023
+2023-09-03,analista de dados,3,carreiras,2023
+2023-09-10,analista de dados,3,carreiras,2023
+2023-09-17,analista de dados,3,carreiras,2023
+2023-09-24,analista de dados,3,carreiras,2023
+2023-10-01,analista de dados,3,carreiras,2023
+2023-10-08,analista de dados,3,carreiras,2023
+2023-10-15,analista de dados,3,carreiras,2023
+2023-10-22,analista de dados,3,carreiras,2023
+2023-10-29,analista de dados,3,carreiras,2023
+2023-11-05,analista de dados,3,carreiras,2023
+2023-11-12,analista de dados,3,carreiras,2023
+2023-11-19,analista de dados,3,carreiras,2023
+2023-11-26,analista de dados,3,carreiras,2023
+2023-12-03,analista de dados,3,carreiras,2023
+2023-12-10,analista de dados,3,carreiras,2023
+2023-12-17,analista de dados,3,carreiras,2023
+2023-12-24,analista de dados,3,carreiras,2023
+2023-12-31,analista de dados,3,carreiras,2023
+2024-01-07,analista de dados,4,carreiras,2024
+2024-01-14,analista de dados,4,carreiras,2024
+2024-01-21,analista de dados,4,carreiras,2024
+2024-01-28,analista de dados,4,carreiras,2024
+2024-02-04,analista de dados,3,carreiras,2024
+2024-02-11,analista de dados,3,carreiras,2024
+2024-02-18,analista de dados,4,carreiras,2024
+2024-02-25,analista de dados,4,carreiras,2024
+2024-03-03,analista de dados,4,carreiras,2024
+2024-03-10,analista de dados,4,carreiras,2024
+2024-03-17,analista de dados,4,carreiras,2024
+2024-03-24,analista de dados,4,carreiras,2024
+2024-03-31,analista de dados,4,carreiras,2024
+2024-04-07,analista de dados,4,carreiras,2024
+2024-04-14,analista de dados,4,carreiras,2024
+2024-04-21,analista de dados,4,carreiras,2024
+2024-04-28,analista de dados,4,carreiras,2024
+2024-05-05,analista de dados,4,carreiras,2024
+2024-05-12,analista de dados,4,carreiras,2024
+2024-05-19,analista de dados,4,carreiras,2024
+2024-05-26,analista de dados,4,carreiras,2024
+2024-06-02,analista de dados,5,carreiras,2024
+2024-06-09,analista de dados,5,carreiras,2024
+2024-06-16,analista de dados,5,carreiras,2024
+2024-06-23,analista de dados,4,carreiras,2024
+2024-06-30,analista de dados,4,carreiras,2024
+2024-07-07,analista de dados,4,carreiras,2024
+2024-07-14,analista de dados,4,carreiras,2024
+2024-07-21,analista de dados,4,carreiras,2024
+2024-07-28,analista de dados,4,carreiras,2024
+2024-08-04,analista de dados,4,carreiras,2024
+2024-08-11,analista de dados,4,carreiras,2024
+2024-08-18,analista de dados,4,carreiras,2024
+2024-08-25,analista de dados,5,carreiras,2024
+2024-09-01,analista de dados,4,carreiras,2024
+2024-09-08,analista de dados,4,carreiras,2024
+2024-09-15,analista de dados,4,carreiras,2024
+2024-09-22,analista de dados,4,carreiras,2024
+2024-09-29,analista de dados,4,carreiras,2024
+2024-10-06,analista de dados,4,carreiras,2024
+2024-10-13,analista de dados,4,carreiras,2024
+2024-10-20,analista de dados,5,carreiras,2024
+2024-10-27,analista de dados,5,carreiras,2024
+2024-11-03,analista de dados,5,carreiras,2024
+2024-11-10,analista de dados,4,carreiras,2024
+2024-11-17,analista de dados,4,carreiras,2024
+2024-11-24,analista de dados,4,carreiras,2024
+2024-12-01,analista de dados,4,carreiras,2024
+2024-12-08,analista de dados,3,carreiras,2024
+2024-12-15,analista de dados,3,carreiras,2024
+2024-12-22,analista de dados,3,carreiras,2024
+2024-12-29,analista de dados,3,carreiras,2024
+2020-12-27,machine learning,2,carreiras,2020
+2021-01-03,machine learning,2,carreiras,2021
+2021-01-10,machine learning,2,carreiras,2021
+2021-01-17,machine learning,2,carreiras,2021
+2021-01-24,machine learning,2,carreiras,2021
+2021-01-31,machine learning,2,carreiras,2021
+2021-02-07,machine learning,2,carreiras,2021
+2021-02-14,machine learning,2,carreiras,2021
+2021-02-21,machine learning,2,carreiras,2021
+2021-02-28,machine learning,3,carreiras,2021
+2021-03-07,machine learning,2,carreiras,2021
+2021-03-14,machine learning,2,carreiras,2021
+2021-03-21,machine learning,3,carreiras,2021
+2021-03-28,machine learning,3,carreiras,2021
+2021-04-04,machine learning,3,carreiras,2021
+2021-04-11,machine learning,2,carreiras,2021
+2021-04-18,machine learning,3,carreiras,2021
+2021-04-25,machine learning,3,carreiras,2021
+2021-05-02,machine learning,3,carreiras,2021
+2021-05-09,machine learning,3,carreiras,2021
+2021-05-16,machine learning,3,carreiras,2021
+2021-05-23,machine learning,3,carreiras,2021
+2021-05-30,machine learning,3,carreiras,2021
+2021-06-06,machine learning,3,carreiras,2021
+2021-06-13,machine learning,3,carreiras,2021
+2021-06-20,machine learning,3,carreiras,2021
+2021-06-27,machine learning,3,carreiras,2021
+2021-07-04,machine learning,2,carreiras,2021
+2021-07-11,machine learning,3,carreiras,2021
+2021-07-18,machine learning,3,carreiras,2021
+2021-07-25,machine learning,2,carreiras,2021
+2021-08-01,machine learning,2,carreiras,2021
+2021-08-08,machine learning,2,carreiras,2021
+2021-08-15,machine learning,3,carreiras,2021
+2021-08-22,machine learning,3,carreiras,2021
+2021-08-29,machine learning,3,carreiras,2021
+2021-09-05,machine learning,3,carreiras,2021
+2021-09-12,machine learning,2,carreiras,2021
+2021-09-19,machine learning,2,carreiras,2021
+2021-09-26,machine learning,3,carreiras,2021
+2021-10-03,machine learning,3,carreiras,2021
+2021-10-10,machine learning,2,carreiras,2021
+2021-10-17,machine learning,2,carreiras,2021
+2021-10-24,machine learning,3,carreiras,2021
+2021-10-31,machine learning,3,carreiras,2021
+2021-11-07,machine learning,2,carreiras,2021
+2021-11-14,machine learning,2,carreiras,2021
+2021-11-21,machine learning,3,carreiras,2021
+2021-11-28,machine learning,3,carreiras,2021
+2021-12-05,machine learning,3,carreiras,2021
+2021-12-12,machine learning,2,carreiras,2021
+2021-12-19,machine learning,2,carreiras,2021
+2021-12-26,machine learning,2,carreiras,2021
+2022-01-02,machine learning,3,carreiras,2022
+2022-01-09,machine learning,3,carreiras,2022
+2022-01-16,machine learning,4,carreiras,2022
+2022-01-23,machine learning,3,carreiras,2022
+2022-01-30,machine learning,3,carreiras,2022
+2022-02-06,machine learning,4,carreiras,2022
+2022-02-13,machine learning,4,carreiras,2022
+2022-02-20,machine learning,4,carreiras,2022
+2022-02-27,machine learning,4,carreiras,2022
+2022-03-06,machine learning,4,carreiras,2022
+2022-03-13,machine learning,4,carreiras,2022
+2022-03-20,machine learning,4,carreiras,2022
+2022-03-27,machine learning,5,carreiras,2022
+2022-04-03,machine learning,4,carreiras,2022
+2022-04-10,machine learning,4,carreiras,2022
+2022-04-17,machine learning,4,carreiras,2022
+2022-04-24,machine learning,4,carreiras,2022
+2022-05-01,machine learning,4,carreiras,2022
+2022-05-08,machine learning,4,carreiras,2022
+2022-05-15,machine learning,4,carreiras,2022
+2022-05-22,machine learning,4,carreiras,2022
+2022-05-29,machine learning,5,carreiras,2022
+2022-06-05,machine learning,4,carreiras,2022
+2022-06-12,machine learning,4,carreiras,2022
+2022-06-19,machine learning,5,carreiras,2022
+2022-06-26,machine learning,4,carreiras,2022
+2022-07-03,machine learning,4,carreiras,2022
+2022-07-10,machine learning,4,carreiras,2022
+2022-07-17,machine learning,4,carreiras,2022
+2022-07-24,machine learning,4,carreiras,2022
+2022-07-31,machine learning,4,carreiras,2022
+2022-08-07,machine learning,4,carreiras,2022
+2022-08-14,machine learning,4,carreiras,2022
+2022-08-21,machine learning,4,carreiras,2022
+2022-08-28,machine learning,4,carreiras,2022
+2022-09-04,machine learning,4,carreiras,2022
+2022-09-11,machine learning,4,carreiras,2022
+2022-09-18,machine learning,4,carreiras,2022
+2022-09-25,machine learning,4,carreiras,2022
+2022-10-02,machine learning,4,carreiras,2022
+2022-10-09,machine learning,3,carreiras,2022
+2022-10-16,machine learning,4,carreiras,2022
+2022-10-23,machine learning,4,carreiras,2022
+2022-10-30,machine learning,4,carreiras,2022
+2022-11-06,machine learning,4,carreiras,2022
+2022-11-13,machine learning,4,carreiras,2022
+2022-11-20,machine learning,4,carreiras,2022
+2022-11-27,machine learning,4,carreiras,2022
+2022-12-04,machine learning,4,carreiras,2022
+2022-12-11,machine learning,4,carreiras,2022
+2022-12-18,machine learning,3,carreiras,2022
+2022-12-25,machine learning,3,carreiras,2022
+2023-01-01,machine learning,3,carreiras,2023
+2023-01-08,machine learning,3,carreiras,2023
+2023-01-15,machine learning,4,carreiras,2023
+2023-01-22,machine learning,4,carreiras,2023
+2023-01-29,machine learning,4,carreiras,2023
+2023-02-05,machine learning,4,carreiras,2023
+2023-02-12,machine learning,4,carreiras,2023
+2023-02-19,machine learning,4,carreiras,2023
+2023-02-26,machine learning,4,carreiras,2023
+2023-03-05,machine learning,5,carreiras,2023
+2023-03-12,machine learning,4,carreiras,2023
+2023-03-19,machine learning,4,carreiras,2023
+2023-03-26,machine learning,4,carreiras,2023
+2023-04-02,machine learning,4,carreiras,2023
+2023-04-09,machine learning,4,carreiras,2023
+2023-04-16,machine learning,4,carreiras,2023
+2023-04-23,machine learning,4,carreiras,2023
+2023-04-30,machine learning,4,carreiras,2023
+2023-05-07,machine learning,4,carreiras,2023
+2023-05-14,machine learning,4,carreiras,2023
+2023-05-21,machine learning,4,carreiras,2023
+2023-05-28,machine learning,5,carreiras,2023
+2023-06-04,machine learning,4,carreiras,2023
+2023-06-11,machine learning,4,carreiras,2023
+2023-06-18,machine learning,4,carreiras,2023
+2023-06-25,machine learning,4,carreiras,2023
+2023-07-02,machine learning,4,carreiras,2023
+2023-07-09,machine learning,5,carreiras,2023
+2023-07-16,machine learning,4,carreiras,2023
+2023-07-23,machine learning,4,carreiras,2023
+2023-07-30,machine learning,4,carreiras,2023
+2023-08-06,machine learning,4,carreiras,2023
+2023-08-13,machine learning,4,carreiras,2023
+2023-08-20,machine learning,4,carreiras,2023
+2023-08-27,machine learning,5,carreiras,2023
+2023-09-03,machine learning,4,carreiras,2023
+2023-09-10,machine learning,4,carreiras,2023
+2023-09-17,machine learning,4,carreiras,2023
+2023-09-24,machine learning,4,carreiras,2023
+2023-10-01,machine learning,4,carreiras,2023
+2023-10-08,machine learning,4,carreiras,2023
+2023-10-15,machine learning,5,carreiras,2023
+2023-10-22,machine learning,4,carreiras,2023
+2023-10-29,machine learning,4,carreiras,2023
+2023-11-05,machine learning,4,carreiras,2023
+2023-11-12,machine learning,4,carreiras,2023
+2023-11-19,machine learning,4,carreiras,2023
+2023-11-26,machine learning,4,carreiras,2023
+2023-12-03,machine learning,4,carreiras,2023
+2023-12-10,machine learning,4,carreiras,2023
+2023-12-17,machine learning,3,carreiras,2023
+2023-12-24,machine learning,3,carreiras,2023
+2023-12-31,machine learning,3,carreiras,2023
+2024-01-07,machine learning,4,carreiras,2024
+2024-01-14,machine learning,4,carreiras,2024
+2024-01-21,machine learning,4,carreiras,2024
+2024-01-28,machine learning,4,carreiras,2024
+2024-02-04,machine learning,5,carreiras,2024
+2024-02-11,machine learning,4,carreiras,2024
+2024-02-18,machine learning,5,carreiras,2024
+2024-02-25,machine learning,5,carreiras,2024
+2024-03-03,machine learning,5,carreiras,2024
+2024-03-10,machine learning,5,carreiras,2024
+2024-03-17,machine learning,5,carreiras,2024
+2024-03-24,machine learning,5,carreiras,2024
+2024-03-31,machine learning,5,carreiras,2024
+2024-04-07,machine learning,5,carreiras,2024
+2024-04-14,machine learning,5,carreiras,2024
+2024-04-21,machine learning,5,carreiras,2024
+2024-04-28,machine learning,5,carreiras,2024
+2024-05-05,machine learning,5,carreiras,2024
+2024-05-12,machine learning,5,carreiras,2024
+2024-05-19,machine learning,5,carreiras,2024
+2024-05-26,machine learning,5,carreiras,2024
+2024-06-02,machine learning,5,carreiras,2024
+2024-06-09,machine learning,5,carreiras,2024
+2024-06-16,machine learning,5,carreiras,2024
+2024-06-23,machine learning,6,carreiras,2024
+2024-06-30,machine learning,5,carreiras,2024
+2024-07-07,machine learning,4,carreiras,2024
+2024-07-14,machine learning,5,carreiras,2024
+2024-07-21,machine learning,4,carreiras,2024
+2024-07-28,machine learning,5,carreiras,2024
+2024-08-04,machine learning,4,carreiras,2024
+2024-08-11,machine learning,5,carreiras,2024
+2024-08-18,machine learning,5,carreiras,2024
+2024-08-25,machine learning,5,carreiras,2024
+2024-09-01,machine learning,5,carreiras,2024
+2024-09-08,machine learning,6,carreiras,2024
+2024-09-15,machine learning,5,carreiras,2024
+2024-09-22,machine learning,5,carreiras,2024
+2024-09-29,machine learning,5,carreiras,2024
+2024-10-06,machine learning,5,carreiras,2024
+2024-10-13,machine learning,5,carreiras,2024
+2024-10-20,machine learning,5,carreiras,2024
+2024-10-27,machine learning,5,carreiras,2024
+2024-11-03,machine learning,5,carreiras,2024
+2024-11-10,machine learning,5,carreiras,2024
+2024-11-17,machine learning,5,carreiras,2024
+2024-11-24,machine learning,5,carreiras,2024
+2024-12-01,machine learning,5,carreiras,2024
+2024-12-08,machine learning,5,carreiras,2024
+2024-12-15,machine learning,4,carreiras,2024
+2024-12-22,machine learning,3,carreiras,2024
+2024-12-29,machine learning,3,carreiras,2024
+2020-12-27,inteligencia artificial,3,carreiras,2020
+2021-01-03,inteligencia artificial,4,carreiras,2021
+2021-01-10,inteligencia artificial,3,carreiras,2021
+2021-01-17,inteligencia artificial,3,carreiras,2021
+2021-01-24,inteligencia artificial,3,carreiras,2021
+2021-01-31,inteligencia artificial,3,carreiras,2021
+2021-02-07,inteligencia artificial,3,carreiras,2021
+2021-02-14,inteligencia artificial,3,carreiras,2021
+2021-02-21,inteligencia artificial,3,carreiras,2021
+2021-02-28,inteligencia artificial,3,carreiras,2021
+2021-03-07,inteligencia artificial,3,carreiras,2021
+2021-03-14,inteligencia artificial,3,carreiras,2021
+2021-03-21,inteligencia artificial,4,carreiras,2021
+2021-03-28,inteligencia artificial,3,carreiras,2021
+2021-04-04,inteligencia artificial,5,carreiras,2021
+2021-04-11,inteligencia artificial,4,carreiras,2021
+2021-04-18,inteligencia artificial,4,carreiras,2021
+2021-04-25,inteligencia artificial,4,carreiras,2021
+2021-05-02,inteligencia artificial,3,carreiras,2021
+2021-05-09,inteligencia artificial,4,carreiras,2021
+2021-05-16,inteligencia artificial,4,carreiras,2021
+2021-05-23,inteligencia artificial,4,carreiras,2021
+2021-05-30,inteligencia artificial,3,carreiras,2021
+2021-06-06,inteligencia artificial,3,carreiras,2021
+2021-06-13,inteligencia artificial,4,carreiras,2021
+2021-06-20,inteligencia artificial,3,carreiras,2021
+2021-06-27,inteligencia artificial,3,carreiras,2021
+2021-07-04,inteligencia artificial,3,carreiras,2021
+2021-07-11,inteligencia artificial,3,carreiras,2021
+2021-07-18,inteligencia artificial,3,carreiras,2021
+2021-07-25,inteligencia artificial,3,carreiras,2021
+2021-08-01,inteligencia artificial,3,carreiras,2021
+2021-08-08,inteligencia artificial,3,carreiras,2021
+2021-08-15,inteligencia artificial,3,carreiras,2021
+2021-08-22,inteligencia artificial,4,carreiras,2021
+2021-08-29,inteligencia artificial,3,carreiras,2021
+2021-09-05,inteligencia artificial,3,carreiras,2021
+2021-09-12,inteligencia artificial,4,carreiras,2021
+2021-09-19,inteligencia artificial,4,carreiras,2021
+2021-09-26,inteligencia artificial,4,carreiras,2021
+2021-10-03,inteligencia artificial,3,carreiras,2021
+2021-10-10,inteligencia artificial,4,carreiras,2021
+2021-10-17,inteligencia artificial,3,carreiras,2021
+2021-10-24,inteligencia artificial,4,carreiras,2021
+2021-10-31,inteligencia artificial,3,carreiras,2021
+2021-11-07,inteligencia artificial,4,carreiras,2021
+2021-11-14,inteligencia artificial,3,carreiras,2021
+2021-11-21,inteligencia artificial,4,carreiras,2021
+2021-11-28,inteligencia artificial,4,carreiras,2021
+2021-12-05,inteligencia artificial,3,carreiras,2021
+2021-12-12,inteligencia artificial,3,carreiras,2021
+2021-12-19,inteligencia artificial,3,carreiras,2021
+2021-12-26,inteligencia artificial,2,carreiras,2021
+2022-01-02,inteligencia artificial,3,carreiras,2022
+2022-01-09,inteligencia artificial,3,carreiras,2022
+2022-01-16,inteligencia artificial,3,carreiras,2022
+2022-01-23,inteligencia artificial,3,carreiras,2022
+2022-01-30,inteligencia artificial,3,carreiras,2022
+2022-02-06,inteligencia artificial,4,carreiras,2022
+2022-02-13,inteligencia artificial,5,carreiras,2022
+2022-02-20,inteligencia artificial,4,carreiras,2022
+2022-02-27,inteligencia artificial,4,carreiras,2022
+2022-03-06,inteligencia artificial,4,carreiras,2022
+2022-03-13,inteligencia artificial,4,carreiras,2022
+2022-03-20,inteligencia artificial,5,carreiras,2022
+2022-03-27,inteligencia artificial,5,carreiras,2022
+2022-04-03,inteligencia artificial,5,carreiras,2022
+2022-04-10,inteligencia artificial,4,carreiras,2022
+2022-04-17,inteligencia artificial,4,carreiras,2022
+2022-04-24,inteligencia artificial,5,carreiras,2022
+2022-05-01,inteligencia artificial,5,carreiras,2022
+2022-05-08,inteligencia artificial,5,carreiras,2022
+2022-05-15,inteligencia artificial,5,carreiras,2022
+2022-05-22,inteligencia artificial,5,carreiras,2022
+2022-05-29,inteligencia artificial,6,carreiras,2022
+2022-06-05,inteligencia artificial,5,carreiras,2022
+2022-06-12,inteligencia artificial,6,carreiras,2022
+2022-06-19,inteligencia artificial,5,carreiras,2022
+2022-06-26,inteligencia artificial,5,carreiras,2022
+2022-07-03,inteligencia artificial,4,carreiras,2022
+2022-07-10,inteligencia artificial,3,carreiras,2022
+2022-07-17,inteligencia artificial,3,carreiras,2022
+2022-07-24,inteligencia artificial,4,carreiras,2022
+2022-07-31,inteligencia artificial,4,carreiras,2022
+2022-08-07,inteligencia artificial,4,carreiras,2022
+2022-08-14,inteligencia artificial,5,carreiras,2022
+2022-08-21,inteligencia artificial,6,carreiras,2022
+2022-08-28,inteligencia artificial,4,carreiras,2022
+2022-09-04,inteligencia artificial,4,carreiras,2022
+2022-09-11,inteligencia artificial,4,carreiras,2022
+2022-09-18,inteligencia artificial,4,carreiras,2022
+2022-09-25,inteligencia artificial,5,carreiras,2022
+2022-10-02,inteligencia artificial,4,carreiras,2022
+2022-10-09,inteligencia artificial,4,carreiras,2022
+2022-10-16,inteligencia artificial,5,carreiras,2022
+2022-10-23,inteligencia artificial,4,carreiras,2022
+2022-10-30,inteligencia artificial,4,carreiras,2022
+2022-11-06,inteligencia artificial,5,carreiras,2022
+2022-11-13,inteligencia artificial,5,carreiras,2022
+2022-11-20,inteligencia artificial,5,carreiras,2022
+2022-11-27,inteligencia artificial,24,carreiras,2022
+2022-12-04,inteligencia artificial,9,carreiras,2022
+2022-12-11,inteligencia artificial,8,carreiras,2022
+2022-12-18,inteligencia artificial,6,carreiras,2022
+2022-12-25,inteligencia artificial,5,carreiras,2022
+2023-01-01,inteligencia artificial,7,carreiras,2023
+2023-01-08,inteligencia artificial,8,carreiras,2023
+2023-01-15,inteligencia artificial,11,carreiras,2023
+2023-01-22,inteligencia artificial,13,carreiras,2023
+2023-01-29,inteligencia artificial,19,carreiras,2023
+2023-02-05,inteligencia artificial,19,carreiras,2023
+2023-02-12,inteligencia artificial,17,carreiras,2023
+2023-02-19,inteligencia artificial,17,carreiras,2023
+2023-02-26,inteligencia artificial,18,carreiras,2023
+2023-03-05,inteligencia artificial,18,carreiras,2023
+2023-03-12,inteligencia artificial,20,carreiras,2023
+2023-03-19,inteligencia artificial,23,carreiras,2023
+2023-03-26,inteligencia artificial,29,carreiras,2023
+2023-04-02,inteligencia artificial,29,carreiras,2023
+2023-04-09,inteligencia artificial,26,carreiras,2023
+2023-04-16,inteligencia artificial,25,carreiras,2023
+2023-04-23,inteligencia artificial,23,carreiras,2023
+2023-04-30,inteligencia artificial,25,carreiras,2023
+2023-05-07,inteligencia artificial,28,carreiras,2023
+2023-05-14,inteligencia artificial,27,carreiras,2023
+2023-05-21,inteligencia artificial,31,carreiras,2023
+2023-05-28,inteligencia artificial,32,carreiras,2023
+2023-06-04,inteligencia artificial,26,carreiras,2023
+2023-06-11,inteligencia artificial,27,carreiras,2023
+2023-06-18,inteligencia artificial,29,carreiras,2023
+2023-06-25,inteligencia artificial,31,carreiras,2023
+2023-07-02,inteligencia artificial,75,carreiras,2023
+2023-07-09,inteligencia artificial,100,carreiras,2023
+2023-07-16,inteligencia artificial,39,carreiras,2023
+2023-07-23,inteligencia artificial,30,carreiras,2023
+2023-07-30,inteligencia artificial,28,carreiras,2023
+2023-08-06,inteligencia artificial,30,carreiras,2023
+2023-08-13,inteligencia artificial,30,carreiras,2023
+2023-08-20,inteligencia artificial,28,carreiras,2023
+2023-08-27,inteligencia artificial,30,carreiras,2023
+2023-09-03,inteligencia artificial,29,carreiras,2023
+2023-09-10,inteligencia artificial,29,carreiras,2023
+2023-09-17,inteligencia artificial,28,carreiras,2023
+2023-09-24,inteligencia artificial,27,carreiras,2023
+2023-10-01,inteligencia artificial,30,carreiras,2023
+2023-10-08,inteligencia artificial,23,carreiras,2023
+2023-10-15,inteligencia artificial,28,carreiras,2023
+2023-10-22,inteligencia artificial,36,carreiras,2023
+2023-10-29,inteligencia artificial,36,carreiras,2023
+2023-11-05,inteligencia artificial,33,carreiras,2023
+2023-11-12,inteligencia artificial,30,carreiras,2023
+2023-11-19,inteligencia artificial,30,carreiras,2023
+2023-11-26,inteligencia artificial,35,carreiras,2023
+2023-12-03,inteligencia artificial,27,carreiras,2023
+2023-12-10,inteligencia artificial,23,carreiras,2023
+2023-12-17,inteligencia artificial,20,carreiras,2023
+2023-12-24,inteligencia artificial,20,carreiras,2023
+2023-12-31,inteligencia artificial,20,carreiras,2023
+2024-01-07,inteligencia artificial,22,carreiras,2024
+2024-01-14,inteligencia artificial,23,carreiras,2024
+2024-01-21,inteligencia artificial,23,carreiras,2024
+2024-01-28,inteligencia artificial,24,carreiras,2024
+2024-02-04,inteligencia artificial,24,carreiras,2024
+2024-02-11,inteligencia artificial,22,carreiras,2024
+2024-02-18,inteligencia artificial,30,carreiras,2024
+2024-02-25,inteligencia artificial,30,carreiras,2024
+2024-03-03,inteligencia artificial,30,carreiras,2024
+2024-03-10,inteligencia artificial,33,carreiras,2024
+2024-03-17,inteligencia artificial,33,carreiras,2024
+2024-03-24,inteligencia artificial,30,carreiras,2024
+2024-03-31,inteligencia artificial,32,carreiras,2024
+2024-04-07,inteligencia artificial,34,carreiras,2024
+2024-04-14,inteligencia artificial,31,carreiras,2024
+2024-04-21,inteligencia artificial,29,carreiras,2024
+2024-04-28,inteligencia artificial,27,carreiras,2024
+2024-05-05,inteligencia artificial,26,carreiras,2024
+2024-05-12,inteligencia artificial,29,carreiras,2024
+2024-05-19,inteligencia artificial,30,carreiras,2024
+2024-05-26,inteligencia artificial,27,carreiras,2024
+2024-06-02,inteligencia artificial,30,carreiras,2024
+2024-06-09,inteligencia artificial,30,carreiras,2024
+2024-06-16,inteligencia artificial,30,carreiras,2024
+2024-06-23,inteligencia artificial,26,carreiras,2024
+2024-06-30,inteligencia artificial,27,carreiras,2024
+2024-07-07,inteligencia artificial,26,carreiras,2024
+2024-07-14,inteligencia artificial,22,carreiras,2024
+2024-07-21,inteligencia artificial,23,carreiras,2024
+2024-07-28,inteligencia artificial,23,carreiras,2024
+2024-08-04,inteligencia artificial,26,carreiras,2024
+2024-08-11,inteligencia artificial,30,carreiras,2024
+2024-08-18,inteligencia artificial,31,carreiras,2024
+2024-08-25,inteligencia artificial,31,carreiras,2024
+2024-09-01,inteligencia artificial,31,carreiras,2024
+2024-09-08,inteligencia artificial,31,carreiras,2024
+2024-09-15,inteligencia artificial,29,carreiras,2024
+2024-09-22,inteligencia artificial,29,carreiras,2024
+2024-09-29,inteligencia artificial,27,carreiras,2024
+2024-10-06,inteligencia artificial,26,carreiras,2024
+2024-10-13,inteligencia artificial,28,carreiras,2024
+2024-10-20,inteligencia artificial,31,carreiras,2024
+2024-10-27,inteligencia artificial,35,carreiras,2024
+2024-11-03,inteligencia artificial,28,carreiras,2024
+2024-11-10,inteligencia artificial,26,carreiras,2024
+2024-11-17,inteligencia artificial,26,carreiras,2024
+2024-11-24,inteligencia artificial,25,carreiras,2024
+2024-12-01,inteligencia artificial,24,carreiras,2024
+2024-12-08,inteligencia artificial,24,carreiras,2024
+2024-12-15,inteligencia artificial,21,carreiras,2024
+2024-12-22,inteligencia artificial,17,carreiras,2024
+2024-12-29,inteligencia artificial,17,carreiras,2024
