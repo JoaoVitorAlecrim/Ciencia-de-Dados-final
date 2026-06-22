@@ -12,10 +12,10 @@ Cada integrante deve seguir os passos abaixo para commitar a sua parte no reposi
    git config --global user.name "Seu Nome"
    git config --global user.email "seu@email.com"
    ```
-3. Clone o repositório (peça o link ao João Vitor):
+3. Clone o repositório:
    ```bash
-   git clone https://github.com/usuario/nome-do-repositorio.git
-   cd nome-do-repositorio
+   git clone https://github.com/JoaoVitorAlecrim/Ciencia-de-Dados-teste
+   cd Ciencia-de-Dados-Teste
    ```
 
 ---
