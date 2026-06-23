@@ -104,22 +104,23 @@ quarto render relatorio.qmd
 
 ---
 
-## Identificação do grupo (preencham)
+## Identificação do grupo
 
-**Nome do grupo:**
+**Nome do grupo:** Grupo 4
 
-**Tema / pergunta de pesquisa:**
+**Tema / pergunta de pesquisa:** O que os profissionais de dados brasileiros usam vs. o que os brasileiros buscam online? Análise comparativa entre State of Data Brazil e Google Trends (2021–2024).
 
-**Base externa escolhida (fonte + método de coleta):**
+**Base externa escolhida (fonte + método de coleta):** Google Trends — coletado via API pública (biblioteca `pytrends`) sem autenticação, cobrindo 15 termos de tecnologia/dados em 4 grupos, por ano e por estado brasileiro.
 
 **Integrantes:**
 
 | Nome | Matrícula | E-mail institucional | Usuário GitHub |
 |------|-----------|----------------------|----------------|
-|      |           |                      |                |
-|      |           |                      |                |
-|      |           |                      |                |
+| Bryan Barros | 22303960 | bryan.barrosa@sempreceub.com | olanyann |
+| Fabio Fatureto | 22453055 | fabio.fatureto@sempreceub.com | FabioFatureto |
+| João Vitor Morais | 22307814 | alecrimjoaovitor@sempreceub.com | JoaoVitorAlecrim |
+| Pedro Vinícius | 22306217 | pedro.vn36@sempreceub.com | pedrodris |
 
-**Modelo(s) de RI utilizado(s):**
+**Modelo(s) de RI utilizado(s):** TF-IDF com similaridade de cosseno (scikit-learn), aplicado sobre perfis de profissionais de dados por estado para busca por similaridade.
 
-**Resumo do projeto (3–5 linhas):**
+**Resumo do projeto (3–5 linhas):** O projeto integra o State of Data Brazil (2021–2024) com dados do Google Trends para comparar o comportamento real de profissionais de dados com o interesse online da população brasileira. Após consolidar 17.426 respondentes em um único parquet e coletar dados de 15 termos tecnológicos por estado e ano via pytrends, as bases foram integradas em 95 pares UF×ano. Um modelo TF-IDF permite buscar perfis de estados por similaridade. As análises revelam que Python domina a adoção real, mas com correlação fraca (r = 0.28) com o interesse online — sugerindo que a popularidade no mercado de trabalho nem sempre reflete o interesse do público geral.
